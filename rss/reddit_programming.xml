@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 09 Apr 2024 06:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 07:13:07 GMT</lastBuildDate>
+    <item>
+      <title>统一函数调用语法</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzlrn7/uniform_function_call_syntax/</link>
+      <description><![CDATA[ 由   提交/u/bouffy_hairdo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzlrn7/uniform_function_call_syntax/</guid>
+      <pubDate>Tue, 09 Apr 2024 06:58:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>负载平衡：微批处理的力量</title>
+      <link>https://www.reddit.com/r/programming/comments/1bzli9y/load_balancing_the_power_of_microbatching/</link>
+      <description><![CDATA[ 由   提交/u/NewDamage5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bzli9y/load_balancing_the_power_of_microbatching/</guid>
+      <pubDate>Tue, 09 Apr 2024 06:40:39 GMT</pubDate>
+    </item>
     <item>
       <title>使用 AI Studio 动手实践 Gemini 1.5 Pro：图像、视频、文本和代码</title>
       <link>https://www.reddit.com/r/programming/comments/1bzj42k/handson_gemini_15_pro_with_ai_studio_images_video/</link>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 09 Apr 2024 01:33:18 GMT</pubDate>
     </item>
     <item>
-      <title>虚幻引擎的 Verse 语言更新 |游戏开发者大会 2024</title>
+      <title>虚幻引擎的诗句语言更新 |游戏开发者大会 2024</title>
       <link>https://www.reddit.com/r/programming/comments/1bzfnr3/unreal_engines_verse_language_update_gdc_2024/</link>
       <description><![CDATA[ 由   提交/u/Atulin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bzfnr3/unreal_engines_verse_language_update_gdc_2024/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/__tosh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bz73dm/can_llms_test_a_go_function_that_does_nothing/</guid>
       <pubDate>Mon, 08 Apr 2024 19:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Neon Postgres 和 AWS App Runner 部署无服务器 FastAPI 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz68jg/deploy_a_serverless_fastapi_app_with_neon/</link>
-      <description><![CDATA[ 由   提交/u/siegerts  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz68jg/deploy_a_serverless_fastapi_app_with_neon/</guid>
-      <pubDate>Mon, 08 Apr 2024 19:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PostgreSQL 和 Gemini 在 Go 中为表格数据构建 RAG</title>
-      <link>https://www.reddit.com/r/programming/comments/1bz62cv/building_a_rag_for_tabular_data_in_go_with/</link>
-      <description><![CDATA[ 由   提交/u/pgaleone  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bz62cv/building_a_rag_for_tabular_data_in_go_with/</guid>
-      <pubDate>Mon, 08 Apr 2024 18:57:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
