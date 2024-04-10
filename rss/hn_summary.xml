@@ -4,12 +4,52 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 00:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 01:21:32 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] Cox Communications 正在向最高法院提起反盗版责任的诉讼 [...]</title>
+      <link>https://t.me/hn_summary/83791</link>
+      <description><![CDATA[考克斯计划向最高法院提起盗版责任之战
+在弗吉尼亚州陪审团裁定考克斯通信公司对其盗版用户负责后，考克斯通信公司正在向最高法院提起反盗版责任的诉讼。 10 亿美元的损害赔偿金已被撤销，新的审判将确定损害赔偿的规模。考克斯认为，互联网服务提供商不应对其用户的行为承担责任，因为无辜的人可能会失去互联网访问权限。最高法院的上诉可以澄清服务何时可以对侵权者承担责任，这对互联网服务提供商和公众可能产生影响。这场法律斗争仍在继续，考克斯的请愿书将于 2024 年到期。]]></description>
+      <guid>https://t.me/hn_summary/83791</guid>
+      <pubDate>Wed, 10 Apr 2024 01:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]美国隐私权法案是一项全面的立法草案，旨在给予 [...]</title>
+      <link>https://t.me/hn_summary/83790</link>
+      <description><![CDATA[美国隐私权法案
+《美国隐私权法案》是一项全面的立法草案，旨在赋予美国人基本的数据隐私权，消除各州法律的拼凑，并建立强有力的执行机制。这项由主席凯西·麦克莫里斯·罗杰斯 (Cathy McMorris Rodgers) 和主席玛丽亚·坎特威尔 (Maria Cantwell) 领导的两党两院努力制定了明确的国家数据隐私权和保护措施，允许个人控制自己的个人信息。该法案还重点防止大型科技公司在未经同意的情况下跟踪和操纵人们的行为。它使个人能够行使自己的隐私权，防止歧视，并建立强有力的数据安全义务。不出售个人信息的小型企业不受这些要求的约束。]]></description>
+      <guid>https://t.me/hn_summary/83790</guid>
+      <pubDate>Wed, 10 Apr 2024 01:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]粒子物理的标准模型是一个复杂的方程，描述了正确的[...]</title>
+      <link>https://t.me/hn_summary/83789</link>
+      <description><![CDATA[解构的标准模型方程
+粒子物理的标准模型是一个复杂的方程，描述了宇宙中粒子的属性和相互作用。该方程最初不是表格形式，现在通常被可视化为类似于元素周期表的表格。该方程以拉格朗日形式编写，这是一种简洁有效的理论表达方式。该方程分为多个部分，涵盖了不同类型粒子（包括玻色子和物质粒子）之间的相互作用。有争议的是，该方程假设中微子没有质量，这与最近的发现相矛盾。该方程还包括称为幽灵的虚拟粒子，以消除量子力学中的冗余。]]></description>
+      <guid>https://t.me/hn_summary/83789</guid>
+      <pubDate>Wed, 10 Apr 2024 01:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 摩根大通 (JPMorgan Chase) 首席执行官杰米·戴蒙 (Jamie Dimon) 以管理严格、拥有超过 24 名员工而闻名。</title>
+      <link>https://t.me/hn_summary/83788</link>
+      <description><![CDATA[杰米·戴蒙 (Jamie Dimon) 经营摩根大通时采用了名为“OODA”的军事策略循环&#39;
+摩根大通 (JPMorgan Chase) 首席执行官杰米·戴蒙 (Jamie Dimon) 以管理严密而闻名，拥有超过 24 万名员工和 32 万亿美元的资产需要保护。他的领导风格包括分析一系列经济结果并为任何情况做好准备，这是他从军方学到的一种策略，称为“OODA 循环”。戴蒙强调观察、评估和持续决策的重要性。他还摒弃了企业术语，更愿意与团队一起工作并以身作则。戴蒙坦率而务实的领导方式使他在企业界脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/83788</guid>
+      <pubDate>Wed, 10 Apr 2024 01:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 该项目旨在使用 [...] 将 Java Plain Old Java 对象 (POJO) 转换为 Zod 模式</title>
+      <link>https://t.me/hn_summary/83787</link>
+      <description><![CDATA[显示 HN：将 Java POJO 转换为 Zod 架构&lt; br/&gt;
+该项目旨在使用 JSR-380 注释来指定约束，将 Java Plain Old Java 对象 (POJO) 转换为 Zod 模式。目的是编写一次架构并将其用于前端和后端验证。该项目的独特之处在于提供了一个从 Java 类生成 Zod 模式的插件，允许在 Java 和 JavaScript 环境中进行无缝验证。它支持用于定义约束的各种注释，并提供用于定制的配置选项。该项目还强调了与 typescript-generator 的兼容性，并共享类似的扫描类配置选项。]]></description>
+      <guid>https://t.me/hn_summary/83787</guid>
+      <pubDate>Wed, 10 Apr 2024 01:02:17 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Apple Watch 9 表现得很奇怪 – 这是一个错误吗？</title>
       <link>https://t.me/hn_summary/83786</link>
       <description><![CDATA[我的 Apple Watch 9 表现得很奇怪 – 这是一个错误吗？&lt; /a&gt;
-我的 Apple Watch 9 突然开始出现异常，触发手机上的“查找我的”功能，并在手表上随机打开和关闭应用程序。它甚至最终拨打了 911，跌倒检测警报器响起。将其放在充电器上并重新启动后，我就可以获得新的更新。这也是其他人也遇到过的一个令人担忧的问题，我希望苹果尽快解决这个问题。在经历了这次意想不到的令人震惊的经历后，我现在正在犹豫是否要戴手表。]]></description>
+我的 Apple Watch 9 突然开始出现异常，触发手机上的“查找我的”功能，并在手表上随机打开和关闭应用程序。它甚至最终拨打了 911，跌倒检测警报器响起。将其放在充电器上并重新启动后，我就可以获得新的更新。这也是其他人也遇到过的一个令人担忧的问题，我希望苹果尽快解决这个问题。在经历了这次意想不到的令人震惊的经历之后，我现在正在犹豫是否要戴手表。]]></description>
       <guid>https://t.me/hn_summary/83786</guid>
       <pubDate>Wed, 10 Apr 2024 00:32:06 GMT</pubDate>
     </item>
@@ -17,7 +57,7 @@
       <title>[媒体]Mozilla 一直致力于简化其核心产品 Firefo [...]</title>
       <link>https://t.me/hn_summary/83785</link>
       <description><![CDATA[Firefox 即将引入选项卡分组功能
-在最近裁员和新任首席执行官劳拉·钱伯斯 (Laura Chambers) 上任后，Mozilla 一直专注于精简其核心产品 Firefox 网络浏览器的工作。与 Chrome 提供的功能类似，选项卡组是一项人们长期要求的功能，经过一番新的努力，它已经占据了中心舞台，最终可能会在 Firefox 中提供该功能。社区成员一直倡导此功能，CEO 已将其作为开发团队的优先工作。此功能对于 Firefox 保持与其他浏览器的竞争力并为用户提供熟悉且高效的浏览体验非常重要。虽然目前还没有具体的发布日期，但用户预计标签组将在不久的将来在 Firefox 上首次亮相。]]></description>
+在最近裁员和新任首席执行官劳拉·钱伯斯 (Laura Chambers) 上任后，Mozilla 一直专注于精简其核心产品 Firefox 网络浏览器的工作。与 Chrome 提供的功能类似，选项卡组是一项人们长期要求的功能，经过一番新的努力，它已经占据了中心舞台，最终可能会在 Firefox 中提供。社区成员一直倡导此功能，CEO 已将其作为开发团队的优先工作。此功能对于 Firefox 保持与其他浏览器的竞争力并为用户提供熟悉且高效的浏览体验非常重要。虽然目前还没有具体的发布日期，但用户预计标签组将在不久的将来在 Firefox 上首次亮相。]]></description>
       <guid>https://t.me/hn_summary/83785</guid>
       <pubDate>Wed, 10 Apr 2024 00:26:30 GMT</pubDate>
     </item>
@@ -25,7 +65,7 @@
       <title>[媒体] 为什么 Windows 98 安装程序的一部分看起来比其他程序更旧？</title>
       <link>https://t.me/hn_summary/83784</link>
       <description><![CDATA[为什么 Windows 98 安装程序的一部分看起来比其余部分更旧？
-Windows 98 安装程序的一部分看起来比其他程序更旧的原因是它当时运行在 Windows 3.1 下。安装过程分为三个阶段，每个阶段都为下一个阶段安装操作环境，直到安装完成。这种独特的过程可以实现从 Windows 3.1 到 Windows 98 的无缝过渡。许多预装 Windows 98 的 PC 出厂时就处于可供用户进行个性化设置的状态。您可以随时中断安装或在模拟器中安装期间检查映像以查看运行时环境。]]></description>
+Windows 98 安装程序的一部分看起来比其余部分更旧的原因是它当时运行在 Windows 3.1 下。安装过程分为三个阶段，每个阶段都为下一个阶段安装操作环境，直到安装完成。这种独特的过程可以实现从 Windows 3.1 到 Windows 98 的无缝过渡。许多预装 Windows 98 的 PC 出厂时就处于可供用户进行个性化设置的状态。您可以随时中断安装或在模拟器中安装期间检查映像以查看运行时环境。]]></description>
       <guid>https://t.me/hn_summary/83784</guid>
       <pubDate>Wed, 10 Apr 2024 00:25:25 GMT</pubDate>
     </item>
@@ -44,46 +84,6 @@ Windows 98 安装程序的一部分看起来比其他程序更旧的原因是它
 埃隆·马斯克的社交媒体平台 X 已自动更改任何提及“Twitter 的内容。 com”到帖子中的“X.com”在 X for iOS 应用程序上查看，导致混乱和潜在的安全风险。这一有争议的举动引发了人们对网络钓鱼活动和诈骗者利用自动更改的担忧。用户甚至注册了诸如“NetfliTwitter.com”和“ seTwitter.com&quot; 以防止利用。尽管 X 已针对某些受影响的域推出了补丁，但该问题在 iOS 应用程序的 X 上仍然存在。 X 的这一意外失误凸显了未经许可更改用户生成内容的危险。]]></description>
       <guid>https://t.me/hn_summary/83782</guid>
       <pubDate>Tue, 09 Apr 2024 23:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>LXQt 2.0 将首次与 Wayland 特定代码一起发布，但完全兼容 [...]</title>
-      <link>https://t.me/hn_summary/83781</link>
-      <description><![CDATA[LXQt：Wayland 常见问题解答
-LXQt 2.0 将首次与 Wayland 特定代码一起发布，但与 Wayland 的完全兼容将在 LXQt 2.1 中实现。目前，桌面、运行器、通知和大多数面板功能都可以在 Wayland 上运行，一些插件仍在开发中。用户可以在合成器中配置全局快捷方式和屏幕锁定器，并且可以使用一些选项来弥补监视器设置和屏幕截图工具等缺少的功能。推荐的基于 wlroots 的合成器包括 Labwc，以实现与 openbox 设置的稳定性和相似性。在 Wayland 上运行 LXQt 2.0 的要求包括 Qt 6.6 和特定插件。]]></description>
-      <guid>https://t.me/hn_summary/83781</guid>
-      <pubDate>Tue, 09 Apr 2024 23:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在这篇文章中，RyotaK是Flatt Security Inc.的安全工程师。</title>
-      <link>https://t.me/hn_summary/83780</link>
-      <description><![CDATA[BatBadBut：您无法在 Windows 上安全地执行命令
-在本文中，Flatt Security Inc. 的安全工程师 RyotaK 讨论了名为 BatBadBut 的漏洞，该漏洞允许攻击者在间接依赖于 CreateProcess 函数的 Windows 应用程序上执行命令注入。当编程语言无法正确转义 cmd.exe 的命令参数时，就会出现此问题，从而导致潜在的任意命令执行。技术细节深入探讨了漏洞的根本原因、cmd.exe的解析规则以及缓解策略。令人惊讶的是，由于命令提示符的解析和变量扩展行为，即使使用插入符号转义双引号也不足以防止命令注入。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83780</guid>
-      <pubDate>Tue, 09 Apr 2024 22:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]总结：作者分享了使用 Apple Watch Ultra 作为手机的体验 [...]</title>
-      <link>https://t.me/hn_summary/83779</link>
-      <description><![CDATA[使用 Apple Watch Ultra 作为手机替代品一年
-摘要：笔者分享了一年多使用Apple Watch Ultra作为手机替代品的经验。他们讨论了这一决定背后的动机、他们在 iPhone 和 MacBook 上使用的设置，以及他们在遏制网络成瘾方面所经历的好处。他们强调了这种设置的优点和缺点，包括某些应用程序无法在蜂窝网络上运行的限制以及没有摄像头。尽管存在这些挑战，作者还是成功地减少了无意识的滚动并提高了工作效率。他们向苹果生态系统深处的人们推荐这种设置，并开启关于对抗网络成瘾的替代方法的对话。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83779</guid>
-      <pubDate>Tue, 09 Apr 2024 22:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 发布了令人兴奋的消息，他们刚刚发布了 GPT-4-turbo-2024-04-09，具有多种功能 [...]</title>
-      <link>https://t.me/hn_summary/83778</link>
-      <description><![CDATA[OpenAI 发布 GPT-4-turbo-2024-04-09&lt; /a&gt;
-OpenAI 发布了令人兴奋的消息，他们刚刚发布了 GPT-4-turbo-2024-04-09，具有多种具有不同功能和价格点的模型。用户可以选择以每 1M 或 1K 代币为单位查看价格，其中代币代表单词片段。这项创新技术将彻底改变我们与人工智能交互的方式，提供一系列选项来满足不同的需求和预算。准备好体验 GPT-4-turbo-2024-04-09 的强大功能并解锁充满可能性的新世界。]]></description>
-      <guid>https://t.me/hn_summary/83778</guid>
-      <pubDate>Tue, 09 Apr 2024 22:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国宇航局月球勘测轨道飞行器最近捕获了一个神秘物体超速飞行 [...]</title>
-      <link>https://t.me/hn_summary/83777</link>
-      <description><![CDATA[美国宇航局发现物体绕月球飞行
-美国宇航局的月球勘测轨道飞行器最近捕获了一个绕月球飞行的神秘物体，引发了人们的好奇和猜测。然而，据透露，该物体实际上是韩国探路者月球轨道飞行器 Danuri，对 LRO 的图像进行了照片轰炸。这标志着韩国的首次月球任务，展示了令人印象深刻的工程和技术进步。尽管轨道平行，月球勘测轨道飞行器捕获达努里的精确时间凸显了太空探索的复杂性。此外，月球勘测轨道飞行器还取得了重大发现，包括发现坠毁的月球着陆器以及从印度的维克拉姆着陆器上反射激光。这项独特的创新技术不断突破太空探索的界限。]]></description>
-      <guid>https://t.me/hn_summary/83777</guid>
-      <pubDate>Tue, 09 Apr 2024 22:03:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

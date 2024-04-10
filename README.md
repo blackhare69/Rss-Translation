@@ -12,7 +12,7 @@
 
 ## 已转换翻译源
  - source001 [https://www.newyorker.com/feed/everything](https://www.newyorker.com/feed/everything) -> [Newyorker_Everything_rss](rss/Newyorker_Everything_rss.xml)
- - source002 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation](rss/reddit_automation.xml)
+ - source002 [https://rsshub.app/cnbc/rss](https://rsshub.app/cnbc/rss) -> [CNBC](rss/CNBC.xml)
  - source003 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [huggingface_blog](rss/huggingface_blog.xml)
  - source004 [https://www.reddit.com/r/ArtificialInteligence.rss](https://www.reddit.com/r/ArtificialInteligence.rss) -> [reddit_ArtificialInteligence](rss/reddit_ArtificialInteligence.xml)
  - source005 [https://rsshub.app/telegram/channel/AiIndiaJobs](https://rsshub.app/telegram/channel/AiIndiaJobs) -> [AiIndiaJobs](rss/AiIndiaJobs.xml)
