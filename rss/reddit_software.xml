@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 03:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 06:10:44 GMT</lastBuildDate>
+    <item>
+      <title>视频托管服务</title>
+      <link>https://www.reddit.com/r/software/comments/1c20ey0/hosting_service_for_videos/</link>
+      <description><![CDATA[我正在创建一个视频课程平台，我试图找到在线托管视频的最佳方式，因为在 aws 上托管它们会非常昂贵。几个朋友推荐了 vimeo，但随着时间的推移，它变得太贵了。 YouTube 不安全，它会投放广告您会推荐什么？   由   提交 /u/yourdadistalking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c20ey0/hosting_service_for_videos/</guid>
+      <pubDate>Fri, 12 Apr 2024 04:42:26 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌云端硬盘文件</title>
       <link>https://www.reddit.com/r/software/comments/1c1yihh/google_drive_files/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是一名拥有 5 年经验的软件工程师，来自德国，正在寻求新的视野。我在levels.fyi上查了一下，纽约软件工程师的平均收入是16万美元。我一直听说那里的生活成本非常高，所以我的问题是：这里有人住在纽约吗？扣除所有费用后，您月底有多少钱？   由   提交 /u/frandua   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c1iuby/software_eng_in_new_york/</guid>
       <pubDate>Thu, 11 Apr 2024 16:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有Mac软件可以同时输入多个字母来写字？</title>
-      <link>https://www.reddit.com/r/software/comments/1c1i9qd/any_mac_software_to_type_multiple_letters/</link>
-      <description><![CDATA[编辑： 我不是在寻找文本扩展软件，我必须一一键入要扩展的字符。它必须能够像带有修饰符的热键一样一次性输入所有和弦。 我喜欢速记打字通过输入和弦（同时使用多个键）来生成单词的方式，但它有一个巨大的学习曲线因为它的按键布局与 QWERTY 有很大不同。我想保留 QWERTY 布局并能够一次输入多个字母来输出单词。有什么软件可以做到这一点，并且最好能附带一长串带有常用单词的和弦列表？   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c1i9qd/any_mac_software_to_type_multiple_letters/</guid>
-      <pubDate>Thu, 11 Apr 2024 15:41:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,17 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 12 Apr 2024 03:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 06:11:31 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个全自动直销网站</title>
+      <link>https://feed.indiehackers.world/post/9a3230c9f8</link>
+      <description><![CDATA[大家好，
+我是 Stephen，拥有全栈 Web 开发背景。
+我只是想分享 Projek，一个由 t3 堆栈 + cjdropshipping API。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9a3230c9f8</guid>
+      <pubDate>Fri, 12 Apr 2024 05:47:23 GMT</pubDate>
+    </item>
     <item>
       <title>生活仪表板</title>
       <link>https://feed.indiehackers.world/post/32ff6acfea</link>
@@ -156,21 +166,6 @@ StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6cfe3ee40c</guid>
       <pubDate>Wed, 20 Mar 2024 18:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧑‍🚀 我将在下周三发布 - 一页股票报告 📈</title>
-      <link>https://feed.indiehackers.world/post/13b8cc4257</link>
-      <description><![CDATA[大家好🖖
-下周三我将在 Product Hunt 上启动我的第二个项目 🙂
-描述：
-&lt;块引用&gt;
-StockOne.Page 通过提供有关上市公司的简洁的一页报告来简化股票研究。我们的报告概述了关键细节，有助于做出明智的投资决策。 
-
-即将推出页面 👉 https://www.producthunt.com/products/stockone -page-one-pager-for-stocks 
-请按“通知我”如果您对该项目感兴趣🙏
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/13b8cc4257</guid>
-      <pubDate>Wed, 20 Mar 2024 18:16:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
