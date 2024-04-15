@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 03:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:11:21 GMT</lastBuildDate>
+    <item>
+      <title>备份到外部驱动器并进行版本控制</title>
+      <link>https://www.reddit.com/r/software/comments/1c4etjp/backup_to_external_drive_with_versioning/</link>
+      <description><![CDATA[我插入了两个外部驱动器，我想用作备份。我正在寻找能够将电脑上的文件夹同步到驱动器的备份软件，但最好能够进行版本控制。我希望能够将文件回滚到以前的版本。这些是大型二进制文件，因此二进制差异是理想的选择。 如果有没有版本控制的备份软件，那也可以。最好是免费且流行的。   由   提交/u/shiuidu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4etjp/backup_to_external_drive_with_versioning/</guid>
+      <pubDate>Mon, 15 Apr 2024 05:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>协作评级软件</title>
+      <link>https://www.reddit.com/r/software/comments/1c4e888/collaborative_ratings_software/</link>
+      <description><![CDATA[我是一名校长。  我正在寻找一种方法，让教师根据 6 或 7 个关键指标 (1-10) 对学生进行评分。 我还希望学生能够根据相同的指标对自己进行评分，而无需看看老师们之前都做了什么。  我希望学生和老师都能够查找学生，输入他们是学生还是老师，并面对空白的评价。  然后我想查看每个学生的个人资料并比较不同的评分。  我一直在考虑使用 Microsoft access（或者甚至谷歌表单），但我想知道是否有更有用/用户友好的东西。  任何帮助将不胜感激。    由   提交 /u/DigitalDiogenesAus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4e888/collaborative_ratings_software/</guid>
+      <pubDate>Mon, 15 Apr 2024 05:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>艺术文件的文件标记和预览</title>
+      <link>https://www.reddit.com/r/software/comments/1c4dmfj/file_tagging_previewing_for_art_files/</link>
+      <description><![CDATA[大家好！ 我们正在寻找一个可行的解决方案，使我们能够：  &lt; li&gt;在共享网络/VPN 上标记各种艺术文件的内容类型或状态（概念、插图、草图、3D 渲染） 跨 PC 和 Mac 工作 预览静态艺术作品带缩略图 - 主要是 JPG、PNG、PSD 预览渲染的视频内容 - MP4 等 -（显然无法使用 AE 文件） 在不同位置拥有多个具有编辑/预览权限的用户 （很高兴拥有）能够自动执行标记的某些方面，例如识别何时将新艺术品添加到文件夹并提醒艺术家进行标记等  &lt; p&gt;我们希望确保该软件的任何内容都不会真正更改艺术家本身的文件，因此它可能更多地涉及元数据类型的解决方案。 我怀疑可能有单独的工具可以帮助我们实现这一目标，但除了软件包之外，它的某些方面可能更像是一种技术艺术解决方案。但任何人都能为我指明方向，那就太好了。谢谢大家！ :)   由   提交/u/magicalmorag85  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4dmfj/file_tagging_previewing_for_art_files/</guid>
+      <pubDate>Mon, 15 Apr 2024 04:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 WhatChanged 1.07 这样的程序除了更好之外？</title>
+      <link>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</link>
+      <description><![CDATA[我喜欢 WhatChanged，但不幸的是它并不完全是我所需要的.. Whatchanged 旨在快速进行动态分析，因为它不存储关闭后的目录数据！我知道大多数人倾向于活动或实时文件夹跟踪，但我不是 atm，所以不要试图说服我。我基本上想要一个程序（从其中）可以复制/快照我的目录名称，然后存储管理它们，所以它可以与未来的其他快照进行比较..当然，以一种有效的方式确定并指示我发生了什么变化（因为我不想处理分散的文本文件......）实际上我想做的是给出它是一个要扫描的目录，然后将其存储在数据库中，直到下次我想要比较..非常感谢您的帮助！ ❤️❤️👍🏼   由   提交/u/dokha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c4bvvo/a_program_like_whatchanged_107_except_better/</guid>
+      <pubDate>Mon, 15 Apr 2024 03:03:54 GMT</pubDate>
+    </item>
     <item>
       <title>如何打开 .vep 文件？</title>
       <link>https://www.reddit.com/r/software/comments/1c4aw4b/how_do_i_open_vep_files/</link>
@@ -34,7 +62,7 @@
       <pubDate>Sun, 14 Apr 2024 17:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>有什么视频转换软件推荐吗？我想将 avi 文件转换为 mp4。</title>
+      <title>有推荐的视频转换应用程序吗？我想将 avi 文件转换为 mp4。</title>
       <link>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</link>
       <description><![CDATA[ 由   提交 /u/solidprospect   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3ypib/any_video_converting_aps_you_recommend_i_want_to/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>激光扫描和 3D 重建</title>
       <link>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</link>
-      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都可以欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我是 Andre，我是最后一年的硕士生，我正在研究我的最终项目，我的项目包括使用激光在不同位置收集 3D 图像，然后我们必须重建图像。 例如： 我们在不同位置扫描手掌然后完成重新创建一只手的任务。 我的文件采用 .xyz 格式，我需要某种帮助，因为我对此类主题没有经验或知识，任何帮助都将是欢迎。   由   提交/u/thejman0499  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3qr0l/laser_scanning_and_3d_reconstruction/</guid>
       <pubDate>Sun, 14 Apr 2024 10:48:55 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我有一款游戏在我的 Mac 上运行速度非常慢，所以我想知道是否可以将 .app 文件转换为 Windows 上的实际应用程序，但是到目前为止我还没有找到任何东西。   由   提交 /u/DOOMGUY_IS_ETERNAL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c3l5vm/is_it_possible_to_convert_app_files_to_an_actual/</guid>
       <pubDate>Sun, 14 Apr 2024 04:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>符合 HIPAA 标准的记事本？</title>
-      <link>https://www.reddit.com/r/software/comments/1c3a929/hipaa_compliant_note_taker/</link>
-      <description><![CDATA[我想要转录/听写一些报告，但我需要一个符合 hipaa 的软件…最好这个软件有一个应用程序    由   提交 /u/Acrobatic_Window3195   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c3a929/hipaa_compliant_note_taker/</guid>
-      <pubDate>Sat, 13 Apr 2024 19:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有推荐的免费软件可以让我将音频文件转换为视频，并在播放时显示单个静态图像？</title>
-      <link>https://www.reddit.com/r/software/comments/1c39mdz/any_recommendation_for_free_software_that_will/</link>
-      <description><![CDATA[我将非常感谢一个不会因付款请求而让我感到惊讶的人，否则视频将带有水印。    由   提交/u/our_whole_empire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c39mdz/any_recommendation_for_free_software_that_will/</guid>
-      <pubDate>Sat, 13 Apr 2024 19:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于将 ASIO 音频路由回“Windows 音频设备”的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1c39exz/software_for_routing_asio_audio_back_into_windows/</link>
-      <description><![CDATA[我正在使用 Parsec 在连接到另一个房间中运行 DAW (Abelton) 的主机的笔记本电脑客户端上录制音频。我正在使用使用 ASIO（audio id14）的音频接口。不幸的是，从 Parsec 的支持中询问，Parsec 似乎无法拾取任何 ASIO 音频，所以我听不到笔记本电脑上的任何音频，我必须从另一个房间运行耳机才能听到音频。他们是这么说的： “Parsec 只会拾取通过 Windows 播放的音频，而不拾取 ASIO 或类似的音频（因为 Windows 的 API 无法看到该音频来捕获它）”  我对这些东西不是很熟悉，但我认为这可能指的是 Realtek 音频驱动程序（这是我在音频混音器和界面中看到的）。  所以基本上听起来，如果我想从我的笔记本电脑听到音频，我需要某种方法将该音频从 ASIO 路由回 realtek /“windows 音频”。有谁知道我该怎么做？   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c39exz/software_for_routing_asio_audio_back_into_windows/</guid>
-      <pubDate>Sat, 13 Apr 2024 19:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有向公众开放的政府软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</link>
-      <description><![CDATA[嘿r/software！我儿子对军事/国防/警察后勤感兴趣，我想下载一些软件（最好是免费的 Mac 版），看起来会用于跟踪导弹等军事战略。他喜欢感觉自己是国防部或其他部门中非常重要的人物。谢谢！   由   提交/u/Aggravating-Ad7467    reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c36i2k/any_govt_softwares_open_to_the_public/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:56:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
