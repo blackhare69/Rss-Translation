@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:03:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]YouTube 正在更加严厉地打击允许用户跳过广告的第三方应用程序，[...]</title>
-      <link>https://t.me/hn_summary/84819</link>
-      <description><![CDATA[YouTube 加大打击力度，惩罚跳过广告的用户
-继最近打击广告拦截器之后，YouTube 正在更加严厉地打击允许用户跳过广告的第三方应用程序。用户在尝试通过这些应用观看视频时可能会遇到缓冲问题或看到错误消息。 YouTube 强调，这些应用阻止创作者获得观看量奖励，违反了其服务条款。 YouTube Premium 是为用户提供的无广告替代方案。平台将对任何违反 API 服务服务条款的应用采取行动，以保护创作者和查看者。]]></description>
-      <guid>https://t.me/hn_summary/84819</guid>
-      <pubDate>Tue, 16 Apr 2024 15:02:14 GMT</pubDate>
+      <title>作者回顾了 Stratechery 添加订阅选项 10 周年，[...]</title>
+      <link>https://t.me/hn_summary/84928</link>
+      <description><![CDATA[MKBHD 适用于一切
+作者回顾了 Stratechery 添加订阅选项 10 周年，标志着向全职工作的过渡。他们讨论了付费时事通讯模式的演变以及对作家与读者直接联系的影响。作者还深入探讨了围绕 Humane AI Pin 的争议，MKBHD 等技术评论家普遍给予负面评论。他们探讨了拥有大量追随者的创作者的责任以及互联网在塑造媒体和内容分发方面的力量。本文最后对人工智能、智能以及数字时代媒体不断变化的格局提出了见解。 （根据 61% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84928</guid>
+      <pubDate>Wed, 17 Apr 2024 03:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]受到我们对 T 的热爱的启发，我创建了一个每日文字游戏来与我的奶奶玩 [...]</title>
-      <link>https://t.me/hn_summary/84818</link>
-      <description><![CDATA[展示 HN：与我奶奶的日常文字游戏 
-受到我们对电视节目倒计时的喜爱的启发，我创建了一个每日文字游戏来与我的奶奶玩。你可以挑战我真正的奶奶，她前一天也玩过同样的字母。她的分数保存在数据库中供我们尝试并击败。我们使用 Collins 2019 Scrabble 词典作为单词列表。该游戏的灵感来自倒计时和 Dadagrams。立即前往 wordswithgrandma.com 玩！]]></description>
-      <guid>https://t.me/hn_summary/84818</guid>
-      <pubDate>Tue, 16 Apr 2024 14:51:07 GMT</pubDate>
+      <title>[媒体] 让 Windows 95 团队成员保留软件进行测试的税务后果是 [...]</title>
+      <link>https://t.me/hn_summary/84927</link>
+      <description><![CDATA[WIN95 团队成员保留软件进行测试的税务后果&lt; /a&gt;
+让 Windows 95 团队成员保留软件进行测试的税收后果存在争议。根据最低限度规则，它被视为一份礼物，因为它是一次性活动，且软件价值较低。非传统的测试方法旨在建立友情。一个额外的故事揭示了 Wing Commander III 中的一个与 Windows 95 热键冲突的错误，该错误通过调整热键处理程序得到修复。这个巧妙的解决方案允许玩家激活游戏中的隐形装置。争论的焦点在于该软件是否应被视为应税收入或礼物。]]></description>
+      <guid>https://t.me/hn_summary/84927</guid>
+      <pubDate>Wed, 17 Apr 2024 02:55:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]司法部宣布制作露骨的“深度伪造”图像 [...]</title>
-      <link>https://t.me/hn_summary/84817</link>
-      <description><![CDATA[制作露骨的深度伪造图片以在英国冒犯
-英国司法部宣布，制作露骨的“深度伪造”图像很快将在英国被定为犯罪行为。未经同意创建这些图像的人可能会面临犯罪记录、无限罚款，如果图像被共享，甚至可能被判入狱。该立法旨在打击深度伪造图像的侮辱性和非人性化影响，特别是对女性的影响。 《在线安全法》已经将共享此类图像定为犯罪行为，这项新法律将进一步保护个人免受深度造假技术的有害影响。英国《魅力》杂志主编 Deborah Joseph 和影子内政大臣 Yvette Cooper 都支持将深度伪造色情内容定为犯罪的举措。]]></description>
-      <guid>https://t.me/hn_summary/84817</guid>
-      <pubDate>Tue, 16 Apr 2024 14:47:03 GMT</pubDate>
+      <title>发现一个巧妙的技巧，用于优化基于获取和添加的队列，以减少争用和影响 [...]</title>
+      <link>https://t.me/hn_summary/84926</link>
+      <description><![CDATA[基于获取和添加的队列的可爱技巧
+发现优化基于获取和添加的队列的巧妙技巧，以减少争用并提高性能。通过重新排序队列后备数组的遍历，可以最大限度地减少缓存行冲突并提高效率。该技术涉及易于实现且无需对齐的存储虚拟化。此外，通过考虑队列存储的三维结构，您可以进一步优化某些 CPU 上的访问模式。这种创新方法可以适应各种缓存线大小，甚至提供缓存无关的遍历顺序以获得最佳性能。探索这一独特的解决方案，以增强队列操作并减少争用。]]></description>
+      <guid>https://t.me/hn_summary/84926</guid>
+      <pubDate>Wed, 17 Apr 2024 02:52:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TL;DR：Janus 是 Rails ActiveRecord 7.1+ 的读/写 MySQL 代理。</title>
-      <link>https://t.me/hn_summary/84816</link>
-      <description><![CDATA[显示 HN：Janus – Rails 的读/写 MySQL 代理ActiveRecord 7.1
-TL;DR：Janus 是 Rails ActiveRecord 7.1+ 的读/写 MySQL 代理。它将读取查询定向到副本并将写入查询定向到主服务器，从而提高数据库性能。由于 Makara 不再与 Rails 7.1 一起使用而创建，Janus 的部署不会影响指标。 Rails 的内置读/写分割和 ProxySQL 等替代方案也被考虑过，但并不合适。 Janus 易于安装和配置，未来计划切换到 Trilogy 适配器以获得更好的开发人员体验。欢迎用户的反馈和意见。]]></description>
-      <guid>https://t.me/hn_summary/84816</guid>
-      <pubDate>Tue, 16 Apr 2024 14:43:58 GMT</pubDate>
+      <title>[媒体]加拿大 2024 年联邦预算公布了重要的新支出，其中重点包括 [...]</title>
+      <link>https://t.me/hn_summary/84925</link>
+      <description><![CDATA[2024 年加拿大将增加资本利得税&lt; br/&gt;
+加拿大 2024 年联邦预算公布了重大的新支出，包括重点关注住房和负担能力，部分资金由资本利得税改革提供资金。财政部长克里斯蒂亚·弗里兰强调代际公平并承担强大的利益来支持年轻一代。预计将引起争议的预算包括对个人和企业资本利得税的修改，重点是增加收入。预算还包括节省成本的措施，例如出售未充分利用的联邦财产和减少公共服务职位。经济学家对增税规模及其对加拿大央行决策的潜在影响表示惊讶。]]></description>
+      <guid>https://t.me/hn_summary/84925</guid>
+      <pubDate>Wed, 17 Apr 2024 02:43:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 量子劣势，IBM 量子 vs 量子</title>
-      <link>https://t.me/hn_summary/84815</link>
-      <description><![CDATA[量子劣势，IBM 量子与 Commodore 64&lt; br/&gt;
-令人惊讶的是，SIGBOVIK 2024 会议上发表的一篇论文显示，在 IBM“量子实用”实验的模拟中，Commodore 64 能够超越 IBM 的 127 量子位“Eagle”量子处理单元。 “Qommodore 64”项目虽然最初被视为一个笑话，但事实证明它更快、更节能，而且对解决当前的问题相当准确。这对 IBM 的说法提出了挑战，并引发了人们对量子计算机当前功能的质疑。该实验背后的匿名研究人员计划分享他们的源代码，尽管是以非常规的格式。争议和令人惊讶的结果使本书成为复古计算爱好者和 DIY 爱好者的必读之作。]]></description>
-      <guid>https://t.me/hn_summary/84815</guid>
-      <pubDate>Tue, 16 Apr 2024 14:34:51 GMT</pubDate>
+      <title>[媒体] NOAA 的气候科学家警告全球珊瑚礁白化事件，四 [...]</title>
+      <link>https://t.me/hn_summary/84924</link>
+      <description><![CDATA[从佛罗里达到澳大利亚，全球珊瑚白化可能很快就会达到有记录以来最严重的程度
+美国国家海洋和大气管理局的气候科学家警告称，全球珊瑚礁白化事件将发生，这是有记录以来的第四次，也是过去十年中的第二次。前所未有的海洋热浪导致从佛罗里达州到澳大利亚的珊瑚礁变成幽灵般的白色，威胁着海洋物种和当地经济。自 20 世纪 80 年代以来，白化事件的严重程度和频率都有所增加，其中 90% 的全球变暖发生在海洋。由于气候变化，世界海洋的基线温度更高，导致白化现象更加严重和广泛。全球需要采取紧急行动来拯救世界珊瑚礁，以免为时已晚。]]></description>
+      <guid>https://t.me/hn_summary/84924</guid>
+      <pubDate>Wed, 17 Apr 2024 02:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 已向移动广告拦截器宣战，表示使用此类应用程序可能会导致 [...]</title>
-      <link>https://t.me/hn_summary/84814</link>
-      <description><![CDATA[移动广告拦截器将不再阻止 YouTube 广告&lt; br/&gt;
-YouTube 已向移动广告拦截器宣战，指出使用此类应用程序可能会导致缓冲问题和错误消息。该公司强调，广告支持创作者并让数十亿人使用该平台。 YouTube 现在瞄准了 AdGuard 等应用，并推动用户使用 YouTube Premium 以获得无广告体验。此次打击行动是在谷歌报告广告收入下降之后进行的，促使 YouTube 采取了行动。该公司与广告拦截器的斗争已经升级，重点似乎是保护其利润，而不是支持创作者。]]></description>
-      <guid>https://t.me/hn_summary/84814</guid>
-      <pubDate>Tue, 16 Apr 2024 14:23:44 GMT</pubDate>
+      <title>Overture 地图基金会发布了其全球开放地图数据集 pav [...]</title>
+      <link>https://t.me/hn_summary/84923</link>
+      <description><![CDATA[Overture 地图基金会发布其首个开放地图数据集 Beta 版
+Overture Maps Foundation 发布了其全球开放地图数据集的 Beta 版本，为创新地图服务和产品铺平了道路。 Overture 的数据集来自各种来源并采用新模式进行格式化，因此非常稳定并可用于商业用途。 Overture 的独特之处在于其全局实体参考系统，可以轻松地将外部数据附加到底图上。 Meta、Microsoft、Esri 和 TomTom 等主要公司已经将 Overture 数据整合到他们的服务中。 Beta 版本包括独特的基础层，如名胜古迹、建筑物、交通、行政边界和基础层。加入 Overture 社区，在开放地图数据开发方面进行协作。]]></description>
+      <guid>https://t.me/hn_summary/84923</guid>
+      <pubDate>Wed, 17 Apr 2024 02:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人们说他们不想学习如何编程是一个常见的借口，但是 [...]</title>
-      <link>https://t.me/hn_summary/84813</link>
-      <description><![CDATA[不想学习编程的人总能找到不这样做的理由
-人们常说自己不想学习编程，但事实是，他们总能找到不学习的理由。无论是声称自己没有时间、没有兴趣、还是没有能力，总会有借口的。但现实是，只要有适当的资源和支持，任何人都可以学习如何编码。因此，不要让借口阻止您探索这项宝贵的技能。立即启用 JavaScript 并开始您的编码之旅！]]></description>
-      <guid>https://t.me/hn_summary/84813</guid>
-      <pubDate>Tue, 16 Apr 2024 14:20:39 GMT</pubDate>
+      <title>[媒体] 并发为何如此困难？</title>
+      <link>https://t.me/hn_summary/84922</link>
+      <description><![CDATA[是什么让并发如此困难？
+在这篇发人深省的文章中，作者深入研究了计算机科学中并发性的复杂性。虽然许多人将并发的困难归因于人类大脑的局限性，但作者认为人类实际上擅长并发推理。作者认为，真正的挑战在于并发系统中可能的状态呈指数级增长，从而导致巨大而复杂的状态空间。作者提出了缩小状态空间以使并发更易于管理的富有洞察力的策略，强调了管理状态空间以创建可维护的并发系统的重要性。总的来说，作者对并发性的探索揭示了计算机科学这一具有挑战性的方面的复杂本质。]]></description>
+      <guid>https://t.me/hn_summary/84922</guid>
+      <pubDate>Wed, 17 Apr 2024 02:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] NPR 已暂停高级商业编辑 Uri Berliner 的职务，因为他批评该媒体的左翼 [...]</title>
-      <link>https://t.me/hn_summary/84812</link>
-      <description><![CDATA[NPR 暂停以自由派“倡导”撰写“失去美国的信任”的编辑&#39;
-NPR 已暂停高级商业编辑 Uri Berliner 的职务，因为他批评该媒体的左倾“宣传”内容，声称该媒体“失去了美国的信任”。在 Bari Weiss 的自由新闻网站的专栏中，柏林纳对 NPR 转向更加自由主义的偏见表示担忧，称这影响了其新闻业和商业模式。这场争议是在 NPR 新任首席执行官凯瑟琳·马赫 (Katherine Maher) 过去的社交媒体帖子受到批评之际引发的。 Berliner 强调了公正新闻的重要性，并呼吁一位能够团结 NPR 并为 NPR 带来更广阔视角的领导者。]]></description>
-      <guid>https://t.me/hn_summary/84812</guid>
-      <pubDate>Tue, 16 Apr 2024 14:15:34 GMT</pubDate>
+      <title>[媒体] 地球永存</title>
+      <link>https://t.me/hn_summary/84921</link>
+      <description><![CDATA[地球不变
+《地球常驻》是乔治·R·斯图尔特 1949 年创作的一部后世界末日科幻小说，讲述了文明因致命疾病而衰落的故事。主角伊舍伍德·威廉姆斯从隔离中走出来，发现几乎所有人都死了。小说探讨了生物种群控制的主题以及人口减少对世界的影响。故事讲述了伊什试图用新文化和更简单的工具重建社会的故事。该小说荣获国际奇幻奖，被公认为科幻小说类型的经典之作。它深入探讨了人类在后世界末日世界中的生存和进化挑战。 （根据故事文本的 40% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84921</guid>
+      <pubDate>Wed, 17 Apr 2024 01:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，我们探讨了极端产品市场契合 (PMF) 的概念以及它是如何[...]</title>
-      <link>https://t.me/hn_summary/84811</link>
-      <description><![CDATA[产品与市场契合度不是黑匣子 – 一个新框架帮助 B2B 创始人
-在本文中，我们探讨了极端产品市场契合 (PMF) 的概念以及它如何成为 B2B 创始人的最终目标。实现极端 PMF 意味着在定义的目标角色中持续成功地赢得客户，从而提高品牌知名度并更轻松地获取客户。走向极致 PMF 的旅程涉及拓展新市场和新产品，同时保持核心业务的稳定性。本文提供了一个虚构公司 Metriq 的案例研究，以说明 PMF 的维度。它还讨论了扩大 TAM 和反复寻找 PMF 的时机和策略的重要性。该文章强调，创始人需要关注新市场中强大且极端的 PMF，以随着时间的推移实现收入的复合增长。还强调了早期初创企业建设的挑战和不确定性，并呼吁加入旨在支持 B2B 创始人实现 PMF 的计划。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84811</guid>
-      <pubDate>Tue, 16 Apr 2024 14:13:30 GMT</pubDate>
+      <title>[媒体]波音工程师 Sam Salehpour 认为，为了安全起见，所有 787 喷气式飞机都应该停飞 [...]</title>
+      <link>https://t.me/hn_summary/84920</link>
+      <description><![CDATA[波音举报人称 787 机队应该停飞
+波音工程师 Sam Salehpour 认为，由于担心潜在的过早故障，所有 787 喷气式飞机都应该停飞进行安全检查。萨勒普尔在国会作证之前，美国联邦航空局收到了一份投诉，概述了波音公司生产和质量控制流程中存在的严重安全风险。尽管萨勒普尔声称，波音发言人坚称 787 梦想客机是安全的，并且经过了严格的工程检查。围绕萨勒普尔指控的争议将在参议院商务委员会听证会上进一步探讨，航空专家将在听证会上讨论波音的安全文化和改进建议。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/84920</guid>
+      <pubDate>Wed, 17 Apr 2024 00:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此视觉指南探讨了 Vision Transformers (ViT)，这是一种出色的深度学习模型 [...]</title>
-      <link>https://t.me/hn_summary/84810</link>
-      <description><![CDATA[Vision Transformer 视觉指南 – 卷轴故事 
-本视觉指南探讨了视觉变换器 (ViTs)，这是一种深度学习模型，通过应用最初为 NLP 设计的变换器架构，在图像分类方面表现出色。通过逐步分解从数据准备到模型训练的过程，我们揭示了 ViT 如何将图像块转换为嵌入、计算注意力分数并预测分类概率。位置嵌入、多头注意力和残差连接的加入增加了模型的复杂性和效率。虽然 ViT 因其与传统 CNN 的背离而备受争议，但它提供了一种独特的图像分类方法，不断突破深度学习的界限。]]></description>
-      <guid>https://t.me/hn_summary/84810</guid>
-      <pubDate>Tue, 16 Apr 2024 14:06:23 GMT</pubDate>
+      <title>您可以在 news.ycombinator.com 上找到使用 Protobuf 的热门项目列表。</title>
+      <link>https://t.me/hn_summary/84919</link>
+      <description><![CDATA[使用 Protobuf 的热门项目列表
+您可以在 news.ycombinator.com 上找到使用 Protobuf 的热门项目列表。此列表展示了在其系统中成功实现 Protobuf 的各种知名项目。从大型科技公司到开源项目，Protobuf 已被证明是高效数据序列化和通信的宝贵工具。查看列表，了解 Protobuf 在科技行业的应用情况，并为您自己的项目获取灵感。]]></description>
+      <guid>https://t.me/hn_summary/84919</guid>
+      <pubDate>Wed, 17 Apr 2024 00:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
