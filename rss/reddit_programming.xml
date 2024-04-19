@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 19 Apr 2024 12:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 18:08:25 GMT</lastBuildDate>
+    <item>
+      <title>利用人工智能生成微调数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1c82r3l/generating_finetuned_data_with_ai/</link>
+      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c82r3l/generating_finetuned_data_with_ai/</guid>
+      <pubDate>Fri, 19 Apr 2024 17:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 集成测试：确保稳健性和可靠性</title>
+      <link>https://www.reddit.com/r/programming/comments/1c80jyn/api_integration_testing_ensuring_robustness_and/</link>
+      <description><![CDATA[ 由   提交/u/itsrorymurphy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c80jyn/api_integration_testing_ensuring_robustness_and/</guid>
+      <pubDate>Fri, 19 Apr 2024 16:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 正在制作一部 8kb 的《hello world》</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7zjeo/netflix_has_one_8kb_hello_world_on_production/</link>
+      <description><![CDATA[ 由   提交/u/SDcat09  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7zjeo/netflix_has_one_8kb_hello_world_on_production/</guid>
+      <pubDate>Fri, 19 Apr 2024 15:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>38 岁从卡车司机到 Ruby on Rails 开发人员</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7ycaa/from_a_lorry_driver_to_ruby_on_rails_developer_at/</link>
+      <description><![CDATA[ 由   提交/u/software__writer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7ycaa/from_a_lorry_driver_to_ruby_on_rails_developer_at/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何充分利用您的下一次绩效评估</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7y23c/how_to_get_the_most_out_of_your_next_performance/</link>
+      <description><![CDATA[ 由   提交/u/0ff5ec  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7y23c/how_to_get_the_most_out_of_your_next_performance/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 个可显着优化代码的 Python 内置装饰器</title>
+      <link>https://www.reddit.com/r/programming/comments/1c7wpln/9_python_builtin_decorators_that_optimize_your/</link>
+      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c7wpln/9_python_builtin_decorators_that_optimize_your/</guid>
+      <pubDate>Fri, 19 Apr 2024 13:19:21 GMT</pubDate>
+    </item>
     <item>
       <title>我在代码审查过程中忽略的 3 件重要事情</title>
       <link>https://www.reddit.com/r/programming/comments/1c7v8h4/3_important_things_i_overlooked_during_code/</link>
@@ -25,13 +67,6 @@
       <description><![CDATA[ 由   提交/u/utpalnadiger  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c7uxfq/deploying_an_llm_to_aws_using_open_source_tools/</guid>
       <pubDate>Fri, 19 Apr 2024 11:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您从事 IT 工作而不玩电脑游戏，我需要您帮助我解决问题。我以前在这里发过帖子，你帮了我很多（超过 130 条回复），但我仍在寻找不玩游戏的人来进行我的研究。我真的需要你的帮助。非常感谢您抽出宝贵时间！</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7udz3/if_you_work_in_it_and_not_playing_computer_games/</link>
-      <description><![CDATA[ 由   提交/u/Business-Ad-3299   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7udz3/if_you_work_in_it_and_not_playing_computer_games/</guid>
-      <pubDate>Fri, 19 Apr 2024 11:21:47 GMT</pubDate>
     </item>
     <item>
       <title>CSV/公式注入 — Web 应用程序开发人员的安全</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/yimmasabi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c7sahq/rad_studio_121_athens_patch_1_available/</guid>
       <pubDate>Fri, 19 Apr 2024 09:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我 20 年的软件开发方法经验</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7s3l2/my_20year_experience_of_software_development/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7s3l2/my_20year_experience_of_software_development/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的丽笙酒店。我们需要谈谈。您的帐户安全性很糟糕。</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7rt2o/dear_radisson_we_need_to_talk_your_account/</link>
-      <description><![CDATA[ 由   提交/u/allixsenos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7rt2o/dear_radisson_we_need_to_talk_your_account/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>API网关、负载均衡器、反向代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7rnq9/api_gateway_vs_load_balancer_vs_reverse_proxy/</link>
-      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7rnq9/api_gateway_vs_load_balancer_vs_reverse_proxy/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员会失业吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7rd9e/can_a_programmer_be_jobless/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7rd9e/can_a_programmer_be_jobless/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 25 年工程生涯回顾</title>
-      <link>https://www.reddit.com/r/programming/comments/1c7ram8/my_25year_engineering_career_retrospective/</link>
-      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c7ram8/my_25year_engineering_career_retrospective/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:57:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
