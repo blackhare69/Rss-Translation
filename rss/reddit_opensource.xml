@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 12:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 15:06:52 GMT</lastBuildDate>
     <item>
       <title>我构建了一个开源 API 网关来保护前端应用程序中的第三方 API 密钥</title>
       <link>https://www.reddit.com/r/opensource/comments/1c8nmk7/i_built_an_opensource_api_gateway_to_secure/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>圣经经文参考图</title>
       <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
-      <description><![CDATA[大家好。我正在寻找一个 Excel 列表，其中包含每节经文及其中的参考文献。我想用参考创建一个布尔矩阵，然后用游戏引擎将其可视化为 3D。我想要一张圣经参考文献的地图。任何人都知道谁做过这件事，或者也许 smbd 有一个包含每节经文和参考文献的数据库？谢谢！   由   提交/u/Wandering_Wonderer28   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我正在寻找一个包含每节经文及其参考资料的 Excel 列表。我想制作一个带有参考资料的布尔矩阵，然后使用游戏引擎将其以 3D 形式可视化。我想要一张圣经参考资料的地图。有人知道谁做过这个吗，或者 smbd 有一个包含每节经文和参考资料的数据库？谢谢！    提交人    /u/Wandering_Wonderer28   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</guid>
       <pubDate>Fri, 19 Apr 2024 21:32:33 GMT</pubDate>
     </item>
