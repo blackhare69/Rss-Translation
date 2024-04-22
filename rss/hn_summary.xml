@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 08:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 00:34:33 GMT</lastBuildDate>
     <item>
-      <title>每个人都有 JavaScript，对吧？</title>
-      <link>https://t.me/hn_summary/85620</link>
-      <description><![CDATA[每个人都有 JavaScript，对吧？
-当谈到 JavaScript 时，网络充满了惊喜。从阻止脚本的公司防火墙到干扰下载的 ISP，有许多因素会影响您的 JavaScript 是否适用于所有用户。人们仍然关闭 JavaScript，浏览器扩展可能会意外地改变 DOM。 CDN 可能会出现停机，而且并非所有浏览器都支持您编写的 JavaScript。关键是要为任何场景做好准备，并接受渐进式增强，以确保您的 Web 应用程序适合每个人，无论他们的 JavaScript 状态如何。]]></description>
-      <guid>https://t.me/hn_summary/85620</guid>
-      <pubDate>Sun, 21 Apr 2024 08:30:46 GMT</pubDate>
+      <title>[媒体] 泄露的文件暴露了 Loblaws 对小山等日常用品的过高加价 [...]</title>
+      <link>https://t.me/hn_summary/85727</link>
+      <description><![CDATA[以 54% 的利润出售黄油：泄露的文件显示 Loblaws 的加价过高
+泄露的文件揭露了 Loblaws 对黄油和奶酪等日常用品的过高加价，利润率高达 53.75%。这引发了人们对零售定价公平性和透明度的担忧，尤其是在 Metro Inc. 对 Loblaws 采取法律行动后，因为他们错误地暗示他们参与了面包价格操纵阴谋。尽管利润创历史新高，董事长盖伦·韦斯顿仍将高食品价格归咎于杂货供应商，声称降低 Loblaws 的利润率不会降低消费者的成本。该公司还因披露其新任首席执行官 2210 万美元的巨额薪酬方案而面临审查，其中包括 1800 万美元的一次性奖金。]]></description>
+      <guid>https://t.me/hn_summary/85727</guid>
+      <pubDate>Mon, 22 Apr 2024 00:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>h5ai 是一个用于 HTTP Web 服务器的现代文件索引器，可增强 di [...]</title>
-      <link>https://t.me/hn_summary/85619</link>
-      <description><![CDATA[h5ai – 现代 HTTP Web 服务器索引
-h5ai 是一个用于 HTTP Web 服务器的现代文件索引器，它通过吸引人的显示、不同的视图、面包屑和树状概述来增强目录的浏览体验。它最初是为 Apache 服务器设计的，现在也支持其他 Web 服务器。通过可选的扩展和配置选项，用户可以使用文件排序、本地化、缩略图等功能自定义目录列表。安装非常简单，需要 PHP 7.0+ 并与 Apache httpd、lighttpd 和 nginx 兼容。但是，需要注意一些限制和安全注意事项。自定义安装选项允许用户将 h5ai 放置在任何子目录中以增加灵活性。]]></description>
-      <guid>https://t.me/hn_summary/85619</guid>
-      <pubDate>Sun, 21 Apr 2024 08:25:41 GMT</pubDate>
+      <title>[媒体]路易斯安那州立大学因允许石油公司影响[...]而受到批评</title>
+      <link>https://t.me/hn_summary/85726</link>
+      <description><![CDATA[路易斯安那州旗舰大学让石油公司以一定的代价影响研究
+路易斯安那州立大学因允许石油公司影响研究活动以换取巨额捐款而受到批评。只要 500 万美元，一家石油公司就可以在教师研究中拥有发言权，而 10 万美元则授予他们审查权和获取知识产权的权利。与壳牌和埃克森美孚等石油巨头的这种有争议的合作关系引发了人们对学术自由和公众信任的担忧。批评者认为，允许工业界决定研究议程违反了学术诚信。尽管捍卫了合作伙伴关系，路易斯安那州立大学仍面临学生和专家的强烈反对，他们质疑化石燃料公司资助的研究的可靠性。]]></description>
+      <guid>https://t.me/hn_summary/85726</guid>
+      <pubDate>Mon, 22 Apr 2024 00:28:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]社交媒体巨头 X 拒绝遵守电子安全专员的要求 [...]</title>
-      <link>https://t.me/hn_summary/85618</link>
-      <description><![CDATA[澳大利亚“不会被埃隆·马斯克欺负” 
-社交媒体巨头 X 拒绝遵守电子安全专员的要求，删除涉及韦克利刺伤事件的内容，这促使其所有者埃隆·马斯克称该专员为“澳大利亚审查委员”。政府部长们准备在法庭上打架，因为 X 因未删除与悉尼主教 Mar Mari Emmanuel 被刺伤相关的内容而面临每日 785,000 澳元的罚款。电子安全专员正在考虑采取进一步的监管行动，而 X 则辩称该命令不属于澳大利亚法律的范围，并威胁言论自由。政治领导人立场坚定，联邦政府部长马克·巴特勒表示澳大利亚不会被马斯克这样的科技亿万富翁欺负。]]></description>
-      <guid>https://t.me/hn_summary/85618</guid>
-      <pubDate>Sun, 21 Apr 2024 07:42:24 GMT</pubDate>
+      <title>问 HN：TikTok 禁令会是什么样子？</title>
+      <link>https://t.me/hn_summary/85725</link>
+      <description><![CDATA[询问 HN：TikTok 禁令会是什么样子？
+news.ycombinator.com 上这篇文章的作者提出了有关美国可能实施的 TikTok 禁令的技术问题。他们推测，如果字节跳动不撤资，他们在美国的业务可能会消失，从而导致应用商店和服务器合同出现问题。他们思考政府是否可以坚持撤销 tiktok.com 域名并讨论绕过域阻止的潜在方法。作者还考虑了如果 ISP 开始封锁 IP，“美国防火墙”的可能性。他们认为这种情况可能会激励下一代在更加去中心化的平台上工作。]]></description>
+      <guid>https://t.me/hn_summary/85725</guid>
+      <pubDate>Sun, 21 Apr 2024 23:53:15 GMT</pubDate>
     </item>
     <item>
-      <title>该博客讨论了编译器的缓慢发展以及自我改进技术的需求 [...]</title>
-      <link>https://t.me/hn_summary/85617</link>
-      <description><![CDATA[免费使用它们的数据流分析和编译器优化
-该博客讨论了编译器的缓慢发展以及自我改进技术以跟上 GPU 和其他平台快速创新的需求。它引入了超级优化和泛化作为自动化编译器优化过程的方法。重点是数据流分析，例如整数范围分析和已知位，以及在生产编译器中实现它们的挑战。该博客建议自动创建数据流传输函数并优化数据流事实以驱动编译器优化。目标是弥合编译器实现和数学基础之间的差距，以实现更高效、更精确的编译器优化。]]></description>
-      <guid>https://t.me/hn_summary/85617</guid>
-      <pubDate>Sun, 21 Apr 2024 07:26:16 GMT</pubDate>
+      <title>[媒体]桂格燕麦和麦圈中的矮壮素是什么，它会影响生育能力吗？</title>
+      <link>https://t.me/hn_summary/85724</link>
+      <description><![CDATA[桂格燕麦和麦片中的矮壮素是什么，它会影响生育能力吗？
+环境工作组最近的一项研究发现，桂格燕麦和麦片等燕麦食品中含有化学农药矮壮素，引发了人们对其对生育能力影响的担忧。虽然动物研究显示出潜在的危害，但专家警告在完成更多研究之前不要关注这个问题。托默·辛格 (Tomer Singer) 博士建议健康、均衡的饮食，而阿斯玛·艾哈迈德 (Asima Ahmad) 博士则推荐有机和新鲜烹制的食物。通用磨坊和奎克都坚持其产品的安全性。随着不孕率的上升，关注整体健康（包括地中海饮食和身体活动）是关键。 -凯特·吉布森为本报告做出了贡献。 Sara Moniuszko，CBSNews.com 的健康和生活方式记者，报道HealthWatch 的突发新闻和趋势新闻。]]></description>
+      <guid>https://t.me/hn_summary/85724</guid>
+      <pubDate>Sun, 21 Apr 2024 23:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]快餐已经自动化？</title>
-      <link>https://t.me/hn_summary/85616</link>
-      <description><![CDATA[快餐已经实现自动化了吗？
-在曼哈顿的一家快餐休闲餐厅 Kernel，机器人与人类员工一起精确、快速地准备纯素餐点。创始人史蒂夫·埃尔斯 (Steve Ells) 相信自动化将彻底改变快餐行业，以更低的成本提供更快、更准确的服务。纯素食菜单由中央厨房的厨师精心制作，并由餐厅的一个小团队组装。虽然自动化提高了效率，但食品质量仍然依赖于人类的专业知识。 Kernel 将高科技自动化与美食烹饪技巧相结合的独特方法使其在不断发展的快餐领域中脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/85616</guid>
-      <pubDate>Sun, 21 Apr 2024 07:25:13 GMT</pubDate>
+      <title>[媒体]Besant 和 Leadbeater 的“神秘化学”深入探讨了原子结构的隐藏世界 [...]</title>
+      <link>https://t.me/hn_summary/85723</link>
+      <description><![CDATA[Annie Besant 和 Charles Leadbeater 的《神秘化学》（1908 年）
+Besant 和 Leadbeater 的《神秘化学》深入探究了原子结构的隐秘世界，揭示了对元素的独特视角。他们发现了一种神秘的第四种气体，并描述了原子复杂的几何形状，挑战了传统的化学理解。他们不是按原子序数对元素进行分组，而是按尖峰、立方体和八面体等整体形状对元素进行组织。这种非常规方法揭示了具有看似不同特性的元素之间的相互联系，例如硼、氮和钒共享一个共同的立方体结构。《神秘化学》为人们提供了一个令人着迷且充满争议的原子组成世界。]]></description>
+      <guid>https://t.me/hn_summary/85723</guid>
+      <pubDate>Sun, 21 Apr 2024 23:49:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在美国的中国学生和研究人员面临着越来越多的审讯和部门 [...]</title>
-      <link>https://t.me/hn_summary/85615</link>
-      <description><![CDATA[在美中国学生讲述“令人心寒”的审讯和驱逐
-尽管持有有效的科学研究签证，在美国的中国学生和研究人员在机场面临着越来越多的审讯和驱逐出境。中国驻华盛顿大使馆报告称，自 2021 年 7 月以来，已有 70 多名学生被驱逐出境，自 2023 年 11 月以来案件数量不断增加。这些拒绝似乎与美国 2020 年针对与中国军民融合战略有关的中国研究生的规定有关。这种情况对中国科学家产生了“寒蝉效应”，实验陷入停滞，未来计划也被打破。审查力度加大之际，中美人文交流紧张，引发了人们对科学合作的担忧。]]></description>
-      <guid>https://t.me/hn_summary/85615</guid>
-      <pubDate>Sun, 21 Apr 2024 06:23:53 GMT</pubDate>
+      <title>[媒体] StreetComplete，OpenStreetMap 测量器应用程序，现已开始在 iOS 端口上进行开发。</title>
+      <link>https://t.me/hn_summary/85722</link>
+      <description><![CDATA[StreetComplete OSM 贡献应用开始 iOS 移植
+StreetComplete 是 OpenStreetMap 测量器应用程序，现已开始在 iOS 端口上进行开发。该应用程序将地图任务转变为任务，让用户参与现实世界的任务来更新地图。该团队正在寻找志愿者来帮助开发，包括熟悉 Jetpack Compose 等新技术。您还可以赞助该项目以支持进一步的发展。加入地图游戏化并为广泛使用的 OpenStreetMap 项目做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/85722</guid>
+      <pubDate>Sun, 21 Apr 2024 23:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在博客文章“编程主要是思考”中，作者挑战了常见的 mi [...]</title>
-      <link>https://t.me/hn_summary/85614</link>
-      <description><![CDATA[编程主要是思考
-在博客文章“编程主要是思考”中，作者挑战了“编程主要是打字”这一常见的误解。通过非正式的民意调查和观察，作者得出的结论是，编程实际上是 11/12 的思考，而只是 1/12 的打字。这篇文章深入探讨了编程的智力本质，强调了在此过程中决策、解决问题和协作的重要性。作者强调需要优化思维过程，而不是仅仅关注打字速度。这种独特的视角揭示了编程工作的真正本质，并鼓励读者思考如何提高自己在该领域的思维能力。]]></description>
-      <guid>https://t.me/hn_summary/85614</guid>
-      <pubDate>Sun, 21 Apr 2024 06:22:50 GMT</pubDate>
+      <title>[媒体] 在本文中，Stefan Tilkov 解释了为什么他认为单页应用程序 (SPA) 高度 [...]</title>
+      <link>https://t.me/hn_summary/85721</link>
+      <description><![CDATA[为什么我讨厌你的单页应用
+在本文中，Stefan Tilkov 解释了为什么他觉得单页应用程序 (SPA) 非常烦人，除非它们确实非常出色。他认为，大多数 SPA 都会破坏浏览器功能，缺乏链接到特定内容的能力，而且臃肿且加载缓慢。 Tilkov 认为 SPA 并不是真正的“在网络上”，并提倡使用服务器端渲染和最少的客户端 JavaScript 来构建经典的 Web 应用程序。他强调了可访问性、工作并行化的重要性以及采用浏览器功能的好处。 Tilkov 鼓励开发人员在 SPA 和传统 Web 应用程序之间进行选择时，优先考虑用户体验而不是开发人员的便利性。]]></description>
+      <guid>https://t.me/hn_summary/85721</guid>
+      <pubDate>Sun, 21 Apr 2024 23:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Thetawave 是一款使用 Rust 和 Bevy 引擎创建的基于物理的太空射击游戏。</title>
-      <link>https://t.me/hn_summary/85613</link>
-      <description><![CDATA[Thetawave：一款基于物理的太空射击游戏，由 Rust 和Bevy工程师
-Thetawave 是一款基于物理的太空射击游戏，使用 Rust 和 Bevy 引擎创建。它具有程序生成的关卡、多样化的敌人和独特的角色。该项目是开源的，允许社区的协作和贡献来塑造其发展。玩家可以参与游戏和发展，使用能量提升、特殊能力和独特的机制，比如通过让货运小怪到达竞技场底部来治愈防御栏。该项目的独特之处在于强调社区参与和成长，贡献者团队致力于游戏的各个方面，包括视觉效果、编程和声音设计。]]></description>
-      <guid>https://t.me/hn_summary/85613</guid>
-      <pubDate>Sun, 21 Apr 2024 05:38:35 GMT</pubDate>
+      <title>[媒体]谷歌员工 Zelda Montes 公开反对该公司 12 亿美元的合同 [...]</title>
+      <link>https://t.me/hn_summary/85720</link>
+      <description><![CDATA[Google 员工称公司正在“压制我们的声音”
+谷歌员工塞尔达·蒙特斯 (Zelda Montes) 公开反对该公司与以色列政府签订的价值 12 亿美元的云计算服务合同，理由是对加沙冲突的担忧。蒙特斯和其他员工成立了“种族隔离无技术”组织，敦促谷歌放弃合同，导致静坐抗议和 28 名员工被大规模解雇。谷歌声称抗议者违反了公司政策，但蒙特斯认为解雇是一种恐惧策略，不会阻止他们的活动。这场争议凸显了科技公司内部因与以色列合作及其技术的道德影响而产生的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/85720</guid>
+      <pubDate>Sun, 21 Apr 2024 23:09:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/85612</link>
-      <description><![CDATA[如何修复美国的航空系统
-美国航空系统正面临危机，由于地面雷达系统过时和空中交通管制员精疲力竭，险些发生的事故不断增加。最近在德克萨斯州奥斯汀发生的事件，一名联邦快递飞行员不得不指示西南航空飞行员中止起飞，凸显了地面雷达和控制器分离逻辑的缺乏。保罗·里纳尔迪和多萝西·罗宾等专家对这些问题进行了讨论，显然需要采取紧急行动，在重大灾难发生之前实现航空系统的现代化和改进。收听 On Point，深入了解如何修复美国的航空系统。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85612</guid>
-      <pubDate>Sun, 21 Apr 2024 05:22:27 GMT</pubDate>
+      <title>[媒体]科学家警告说，墨西哥湾流是调节氯离子的重要洋流[...]</title>
+      <link>https://t.me/hn_summary/85719</link>
+      <description><![CDATA[科学家警告墨西哥湾流最早可能在 2025 年开始放缓
+科学家警告说，墨西哥湾流是调节北欧及其他地区气候的重要洋流，最早可能在 2025 年开始放缓。这种放缓归因于格陵兰冰盖变暖、气候变化导致的降雨量增加、墨西哥湾流发源地热带水域的盐度下降。如果墨西哥湾流明显减慢或停止，可能会导致北欧和冰岛的气候变得更加寒冷，类似于电影《后天》中所描述的情况。墨西哥湾流的潜在崩溃凸显了采取行动应对气候变化的迫切需要。]]></description>
+      <guid>https://t.me/hn_summary/85719</guid>
+      <pubDate>Sun, 21 Apr 2024 23:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这项研究探讨了睡眠时间与 2 型糖尿病风险之间的关系 [...]</title>
-      <link>https://t.me/hn_summary/85611</link>
-      <description><![CDATA[睡眠时间和 2 型糖尿病风险
-这项研究调查了睡眠时间与 2 型糖尿病风险之间的关系，研究结果来自澳大利亚、美国、德国和日本等多个国家。有争议的是，一些研究表明较短的睡眠时间可能会增加患糖尿病的风险，而另一些研究则显示出相互矛盾的结果。令人惊讶的是，来自日本的研究发现，有糖尿病家族史的人，睡眠时间较短，患糖尿病的风险较低。这些发现突显了睡眠与糖尿病风险之间的复杂关系，其中年龄、体重指数和生活习惯等因素发挥了作用。]]></description>
-      <guid>https://t.me/hn_summary/85611</guid>
-      <pubDate>Sun, 21 Apr 2024 05:10:20 GMT</pubDate>
+      <title>华为最新的旗舰智能手机 Pura 70 可能没有任何突破性的硅优势 [...]</title>
+      <link>https://t.me/hn_summary/85718</link>
+      <description><![CDATA[华为最新旗舰智能手机没有惊天动地的芯片惊喜
+华为最新的旗舰智能手机 Pura 70 可能没有任何突破性的芯片惊喜，但它仍然提供令人印象深刻的功能。 Pura 70 配备麒麟 9010 SoC、6.6 英寸 OLED 显示屏和高达 1TB 的存储空间，以其高品质相机满足摄影爱好者的需求。该设备运行HarmonyOS 4.2，这是华为的Android替代品，反映了中国对本土技术解决方案的推动。尽管芯片技术缺乏重大进展，但华为对创新和爱国主义的专注使得Mate 60发布后市场份额大幅提升。]]></description>
+      <guid>https://t.me/hn_summary/85718</guid>
+      <pubDate>Sun, 21 Apr 2024 22:47:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
