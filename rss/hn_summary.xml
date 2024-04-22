@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 05:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:13:11 GMT</lastBuildDate>
     <item>
-      <title>www.oilshell.org 上的帖子深入探讨了软件架构中窄腰的概念 [...]</title>
-      <link>https://t.me/hn_summary/85753</link>
-      <description><![CDATA[软件架构中最大想法的草图（2022）
-www.oilshell.org 上的帖子深入探讨了这个概念软件架构中的细腰，探索它们如何与网络、操作系统、语言设计、编译器和分布式系统相关。它将细粒度的静态类型和构建时组合与粗粒度的“腰部”和运行时组合进行了对比。这篇文章挑战了软件设计中的误解和权衡，提供了对 shell、JSON、分布式操作系统和 Docker 的见解。它将窄腰定义为减少互操作性和代码重用的代码爆炸，强调设计和演进在创建有效窄腰方面的重要性。这篇文章还讨论了软件中窄腰的特征和演变。 （根据 37% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85753</guid>
-      <pubDate>Mon, 22 Apr 2024 05:59:30 GMT</pubDate>
+      <title>[媒体]非洲科技公司正在转向印度竞争对手 Zoho 作为具有成本效益的替代品 [...]</title>
+      <link>https://t.me/hn_summary/85776</link>
+      <description><![CDATA[为什么非洲科技公司放弃 Google，转而选择印度的小型竞争对手
+非洲科技公司正在转向印度竞争对手 Zoho 作为 Google Workspace 的经济高效替代品。尼日利亚初创公司 Flexisaf 改用 Zoho，预计每年可节省数百万奈拉。 Zoho 在非洲的成功归功于其实惠的价格、当地货币支付选项以及缺乏广告或数据销售。然而，Zoho 在建立强大的开发者社区和提高产品复杂性方面面临着挑战。尽管如此，Zoho 积极的定价以及对研发的重视使其成为企业软件领域的有力竞争者。]]></description>
+      <guid>https://t.me/hn_summary/85776</guid>
+      <pubDate>Mon, 22 Apr 2024 12:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 走进 Infinitown 的迷人世界，这是一项 WebGL 实验，带来了 [...]</title>
-      <link>https://t.me/hn_summary/85752</link>
-      <description><![CDATA[无限城
-走进 Infinitown 的迷人世界，这是一个 WebGL 实验，将程序生成的城市呈现在您眼前。借助一些巧妙的技巧，将视点包裹在随机城市街区的有限网格周围，观看城市景观似乎永远延伸。 VenCreations 使用 Three.js、Blender 和 Unity 创建的这个项目不仅具有令人惊叹的视觉效果，而且证明了数字艺术和设计的无限可能性。亲自体验无限城的魔力，迷失在它的无限魅力中。]]></description>
-      <guid>https://t.me/hn_summary/85752</guid>
-      <pubDate>Mon, 22 Apr 2024 05:46:23 GMT</pubDate>
+      <title>“Curl 只是爱好”一文让我认识了 Ludvig Strigeus，他是一名程序员，拥有令人印象深刻的 [...]</title>
+      <link>https://t.me/hn_summary/85775</link>
+      <description><![CDATA[问HN：杰出程序员
+“Curl 只是爱好”一文让我认识了 Ludvig Strigeus，他是一名程序员，拥有一系列令人印象深刻的作品，包括 µTorrent、ScummVM 和 Spotify。他的生产力和创造世界所需解决方案的能力是非凡的。他的每个程序都可能是开发人员一生的工作。问题依然存在：他成功的秘诀是什么？似乎有些程序员拥有独特的系统或方法，使他们与众不同。 Ludvig Strigeus 是杰出程序员的典范，他对创建有影响力的软件具有敏锐的感觉。]]></description>
+      <guid>https://t.me/hn_summary/85775</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>《Unix 憎恨者手册》是一本有争议且幽默的作品，讲述了 [...]</title>
-      <link>https://t.me/hn_summary/85751</link>
-      <description><![CDATA[Unix 仇恨者手册 [pdf](https://news .ycombinator.com/item?id=40110729)
-《Unix 憎恨者手册》是一本颇具争议且幽默的书，讲述了使用 Unix 时遇到的挫折和挑战。这本书由 Simson Garfinkel、Daniel Weise 和 Steven Strassmann 编辑，深入探讨了 Unix 操作系统的怪癖和复杂性，并由 John Klossner 绘制插图。从神秘的命令名称到 X-Windows 灾难，这本手册对 Unix 编程世界进行了讽刺性的审视。这本书由 Donald A. Norman 作前言，由 Dennis Ritchie 作反前言，是任何曾经研究过 Unix 特性的人的必读之作。 （根据故事文本的 1% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85751</guid>
-      <pubDate>Mon, 22 Apr 2024 05:45:19 GMT</pubDate>
+      <title>[媒体]突围之战：Epoch vs.</title>
+      <link>https://t.me/hn_summary/85774</link>
+      <description><![CDATA[突围之战：Epoch VS 任天堂
+1979 年，游戏世界由 Epoch 和 Nintendo 等单一游戏机主导，两家公司都从玩具公司扩展到电子玩具领域。 Epoch 的 TV Block 和任天堂的 Color TV Game Block Kuzushi 都提供了流行的 Breakout 游戏的变体，Epoch 的游戏机基于 Atari 技术，任天堂的游戏机由年轻艺术家 Shigeru Miyamoto 设计。两家公司之间的竞争引发了价格战，任天堂最终降低了游戏机的价格来竞争。尽管游戏玩法相似，但每个游戏机都有自己独特的功能和设计元素，使它们在游戏市场中脱颖而出。 （根据故事文本的 56% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85774</guid>
+      <pubDate>Mon, 22 Apr 2024 12:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]探索创新的 Gott-Goldberg-Vanderbei 投影，提供带有 mi [...]</title>
-      <link>https://t.me/hn_summary/85750</link>
-      <description><![CDATA[错误最少的平面地图：戈特-戈德堡-范德贝投影
-探索创新的 Gott-Goldberg-Vanderbei 投影，提供误差最小的平面地图。从各种行星和背景中进行选择，并观看动态旋转使地图变得栩栩如生。单击以设置中心点并自定义您的视图。打印并组装您自己的磁盘以获得动手体验。查看高分辨率版本、矩形投影和可打印的 pdf 文件。通过《纽约时报》和《科学美国人》的链接文章，深入了解地图的创建过程。通过这种准确而独特的投影探索观察世界的新方式。]]></description>
-      <guid>https://t.me/hn_summary/85750</guid>
-      <pubDate>Mon, 22 Apr 2024 05:42:55 GMT</pubDate>
+      <title>在马达加斯加，圣路易斯华盛顿大学的研究人员</title>
+      <link>https://t.me/hn_summary/85773</link>
+      <description><![CDATA[狐猴的哀叹：当一个脆弱物种跟踪另一个物种时&lt; br/&gt;
+在马达加斯加，圣路易斯华盛顿大学和塔那那利佛大学的研究人员目睹了脆弱的食肉动物狐猴对极度濒危狐猴的罕见攻击。这种捕食行为，加上低繁殖率和潜在的近亲繁殖，可能会影响贝坦波纳严格自然保护区狐猴的生存。孤立的栖息地面积狭小，使得狐猴难以分散和生存。该研究揭示了物种之间复杂的相互作用以及生态系统平衡的重要性。狐猴的大胆捕食引发了人们对狐猴和狐猴保护工作的质疑。]]></description>
+      <guid>https://t.me/hn_summary/85773</guid>
+      <pubDate>Mon, 22 Apr 2024 12:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>超级任天堂卡带不仅仅是游戏存储 - 它们包含复制保护 [...]</title>
-      <link>https://t.me/hn_summary/85749</link>
-      <description><![CDATA[超级任天堂卡带
-超级任天堂卡带不仅仅是游戏存储 - 它们包含复制保护芯片、用于保存进度的 SRAM，甚至还有 Super FX 和 SA-1 等增强处理器。这些处理器提高了性能，实现更流畅的游戏体验和改进的图形。例如，SA-1 使系统的功能提高了五倍，并用于 34 辆推车。另一方面，CX4 为 Mega Man X2 和 X3 提供动力，提供线框效果和精灵功能。 DSP 芯片（如《超级马里奥赛车》中的 DSP-1）提供了快速乘法和旋转指令，这对于更新模式 7 中的 3D 视图至关重要。这些增强功能彻底改变了 SNES 游戏体验。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85749</guid>
-      <pubDate>Mon, 22 Apr 2024 05:33:49 GMT</pubDate>
+      <title>[媒体]香港实施一次性塑料禁令，针对聚苯乙烯泡沫塑料产品 [...]</title>
+      <link>https://t.me/hn_summary/85772</link>
+      <description><![CDATA[一次性塑料禁令在香港生效
+香港已实施一次性塑料禁令，针对的是聚苯乙烯泡沫塑料产品和餐具。虽然外卖仍允许使用塑料食品容器和杯子，但禁止使用叉子、勺子和吸管等一次性餐具。许多餐厅已经在适应新法律，其中一些餐厅由于转向更可持续的替代品而面临更高的成本。虽然一些客户认为这些变化不方便，但其他客户则认识到了环境效益。绿色和平组织希望这项禁令能够阻止一次性文化并促进可重复使用。香港的堆填区预计将于 2026 年达到最大容量，因此计划减少塑料废物并实施固体废物收费，以解决日益严重的问题。]]></description>
+      <guid>https://t.me/hn_summary/85772</guid>
+      <pubDate>Mon, 22 Apr 2024 12:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者探索了现代编译器中的自动向量化，特别是 Rust 和 C++。</title>
-      <link>https://t.me/hn_summary/85748</link>
-      <description><![CDATA[LLVM 比我聪明
-作者探索了现代编译器中的自动向量化，特别是 Rust 和 C++。他们惊讶地发现 LLVM 通过使用常量折叠和封闭式解决方案来优化代码，甚至自动矢量化循环，从而超越了他们。作者将 LLVM 与 GCC 进行了比较，发现 LLVM 的速度明显更快，凸显了 LLVM 优化的效率。 LLVM 在不牺牲可读性的情况下生成最佳代码的能力给作者留下了深刻的印象，展示了现代编译器在最大化性能方面的强大功能。]]></description>
-      <guid>https://t.me/hn_summary/85748</guid>
-      <pubDate>Mon, 22 Apr 2024 05:10:39 GMT</pubDate>
+      <title>[媒体] 在本周的《谁，我？》中</title>
+      <link>https://t.me/hn_summary/85771</link>
+      <description><![CDATA[最稀有、最奇怪的 Windows 形式从安全疯狂的那一刻起拯救了技术人员
+在本周的《谁，我？》中，我们将认识“Declan”，他是一位 CAD 设计师，在 90 年代的第一份工作中发现自己陷入了安全疯狂的时刻。 Declan 在运行 Alpha 处理器的 Windows NT 机器上工作，努力防止病毒在同事中爆发。然而，一个疲惫的下午，他不小心打开了一份受感染的 Excel 电子表格。令人惊讶的是，电子表格中的蠕虫被设计为通过 Outlook 进行传播，但由于 Excel 和 Outlook 之间的仿真集成度较差，因此无法发送任何电子邮件。德克兰设法在没有造成任何伤害的情况下遏制了病毒，以独特而巧妙的方式扭转了局面。]]></description>
+      <guid>https://t.me/hn_summary/85771</guid>
+      <pubDate>Mon, 22 Apr 2024 11:37:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 PC 上运行 BSD 不适合胆小的人。</title>
-      <link>https://t.me/hn_summary/85747</link>
-      <description><![CDATA[您不应该在 PC 上运行 BSD 
-在 PC 上运行 BSD 不适合胆小的人。与更改 GNU/Linux 发行版不同，切换到 BSD 需要仔细考虑硬件兼容性和软件支持。缺乏供应商支持意味着依赖志愿者对硬件进行逆向工程，并且从 GNU/Linux 内核向后移植极其困难。即使您设法让一切正常运行，流行的软件也可能无法使用，并且由于社区较小和用户空间软件不同，故障排除也可能具有挑战性。 BSD 发展缓慢，因此如果您是寻求尖端技术的早期采用者，您可能会感到失望。最终，在 PC 上运行 BSD 需要耐心和对修补的热爱，因为它不是即插即用的体验。]]></description>
-      <guid>https://t.me/hn_summary/85747</guid>
-      <pubDate>Mon, 22 Apr 2024 04:29:25 GMT</pubDate>
+      <title>[媒体]苹果售价 3,500 美元的 Apple Vision Pro 的客户兴趣正在下降，d [...]</title>
+      <link>https://t.me/hn_summary/85770</link>
+      <description><![CDATA[部分零售店的 Apple Vision Pro 客户兴趣逐​​渐减弱
+苹果售价 3,500 美元的 Apple Vision Pro 客户兴趣正在下降，自 2024 年 2 月首次亮相以来，演示需求和销量均大幅下降。彭博社的马克·古尔曼 (Mark Gurman) 指出，由于该设备的复杂设置、缺乏杀手级应用程序，用户参与度正在下降。和有限的社会吸引力。尽管解决了最初的错误，苹果的visionOS仍然缺乏对许多应用程序的优化。添加空间角色允许与其他用户进行虚拟交互，但该功能尚未得到充分利用。苹果计划在 2025 年发布更实惠的 Vision Pro 版本，因为当前型号很难维持消费者的兴趣。]]></description>
+      <guid>https://t.me/hn_summary/85770</guid>
+      <pubDate>Mon, 22 Apr 2024 11:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>rr 项目提供了一个轻量级记录和确定性调试工具，允许使用 [...]</title>
-      <link>https://t.me/hn_summary/85746</link>
-      <description><![CDATA[rr：轻量级记录和确定性调试
-rr 项目提供了一个轻量级的记录和确定性调试工具，允许用户记录应用程序的执行、重放并确定性地调试它们。该工具对于调试间歇性故障特别有用，因为它将整个执行（包括故障）保存到磁盘以供重放。 rr 的独特功能是能够在多次运行中保留执行细节，从而使调试更加高效和有效。通过提供确定性重放，rr 简化了追踪效果到原因的过程，并支持反向执行以方便调试。总体而言，rr已经达到了其目标，正在广泛应用于各个项目中，以提高软件质量并降低调试成本。]]></description>
-      <guid>https://t.me/hn_summary/85746</guid>
-      <pubDate>Mon, 22 Apr 2024 04:27:20 GMT</pubDate>
+      <title>AMD 在开源更多软件堆栈和硬件文档方面取得了长足进步 [...]</title>
+      <link>https://t.me/hn_summary/85769</link>
+      <description><![CDATA[AMD：Radeon 堆栈的其他部分将在整个过程中开源年
+AMD 在开源更多软件堆栈和硬件文档方面取得了长足进步，并计划在 5 月底发布微引擎调度程序 (MES) 固件文档和代码。他们重申了全年开源 Radeon 堆栈其他部分的承诺，并在 GitHub 上提供更新。此举引起了开源社区的兴趣，AMD 将在 2024 年发布哪些其他组件将会很有趣。然而，正如之前的讨论所强调的那样，围绕开发者体验的碎片化存在一些争议。]]></description>
+      <guid>https://t.me/hn_summary/85769</guid>
+      <pubDate>Mon, 22 Apr 2024 11:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>“快速日历算法”项目为 Euclid [...]</title>
-      <link>https://t.me/hn_summary/85745</link>
-      <description><![CDATA[显示 HN：快速日历算法
-“快速日历算法”项目为欧几里得仿射函数及其在日历算法中的应用提供了代码和补充材料。它包括构建代码的说明、相关文章的勘误表以及用于测试和基准测试不同算法的各种可执行文件。该项目的与众不同之处在于，它在数百万年的时间里详尽地测试了自己的算法，以及以 1970 年 1 月 1 日为中心的范围内的竞争对手算法。它还自动下载第三方库，例如 Google Benchmark、Google Test 和 Boost Multi precision。此外，该项目还提供了本文中显示的汇编片段以及不同语言的其他实现的链接。]]></description>
-      <guid>https://t.me/hn_summary/85745</guid>
-      <pubDate>Mon, 22 Apr 2024 04:10:12 GMT</pubDate>
+      <title>[媒体]作者讨论了人工智能在数据新闻中的应用，重点关注实际应用[...]</title>
+      <link>https://t.me/hn_summary/85768</link>
+      <description><![CDATA[用于数据新闻的人工智能：展示我们可以用这些东西做什么&lt; /a&gt;
+作者讨论了人工智能在数据新闻中的应用，重点关注大型语言模型（LLM）在该领域的实际应用。他们在 Story Discovery at Scale 会议上展示了 12 个现场演示，展示了 Google Gemini Pro 1.5 和 Anthropic 的 Claude 3 Opus 和 Haiku 等模型的功能。作者还演示了用于数据分析和丰富的 Datasette 等工具，以及他们自己的用于与 LLM 交互的开源项目 LLM。演讲强调了人工智能能力的快速进步以及处理现实世界数据的挑战。 （根据故事文本的 40% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85768</guid>
+      <pubDate>Mon, 22 Apr 2024 10:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国人工智能热潮导致用水量激增，数据中心将面临 [...]</title>
-      <link>https://t.me/hn_summary/85744</link>
-      <description><![CDATA[得益于人工智能，中国数据中心将比韩国喝更多水2030年
-中国人工智能的蓬勃发展导致用水量激增，到2030年，数据中心的用水量将超过韩国。人工智能模型的训练和维护会产生热量，需要大量的水来冷却。这一趋势不仅限于中国，微软和谷歌等公司也在人工智能运营中使用了数十亿加仑的水。人工智能聊天机器人的能源密集型性质正在加剧这一问题，人们越来越担心对缺水地区的环境影响。专家警告说，数据中心的用电量可能很快就会超过印度，强调需要更节能的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/85744</guid>
-      <pubDate>Mon, 22 Apr 2024 04:09:09 GMT</pubDate>
+      <title>OpenOrb 是专门为 Atom 和 RSS 提要设计的精选搜索引擎。</title>
+      <link>https://t.me/hn_summary/85767</link>
+      <description><![CDATA[显示 HN：OpenOrb，一个针对 Atom 和 RSS 提要的精选搜索引擎
+OpenOrb 是专门为 Atom 和 RSS 提要设计的精选搜索引擎。该平台由 Raphael Kabo 创建，允许用户轻松发现和访问来自各种来源的广泛内容。借助 OpenOrb，用户可以随时了解自己喜欢的主题和兴趣，而无需筛选不相关的信息。这个独特的搜索引擎提供精心策划的体验，确保用户每次搜索时都能收到高质量且相关的内容。立即探索 OpenOrb 并简化您的源浏览体验。]]></description>
+      <guid>https://t.me/hn_summary/85767</guid>
+      <pubDate>Mon, 22 Apr 2024 10:44:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
