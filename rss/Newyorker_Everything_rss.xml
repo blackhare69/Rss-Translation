@@ -4,7 +4,7 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 23 Apr 2024 18:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 21:06:46 GMT</lastBuildDate>
     <item>
       <title>每日漫画：4 月 23 日星期二</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-april-23rd-mountains-of-evidence</link>
@@ -29,15 +29,8 @@
     <item>
       <title>帕德玛·拉克希米走进一家酒吧</title>
       <link>https://www.newyorker.com/culture/profiles/padma-lakshmi-walks-into-a-bar</link>
-      <description><![CDATA[自从离开“顶级厨师”以来，拉克希米发现自己处于职业不确定期。还有什么更好的时间来尝试单口喜剧呢？]]></description>
+      <description><![CDATA[自从离开《顶级厨师》后，拉克希米发现自己处于职业不确定期。还有什么更好的时间来尝试单口喜剧呢？]]></description>
       <guid>https://www.newyorker.com/culture/profiles/padma-lakshmi-walks-into-a-bar</guid>
-      <pubDate>Tue, 23 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的储藏室里最珍贵的罐子</title>
-      <link>https://www.newyorker.com/culture/secret-ingredients/the-most-treasured-jar-in-my-pantry</link>
-      <description><![CDATA[当你的提取物是自制的时，香草一点也不“简单”。]]></description>
-      <guid>https://www.newyorker.com/culture/secret-ingredients/the-most-treasured-jar-in-my-pantry</guid>
       <pubDate>Tue, 23 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -45,6 +38,13 @@
       <link>https://www.newyorker.com/culture/essay/the-haiti-that-still-dreams</link>
       <description><![CDATA[这个国家正在被灾难所定义。讲述一个新故事意味着什么？]]></description>
       <guid>https://www.newyorker.com/culture/essay/the-haiti-that-still-dreams</guid>
+      <pubDate>Tue, 23 Apr 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的储藏室里最珍贵的罐子</title>
+      <link>https://www.newyorker.com/culture/secret-ingredients/the-most-treasured-jar-in-my-pantry</link>
+      <description><![CDATA[当你的提取物是自制的时，香草一点也不“简单”。]]></description>
+      <guid>https://www.newyorker.com/culture/secret-ingredients/the-most-treasured-jar-in-my-pantry</guid>
       <pubDate>Tue, 23 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -62,17 +62,17 @@
       <pubDate>Mon, 22 Apr 2024 17:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>当婴儿主宰餐桌时</title>
-      <link>https://www.newyorker.com/culture/photo-booth/when-babies-rule-the-dinner-table</link>
-      <description><![CDATA[在过去的二十年里，美国父母已经开始放弃果泥，并在进餐时给予婴儿更多的选择和更多的权力。]]></description>
-      <guid>https://www.newyorker.com/culture/photo-booth/when-babies-rule-the-dinner-table</guid>
-      <pubDate>Mon, 22 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>罗望子树的酸甜传承</title>
       <link>https://www.newyorker.com/culture/secret-ingredients/a-tamarind-trees-sweet-and-sour-inheritance</link>
       <description><![CDATA[我的祖先在德里郊外得到了一个巨大的果园。它结出的果实是我童年的味道。]]></description>
       <guid>https://www.newyorker.com/culture/secret-ingredients/a-tamarind-trees-sweet-and-sour-inheritance</guid>
+      <pubDate>Mon, 22 Apr 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当婴儿主宰餐桌时</title>
+      <link>https://www.newyorker.com/culture/photo-booth/when-babies-rule-the-dinner-table</link>
+      <description><![CDATA[在过去的二十年里，美国父母已经开始放弃果泥，并在进餐时给予婴儿更多的选择和更多的权力。]]></description>
+      <guid>https://www.newyorker.com/culture/photo-booth/when-babies-rule-the-dinner-table</guid>
       <pubDate>Mon, 22 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
