@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:09:15 GMT</lastBuildDate>
     <item>
       <title>寻找类似于 Azure Avatar 文本转语音的解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>将选项卡分组到左侧 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
-      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未上架 Chrome 应用商店，但它包含一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我很高兴能首次涉足开源社区。 我制作了一个 Chrome 扩展程序 ，通过管理标签杂乱来提高浏览效率。只需单击一下，它就会将所有标签分组到当前标签的左侧，让我可以专注于任务而不会丢失打开的页面。它会最小化组并排除任何固定的标签。 我已将最近的更新推送到  GitHub 存储库。虽然此版本尚未登陆 Chrome 商店，但它包含一项新功能：忽略现有组的功能。对于想要对群组进行分组的人来说，这可能是更好的选择。    提交人    /u/CuntBuster2077   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
       <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>OW2con 2024</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</link>
-      <description><![CDATA[ 由   提交/u/opensourceinitiative  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/opensourceinitiative   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</guid>
       <pubDate>Tue, 23 Apr 2024 09:34:01 GMT</pubDate>
     </item>
