@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 18:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 21:08:30 GMT</lastBuildDate>
+    <item>
+      <title>Simone：通过将 YouTube 视频转换为具有上下文感知屏幕截图的博客文章来重新调整其用途</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cc5ru2/simone_repurpose_your_youtube_videos_by/</link>
+      <description><![CDATA[   /u/UnusedTechie2021  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cc5ru2/simone_repurpose_your_youtube_videos_by/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>loreVault 需要测试人员，这是一个从配方创建文件夹的简单工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>将选项卡分组到左侧 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
-      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然这个版本尚未上架 Chrome 应用商店，但它包含了一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
+      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然此版本尚未在 Chrome 应用商店上架，但它包含一个新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
       <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
       <pubDate>Tue, 23 Apr 2024 10:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>OW2con 2024</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</link>
-      <description><![CDATA[ 由   提交/u/opensourceinitiative  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</guid>
-      <pubDate>Tue, 23 Apr 2024 09:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
