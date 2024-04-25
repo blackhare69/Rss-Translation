@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:36:23 GMT</lastBuildDate>
+    <item>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
+      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
+      <pubDate>Wed, 24 Apr 2024 21:58:29 GMT</pubDate>
+    </item>
     <item>
       <title>Simone：通过将 YouTube 视频转换为具有上下文感知屏幕截图的博客文章来重新调整其用途</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc5ru2/simone_repurpose_your_youtube_videos_by/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>loreVault 需要测试人员，这是一个从配方创建文件夹的简单工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</link>
-      <description><![CDATA[大家好， 这几个星期我一直在致力于 lorevault。它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可以是用于可重现的测试/构建环境或简单的项目模板。 一些重要功能是：  确保文件未更改的哈希值。 一个文件有多个源以实现冗余。 文件可以从本地或远程 git-repos 的存档或提交中获取。 标签可用于有条件包含文件。&lt; /li&gt; 可以包含其他配置文件。 如果该文件夹已经存在，则可以避免很多工作。  我为什么要告诉你这个？我希望找到愿意测试该程序的人。当然，我已经实现了一些测试，但这只是意味着我在我的机器上想出了一些测试用例。可能存在许多明显的错误。 我期待您的 GitHub 问题！   由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 几个星期以来，我一直在研究 lorevault。 它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可用于可重现的测试/构建环境或简单的项目模板。 一些重要功能包括：  哈希以确保文件未更改。 一个文件的多个来源以实现冗余。 文件可以从档案中获取，也可以从本地或远程 git-repos 的提交中获取。 标签可用于有条件地包含文件。 可以包括其他配置文件。 如果文件夹已经存在，则可以避免很多工作。  我为什么要告诉你这个？ 我希望找到愿意测试这个程序的人。当然，我已经实现了一些测试，但这只意味着我提出的一些测试用例可以在我的机器上运行。可能有很多明显的错误。 我期待您的 GitHub 问题！    提交人    /u/Bowtiestyle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</guid>
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>一位开发人员要求停止让我们的项目保持开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc11ej/a_fellow_dev_asked_to_stop_keeping_our_project/</link>
-      <description><![CDATA[当我们可以直接闭源它，而不需要为潜在不存在的用户和用例进行任何可调整或可定制的内容。 简单的问题：我如何向他们表明这是有意为之的，并且创建了更好、更易于维护的代码？  更难的问题：我能说什么，或者我可以联系某人什么资源，以试图说服他们保持开源的重要性？即使这有点困难。理想情况下，该资源编写得有效且简短。我希望他们能够欣赏开源的概念，并愿意为开源做出贡献，而不仅仅是因为我告诉他们这样做。 （与此人的对话已经结束，我问对于将来的一般情况）   由   提交 /u/zeekaran   [链接] [评论]]]></description>
+      <description><![CDATA[开发人员发现将项目作为开源项目进行维护，然后将其用于我们的主要应用程序并对其进行自定义以匹配我们的品牌，这很麻烦，而我们可以关闭源代码，而不需要为可能不存在的用户和用例进行任何可调整或可自定义的操作。 简单的问题：我怎样才能向他们表明这是有意为之，并能创建更好、更易于维护的代码？ 更难的问题：我能说什么，或者我可以链接什么资源，以试图说服他们保持开源的重要性？即使这有点困难。理想情况下，该资源写得有效且简短。我希望他们欣赏开源的概念，并愿意自愿为之做出贡献，而不仅仅是因为我告诉他们这样做。 （与此人的对话已经结束，我要求将来提供一般案例）    提交人    /u/zeekaran   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc11ej/a_fellow_dev_asked_to_stop_keeping_our_project/</guid>
       <pubDate>Wed, 24 Apr 2024 15:26:17 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[嘿， 我目前正在寻找与此类似的内容 https://github.com/Sgvkamalakar/Azure-Talking-Avatar Azure Avatar 文本转语音服务实时生成语音和头像运动，因此只要没有文本需要处理，头像就处于空闲状态。 我发现了像 SadTalker 这样的项目，看起来很有前途，但我不知道我如何在我的项目中利用它。 是否有人构建了类似于 Azure Avatar 服务的东西，以便可以嵌入到应用程序中并可以实时输入文本？ &lt; p&gt;谢谢！   由   提交 /u/timowevel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</guid>
       <pubDate>Wed, 24 Apr 2024 11:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbtu8i/an_opensource_alternative_to_resend_mailgun/</link>
-      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbtu8i/an_opensource_alternative_to_resend_mailgun/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:24:11 GMT</pubDate>
     </item>
     <item>
       <title>[新手指导] 感谢您的建议！</title>
@@ -85,7 +85,7 @@
     <item>
       <title>Podlite v1.0 发布：一种轻量级、面向块的标记语言，专为组织知识而设计。 （艺术许可2.0）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</link>
-      <description><![CDATA[什么是 Podlite？ Podlite,一种轻量级的面向块的标记语言，注重灵活性和易用性。   不受任何特定领域、编程语言或概念的束缚，Podlite 作为一种通用标记语言脱颖而出 此外，对 Markdown 标记作为标准块的支持增加了便利性，并允许使用熟悉的语法进行文本格式化 它非常适合文档、教育材料、博客等组织知识。 Podlite 的关键特性之一是它的可扩展性。这允许定义独特的和特定于域的块，并根据项目的要求扩展语言的功能。 Podlite 规范根据 Artistic 许可证 2.0 发布。  Podlite 的主要功能  基于块的结构：Podlite 的核心是“块”的概念，这是任何文档的基本单位。这些块可以具有定义的属性并支持包含丰富的内容。 丰富的链接功能：Podlite 允许将块、术语、定义链接到各种类型的关系，增强文档的互连性和可导航性。 支持公式和 Markdown：无论您需要插入复杂的数学公式还是喜欢 Markdown 的简单性，Podlite 可以满足您的需求。它无缝集成了两者，让您可以灵活地选择编写方式。 可扩展和可定制：使用自定义块和内联代码扩展 Podlite ，定制语言以满足您的特定需求。  Podlite v1.0 发行说明 Podlite v1.0 发行说明 谢谢   由   提交 /u/zagap   [链接] [评论]]]></description>
+      <description><![CDATA[什么是 Podlite？ Podlite,一种轻量级的面向块的标记语言，注重灵活性和易用性。   不受任何特定领域、编程语言或概念的束缚，Podlite 作为一种通用标记语言脱颖而出 此外，对 Markdown 标记作为标准块的支持增加了便利性，并允许使用熟悉的语法进行文本格式化 它非常适合文档、教育材料、博客等组织知识。 Podlite 的关键特性之一是它的可扩展性。这允许定义独特的和特定于域的块，并根据项目的要求扩展语言的功能。 Podlite 规范根据 Artistic 许可证 2.0 发布。  Podlite 的主要功能  基于块的结构：Podlite 的核心是“块”的概念。这是任何文档的基本单位。这些块可以具有定义的属性并支持包含丰富的内容。 丰富的链接功能：Podlite 允许将块、术语、定义链接到各种类型的关系，增强文档的互连性和可导航性。 支持公式和 Markdown：无论您需要插入复杂的数学公式还是喜欢 Markdown 的简单性，Podlite 可以满足您的需求。它无缝集成了两者，让您可以灵活地选择编写方式。 可扩展和可定制：使用自定义块和内联代码扩展 Podlite ，定制语言以满足您的特定需求。  Podlite v1.0 发行说明 Podlite v1.0 发行说明 谢谢   由   提交 /u/zagap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</guid>
       <pubDate>Tue, 23 Apr 2024 20:10:35 GMT</pubDate>
     </item>
