@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:09:19 GMT</lastBuildDate>
+    <item>
+      <title>我迷上了这首歌（Bossfight - Pirate Manners）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cdn52d/i_got_obsessed_with_this_track_bossfight_pirate/</link>
+      <description><![CDATA[https ://www.youtube.com/watch?v=8tUuU3fjTiA   由   提交 /u/sensiblecarol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cdn52d/i_got_obsessed_with_this_track_bossfight_pirate/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:40:47 GMT</pubDate>
+    </item>
     <item>
       <title>MrKathooloo 的 Chiptune 比赛 #31：在这里投票！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cdcunf/mrkathooloos_chiptune_contest_31_vote_here/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 25 Apr 2024 22:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>熔炉跟踪器中存在严重错误？（直流偏移）</title>
+      <title>熔炉追踪器中存在严重错误？ （直流偏置）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</link>
       <description><![CDATA[嗨！ 我想我在 Furnace 中发现了一个重大错误，可能会损坏您的扬声器/设备。 警告：如果您想尝试重现此错误，请先断开所有扬声器和耳机并将所有音量调至零。直流偏移对您的设备非常不利，并且可能会损坏您的扬声器！尝试此操作需要您自担风险！ 错误描述：当使用 NES 声芯片 (2A03) 时，Furnace 似乎会产生大量 DC 偏移（例如，当使用三角通道或 DPCM 通道时）。通常你不会真正注意到这一点，因为默认情况下启用了 DC 滤波器（设置 -&gt; 音频 -&gt; 混音 -&gt; DC 偏移校正），但如果禁用 DC 偏移校正，则会产生巨大的量直流偏置。例如，如果您在三角通道中播放声音，当声音停止时，Furnace 将继续输出上次播放值的 DC。您可以在音量表和示波器上清楚地看到这一点。这可能会损坏您的扬声器！即使启用了 DC 偏移校正，也会导致 DPCM 通道中的音量不均匀，随着时间的推移略有上下波动。 ​ 我没有Discord 或 GitHub 帐户，但如果你们中的一些人在 Furnace Discord 或 GitHub 上活跃，那么也许您可以向开发人员报告此问题？ 谢谢！ ​&lt; /p&gt; ​   由   提交/u/bleepin_tunes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ccyjch/serious_bug_in_furnace_tracker_dc_offset/</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>High-Speed Blitz - Mega Man X Soundfont - 我的第一个真正的、合法的芯片音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cce0ju/highspeed_blitz_mega_man_x_soundfont_my_first/</link>
-      <description><![CDATA[       由   提交/u/MinkyBoodle44  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/MinkyBoodle44  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cce0ju/highspeed_blitz_mega_man_x_soundfont_my_first/</guid>
       <pubDate>Thu, 25 Apr 2024 00:15:46 GMT</pubDate>
     </item>
     <item>
       <title>为我正在进行的一个项目写了几首歌。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cc4pfp/wrote_a_few_songs_for_a_project_im_working_on/</link>
-      <description><![CDATA[   使用 YM2612、Konami SCC、SNES、AY-3-8910 和 FL STUDIO   由   提交/u/napxers  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      使用 YM2612、Konami SCC、SNES、AY-3-8910 和 FL STUDIO    由    /u/napxers 提交   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cc4pfp/wrote_a_few_songs_for_a_project_im_working_on/</guid>
       <pubDate>Wed, 24 Apr 2024 17:49:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/Guigamer12  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cbbrqm/practicing_the_c64_tech_cover/</guid>
       <pubDate>Tue, 23 Apr 2024 18:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>印第安纳琼斯与最后的十字军东征：动作游戏 [MS DOS] IBM PC 扬声器上的一些音乐</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cb7swy/indiana_jones_and_the_last_crusade_the_action/</link>
-      <description><![CDATA[       由   提交 /u/JasperTedTale   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cb7swy/indiana_jones_and_the_last_crusade_the_action/</guid>
-      <pubDate>Tue, 23 Apr 2024 15:41:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
