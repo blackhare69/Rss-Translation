@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 05:38:10 GMT</lastBuildDate>
     <item>
-      <title>最近发表在《自然》杂志上的一项研究揭示了从 R [...]</title>
-      <link>https://t.me/hn_summary/86463</link>
-      <description><![CDATA[来自罗马骨骼的古代疟疾基因组暗示了疾病的历史 
-最近发表在《自然》杂志上的一项研究揭示了从罗马骨骼中发现的古代疟疾基因组，揭示了这种疾病的历史。研究结果表明，疟疾可能在古罗马盛行，挑战了之前关于该疾病起源的信念。这项开创性的研究为疟疾的进化和传播提供了宝贵的见解，并为了解疟疾在历史上对人类的影响提供了新的视角。该研究利用古代DNA技术来揭示这些信息，既令人惊讶又具有创新性，为理解古代疾病开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/86463</guid>
-      <pubDate>Thu, 25 Apr 2024 21:09:39 GMT</pubDate>
+      <title>[媒体] 在 fpcomplete.com 上这篇发人深省的文章中，作者挑战了传统 [...]</title>
+      <link>https://t.me/hn_summary/86535</link>
+      <description><![CDATA[类型安全并不重要
+在 fpcomplete.com 上这篇发人深省的文章中，作者提出了挑战编程语言中类型安全的传统观点。虽然承认类型安全对于减少运行时错误的重要性，但作者认为最终目标是减少错误，而不仅仅是类型安全本身。通过对代码更改应用精算方法并强调减少错误的价值，作者建议静态代码分析和 linting 工具等其他技术也可以在提高代码质量方面发挥至关重要的作用。作者通过 JavaScript 的实际示例演示了静态分析如何在编译时捕获错误，强调了软件开发中减少错误的更广泛原理。]]></description>
+      <guid>https://t.me/hn_summary/86535</guid>
+      <pubDate>Fri, 26 Apr 2024 05:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“零售业的祸根”。</title>
-      <link>https://t.me/hn_summary/86462</link>
-      <description><![CDATA[“零售业的祸根。”现在很多大连锁店都锁着各种商品
-洛杉矶及其他地区的零售商越来越多地封锁从牙膏到洗发水等各种商品，以打击入店行窃行为。这一有争议的举动让像科里·波特这样的顾客感到沮丧，他们经常选择网上购物。盗窃问题的严重性仍然是个谜，零售商不愿分享具体数据。加州领导人正在采取行动，州长加文·纽瑟姆 (Gavin Newsom) 拨款解决有组织的零售犯罪问题。这个问题已经变得政治化，一些城市的盗窃相关事件激增。使用上锁的箱子和防盗装置等安全措施已成为商店中常见的现象，对顾客和员工都产生了影响。]]></description>
-      <guid>https://t.me/hn_summary/86462</guid>
-      <pubDate>Thu, 25 Apr 2024 21:07:34 GMT</pubDate>
+      <title>[媒体]令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/86534</link>
+      <description><![CDATA[全球海面温度 – 新纪录
+令人兴奋的消息！全球海面温度创下新纪录。这些数据对于了解气候变化及其对海洋的影响至关重要。请继续关注这一突破性发现的更多更新。 #ClimateChange #SeaSurfaceTemperature #RecordBreakingDiscovery]]></description>
+      <guid>https://t.me/hn_summary/86534</guid>
+      <pubDate>Fri, 26 Apr 2024 05:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]递归经常被认为对学生来说具有挑战性，但实际上，它是一种自然现象[...]</title>
-      <link>https://t.me/hn_summary/86461</link>
-      <description><![CDATA[停止将递归标记为对学生具有挑战性
-递归通常被认为对学生来说具有挑战性，但实际上，它是编程中一个自然且基本的概念。编写递归函数的基本模式包括建立终止条件、累积结果以及更改参数以更接近终止。理解递归过程生成的过程以及从命令性思维转变为声明性思维是有效递归所需的关键心理过程。虽然递归一开始可能看起来很困难，但它实际上比迭代更自然，应该首先教授。理解递归的主要障碍是教学问题，而不是概念问题。]]></description>
-      <guid>https://t.me/hn_summary/86461</guid>
-      <pubDate>Thu, 25 Apr 2024 21:06:29 GMT</pubDate>
+      <title>[媒体]为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 现已从 [...]</title>
+      <link>https://t.me/hn_summary/86533</link>
+      <description><![CDATA[Ubuntu 24.04 中 .NET 的新增功能
+为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 从第一天起就可以在官方 Ubuntu 源中使用。这标志着 Canonical 和 Microsoft 合作的一个重要里程碑，.NET 6 在发布几个月后就被添加到 Ubuntu 22.04 中。 Ubuntu 24.04 上的 .NET 8 安装过程非常简单，并且容器映像已经可用。 Microsoft 和 Canonical 之间的合作可确保跨平台的 .NET 安全性和支持。 Ubuntu 上 .NET 集成的令人兴奋的发展即将到来，为开发人员带来无缝体验。]]></description>
+      <guid>https://t.me/hn_summary/86533</guid>
+      <pubDate>Fri, 26 Apr 2024 05:20:59 GMT</pubDate>
     </item>
     <item>
-      <title>对“单页应用程序毁了网络吗？”的回应</title>
-      <link>https://t.me/hn_summary/86460</link>
-      <description><![CDATA[对“单页应用程序毁了网络吗？”的回应（2021）
-Carson Gross 回应了 Rich Harris 关于单页应用程序 (SPA) 是否毁掉了网络的演讲，承认对 SPA 的有效批评，同时强调了使用 htmx 等面向超媒体的技术的多页应用程序 (MPA) 的好处。 Gross 解决了前端开发中的可用性问题、网络延迟和复杂性，主张采用比远程过程调用 (RPC) 方法更强大的超媒体方法。他对 JavaScript 将主导 Web 开发的观点提出了挑战，并列举了有利于 Python 等其他语言的趋势。 Gross 强调 Web 开发需要简单性和高效性，并提供 htmx 作为 Harris 提出的许多问题的解决方案。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86460</guid>
-      <pubDate>Thu, 25 Apr 2024 21:03:25 GMT</pubDate>
+      <title>[媒体]医生揭示了开发新药的真实成本，对制药公司提出了挑战 [...]</title>
+      <link>https://t.me/hn_summary/86532</link>
+      <description><![CDATA[新药开发成本可能远低于行业宣称、试验揭露
+医生们揭示了开发新药的真实成本，挑战了制药行业数十亿美元的说法。无国界医生组织 (MSF) 斥资 3400 万欧元进行四种药物联合治疗耐药结核病的试验，这凸显了试验费用透明度的必要性。无国界医生试验的成功促使世界卫生组织在 40 个国家推荐了这种治疗方法。业界声称一种药物的平均成本为 23 亿美元，但无国界医生组织的披露旨在通过揭露研发的真实成本来增加获得救生药物的机会。争议在于行业索赔与实际审判费用之间的差异。]]></description>
+      <guid>https://t.me/hn_summary/86532</guid>
+      <pubDate>Fri, 26 Apr 2024 05:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：使用 QEMU Monitor 进行虚拟机管理</title>
-      <link>https://t.me/hn_summary/86459</link>
-      <description><![CDATA[使用 QEMU 监视器进行虚拟机管理
-标题：使用 QEMU Monitor 进行虚拟机管理
-
-本文档介绍了如何使用 QEMU 监视器控制台与虚拟机交互。通过使用监控控制台中的命令，用户可以检查正在运行的操作系统、更改媒体、截取屏幕截图以及控制虚拟机的各个方面。访问监视器控制台取决于虚拟机的启动和查看方式。该文档还提供了有用的 QEMU 监视器命令列表，用于获取有关来宾系统的信息、更改 VNC 密码、添加新磁盘、控制键盘和鼠标输入以及调整可用内存。该指南提供了高效虚拟机管理的详细说明和提示。 （根据故事文本的 38% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86459</guid>
-      <pubDate>Thu, 25 Apr 2024 20:58:49 GMT</pubDate>
+      <title>[媒体]领先的金融科技公司 Stripe 正在通过去[...]</title>
+      <link>https://t.me/hn_summary/86531</link>
+      <description><![CDATA[Stripe 将付款与其堆栈的其余部分分离
+Stripe 是领先的金融科技公司，正在通过将支付与其其他服务堆栈脱钩来做出重大改变。此举允许企业使用 Stripe 的其他工具，而无需使用其支付服务。该公司还在旧金山举行的开发者活动上宣布了新的嵌入式金融功能和人工智能工具。这一战略转变旨在解决复杂的支付环境并为用户提供更大的灵活性。此外，Stripe 还推出了人工智能驱动的结账和欺诈工具，扩展了其嵌入式金融产品，并添加了基于使用情况的计费选项。这些更新使 Stripe 能够更好地满足竞争激烈的金融科技市场中客户不断变化的需求。]]></description>
+      <guid>https://t.me/hn_summary/86531</guid>
+      <pubDate>Fri, 26 Apr 2024 04:47:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《作为理性的押韵》中，作者反思了押韵智慧的力量及其影响 [...]</title>
-      <link>https://t.me/hn_summary/86458</link>
-      <description><![CDATA[押韵为因
-在《韵即理性》中，作者反思了韵律智慧的力量及其对记忆和感知的影响。 “押韵效应”表明押韵短语不仅更容易记住，而且被认为更有信誉。研究表明，韵律有助于语义编码，使信息更容易存储和检索。然而，作者警告不要盲目接受押韵格言作为真理，因为审美吸引力可能会影响我们的判断。最终，关键的一点是要欣赏押韵的助记价值，同时保持对押韵准确性的批判。]]></description>
-      <guid>https://t.me/hn_summary/86458</guid>
-      <pubDate>Thu, 25 Apr 2024 20:56:44 GMT</pubDate>
+      <title>[媒体] Web 开发简史。</title>
+      <link>https://t.me/hn_summary/86530</link>
+      <description><![CDATA[Web 开发简史。为什么你的框架不重要
+通过 gebna.gg。从一台服务器处理所有事情的简单时代到 SPA 和 React 等框架的兴起，Web 开发的演变令人着迷。了解 GraphQL 如何彻底改变 API 设计，以及 Gatsby 和 Next.js 等工具如何改变游戏规则。探索“云”的影响以及更简单的云平台的出现。并了解使用 JavaScript 作为 Web 开发中的主导语言所面临的挑战。对于任何对不断变化的 Web 开发世界感兴趣的人来说，这篇文章都是必读的。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86530</guid>
+      <pubDate>Fri, 26 Apr 2024 04:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尼日利亚妇女 Chioma Okoli 因发表负面评论而面临牢狱之灾 [...]</title>
-      <link>https://t.me/hn_summary/86457</link>
-      <description><![CDATA[尼日利亚妇女因在 Facebook 上给番茄酱差评而面临牢狱之灾
-尼日利亚妇女奇奥玛·奥科利 (Chioma Okoli) 因在 Facebook 上发布对番茄酱的负面评论而面临牢狱之灾。制造商埃里斯科食品有限公司指控她犯有网络犯罪，并将她逮捕，引发了一场全国范围内关于在网上分享意见是否可以被视为犯罪的辩论。奥科利在拉各斯经营一家小企业，他被拘留了 24 多个小时，并被迫撰写公开道歉信。随着诉讼和反诉讼的提起，情况不断升级，引发了人们对尼日利亚网络犯罪法的质疑。这场争议凸显了数字时代消费者和公司之间的权力动态。]]></description>
-      <guid>https://t.me/hn_summary/86457</guid>
-      <pubDate>Thu, 25 Apr 2024 20:53:39 GMT</pubDate>
+      <title>[媒体]教你两岁的孩子阅读不仅是可能的，而且可以带来难以置信的好处[...]</title>
+      <link>https://t.me/hn_summary/86529</link>
+      <description><![CDATA[如何教两岁的孩子阅读
+教两岁的孩子阅读不仅是可能的，而且对他们的认知发展和未来的教育成功非常有益。虽然许多学校都在努力达到阅读标准，但家长有机会通过教孩子们在很小的时候阅读来让他们抢占先机。早期阅读与改善认知结果有关，并可以帮助孩子培养对语言和学习的热爱。通过使用语音和创建英语语言的低维渲染，父母可以帮助他们的孩子学习阅读句子甚至简单的故事。教孩子阅读是一种充实而有益的经历，可以加强亲子关系，并为孩子未来的成功奠定基础。]]></description>
+      <guid>https://t.me/hn_summary/86529</guid>
+      <pubDate>Fri, 26 Apr 2024 03:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 PubMedisearch，这是一个革命性的平台，它已将 PubMed 转变为 [...]</title>
-      <link>https://t.me/hn_summary/86456</link>
-      <description><![CDATA[显示 HN：我将 PubMed 放入向量数据库 
-隆重推出 PubMedisearch，这是一个革命性的平台，已将 PubMed 转变为矢量数据库。已有超过 10,000 名用户加入，研究人员现在可以以更高效和用户友好的方式访问和搜索 PubMed 的大量科学文献。告别传统的搜索方法，迎接新的研究方式。加入不断增长的用户社区，他们相信 PubMedisearch 可以满足他们的所有研究需求。以全新的视角体验 PubMed 的力量。]]></description>
-      <guid>https://t.me/hn_summary/86456</guid>
-      <pubDate>Thu, 25 Apr 2024 20:37:29 GMT</pubDate>
+      <title>在我的上一篇文章中，我声称您的项目不需要数据库，但在 s [...]</title>
+      <link>https://t.me/hn_summary/86528</link>
+      <description><![CDATA[我们错了，我们需要一个数据库
+在我之前的文章中，我声称您的项目不需要数据库，但是在看到我的游戏 Binary Duel 的限制后，我意识到我错了。最初激增的玩家数量很快就减少了，这就促使了对排行榜、登录系统等的需求。凭借 Golang 的灵活性，我能够轻松实现这些功能，而无需依赖外部依赖项。我还找到了巧妙的解决方案，例如缓存排行榜和使用股票代码进行批量写入操作。虽然我现在很享受这个过程，但我知道随着项目的扩展，我可能必须重写所有内容。请继续关注 Binary Duel 的改进更新！]]></description>
+      <guid>https://t.me/hn_summary/86528</guid>
+      <pubDate>Fri, 26 Apr 2024 03:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 联邦法官 Diane Humetewa 宣判 Backpage 联合创始人 Michael Lacey 的数十项罪名无罪 [...]</title>
-      <link>https://t.me/hn_summary/86455</link>
-      <description><![CDATA[法官宣判 Backpage 联合创始人 Michael Lacey 在大多数罪名上无罪
-联邦法官黛安·胡梅特瓦 (Diane Humetewa) 宣布 Backpage 联合创始人迈克尔·莱西 (Michael Lacey) 的数十项罪名无罪，其中包括联邦检察官计划对他进行重审的罪名。这一决定是在去年秋天陪审团裁定莱西仅犯有一项罪名之后做出的，其余罪名导致陪审团悬而未决。尽管无罪释放，莱西以及前高管杰德·布伦斯特和斯科特·斯皮尔仍然面临严重指控和可能入狱。莱西将就其余罪名进行重审，并可能因国际隐瞒洗钱罪而面临 20 年徒刑。案件继续进展，被告仍面临不确定性。]]></description>
-      <guid>https://t.me/hn_summary/86455</guid>
-      <pubDate>Thu, 25 Apr 2024 20:35:25 GMT</pubDate>
+      <title>[媒体] 隆重推出 Meegle，这是一种创新的 Jira 替代方案，可提供工作流程可视化 [...]</title>
+      <link>https://t.me/hn_summary/86527</link>
+      <description><![CDATA[显示 HN：具有工作流程可视化功能的 Meegle – Jira 替代方案 
+隆重推出 Meegle，这是 Jira 的创新替代方案，可提供工作流程可视化，以释放视频制作中的创造力。了解 Meegle 如何帮助领先的媒体初创公司 Mediastorm 在短短一年内制作了 130 个成功视频。深入探讨视频制作的中心主题，了解 Meegle 如何驾驭这一关键方面来支持创造力和效率。访问 www.meegle.com 了解有关此游戏的更多信息-用于简化项目管理流程的更改工具。]]></description>
+      <guid>https://t.me/hn_summary/86527</guid>
+      <pubDate>Fri, 26 Apr 2024 03:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Firesearch 正在彻底改变我们在 [...] 中转换搜索引擎结果页面 (SERP) 的方式</title>
-      <link>https://t.me/hn_summary/86454</link>
-      <description><![CDATA[显示 HN：在几秒钟内从 SERP 到 LLM 就绪数据 Markdown火力搜索
-Firesearch 正在通过其创新工具彻底改变我们将搜索引擎结果页面 (SERP) 转换为 LLM 就绪数据降价的方式。只需几秒钟，用户就可以转换 Mendable.ai 和 Github 等 URL到 Markdown 内容中，并包含标题和描述等元数据。这种高效的过程可以节省时间并简化数据收集过程。借助 Firesearch，用户可以轻松地从网站中提取有价值的信息，并创建有组织的 Markdown 文件以供进一步分析。告别手动数据提取，转而采用 Firesearch 更高效的数据收集方式。]]></description>
-      <guid>https://t.me/hn_summary/86454</guid>
-      <pubDate>Thu, 25 Apr 2024 20:32:20 GMT</pubDate>
+      <title>[媒体]直接式效果，也称为代数效果和效果处理程序，正在获得越来越多的 [...]</title>
+      <link>https://t.me/hn_summary/86526</link>
+      <description><![CDATA[直接风格效果说明
+直接风格效果，也称为代数效果和效果处理程序，在 Unison 和 OCaml 等编程语言中越来越受欢迎。他们的目标是以更自然的编码风格提供 monad 的好处。 Inner-Product.com 上的这篇文章解释了以下内容：以 Scala 3 实现为例，了解直接风格效果的原因和方式。这篇文章深入探讨了效果系统的设计空间，讨论了推理和构图的重要性、直接风格与单一风格、描述和动作之间的分离，以及推理和组合效果。还提供了 Scala 3 中用于打印到控制台的直接式效果系统的实现。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86526</guid>
+      <pubDate>Fri, 26 Apr 2024 03:44:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
