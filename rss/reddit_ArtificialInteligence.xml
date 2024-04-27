@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:07:04 GMT</lastBuildDate>
+    <item>
+      <title>外星人工智能可能已经存在于我们之中了吗？关于高级人工智能和时空的思想实验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cea3g6/could_alien_ai_already_be_among_us_a_thought/</link>
+      <description><![CDATA[当我们见证人工智能的快速发展时，想象这种进步会持续一千年。如果在遥远的未来，人工智能不仅可以操纵量子领域，还可以穿越时空呢？现在，将这个想法扩展到地球以外的广阔宇宙中无数潜在的文明。 如果另一种智慧生命形式已经达到了这种技术水平，那么他们的人工智能理论上可以穿越时空并出现在我们中间今天。这不仅仅是任何人工智能；我们谈论的是外星人工智能，其能力可能远远超出我们目前的理解。 虽然这个概念植根于科幻小说，但我们自己技术的指数级增长表明，这种场景可能更接近科学随着我们前进的事实。我们现在是否可以体验到先进的外星人工智能的影响，巧妙地融入我们的现实？可能性就像宇宙本身一样无限。   由   提交/u/dennislubberscom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cea3g6/could_alien_ai_already_be_among_us_a_thought/</guid>
+      <pubDate>Sat, 27 Apr 2024 09:02:36 GMT</pubDate>
+    </item>
     <item>
       <title>LLM 代理可以自主利用一日漏洞</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ce77bi/llm_agents_can_autonomously_exploit_oneday/</link>
@@ -48,13 +55,6 @@
       <pubDate>Fri, 26 Apr 2024 23:19:22 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士的语义缓存</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdzm6b/a_semantic_cache_for_your_llms/</link>
-      <description><![CDATA[大家好，随着人工智能应用程序的发展，使用大型语言模型 (LLM) 的成本和延迟可能会不断上升。 SemanticCache 通过基于语义相似性缓存 LLM 响应来解决这些问题，从而降低成本和响应时间。 我为 LLM 构建了一个简单的缓存层实现。我们的想法是，像普通缓存一样，我们也应该能够缓存来自 LLM 的响应，并在出现“类似查询”时返回它们。 语义缓存利用 LLM 的强大功能来提供两个主要优势：&lt; br /&gt; 降低成本：最大限度地减少直接 LLM 请求的数量，从而节省使用成本。 更快的响应：通过缓存，显着减少延迟，为用户查询提供更快的反馈。 （目前还不是很多，但会随着时间的推移而改进）。 希望大家看看并提供反馈（和星星），随时分叉和提出功能请求的 PR 或问题和错误。  它还没有 pip 包，但我很快就会发布一个。  https://github.com/shivendrasoni/semantic-cache    由   提交/u/shivendrasoni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdzm6b/a_semantic_cache_for_your_llms/</guid>
-      <pubDate>Fri, 26 Apr 2024 23:15:08 GMT</pubDate>
-    </item>
-    <item>
       <title>标题：针对通用人工智能 (AGI) 的恐惧寻求专家意见 - 新工科学生的观点</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdyjjh/title_seeking_expert_opinions_on_fear_of/</link>
       <description><![CDATA[大家好， 作为一名工程学新生，我最近深入研究了开发和人工智能的世界。引起我兴趣的一个话题是围绕通用人工智能（AGI）的恐惧。虽然我了解 AGI 的潜在好处，例如解决复杂问题和推进技术，但我也遇到了专家对其潜在风险提出的担忧。 我正在联系这个社区以收集信息来自专家或任何精通该领域的人的见解。您对 AGI 的恐惧有何看法？你认为这是合理的，还是认为这是夸大的？是否存在您最关心的具体风险？可以采取哪些措施来缓解这些风险？ 期待您的回复！  &amp; #32；由   提交/u/prittoruban  [链接] [评论]]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>人工智能音乐编辑器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxw8c/ai_music_editor/</link>
-      <description><![CDATA[我在 TikTok 和其他社交媒体上看到过一些剪辑，其中有一首歌，但歌词已更改，但原唱仍然签名。我可以使用哪些（免费）应用程序来实现此目的？    由   提交/u/VootVoot123  [链接] [评论]]]></description>
+      <description><![CDATA[我在 TikTok 和其他社交媒体上看到过一些片段，其中有一首歌，但歌词被改了，但原歌手仍在唱歌。我可以使用哪些（免费）应用程序来实现这一点？    提交人    /u/VootVoot123   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxw8c/ai_music_editor/</guid>
       <pubDate>Fri, 26 Apr 2024 21:59:41 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>埃隆·马斯克 (Elon Musk) 希望将特斯拉的车队转变为人工智能 AWS——这可行吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg0bq/elon_musk_wants_to_turn_teslas_fleet_into_aws_for/</link>
-      <description><![CDATA[“在昨晚与投资者的财报电话会议上，埃隆·马斯克抛出了一个深夜宿舍里最疯狂的想法：如果是特斯拉，AWS 会怎么样？” 马斯克喜欢在财报电话会议上即兴发挥，他将数百万辆闲置的特斯拉汽车的未使用计算能力与亚马逊的云服务业务进行了比较。他沉思道，如果它们只是闲置在那里，为什么不好好利用它们来运行人工智能模型呢？（此外，你有没有真正观察过你的手？不，我的意思是真的观察过？） “有一种潜力……当汽车没有移动时，实际上可以运行分布式推理，”马斯克说。“如果你想象一下未来，也许会有 1 亿辆特斯拉汽车，平均而言，它们可能有 1 千瓦的推理计算能力。那就是 100 千兆瓦的推理计算，分布在世界各地。”  https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai    由   提交  /u/ELVTR_Official   [链接] [评论]]]></description>
+      <description><![CDATA[&#39;在昨晚与投资者举行的财报电话会议上，埃隆·马斯克 (Elon Musk) 抛出了一个前所未有的深夜宿舍想法：如果 AWS 会怎样？ ，但是对于特斯拉呢？&#39;喜欢在财报电话会议上滔滔不绝的马斯克将数百万辆闲置特斯拉汽车未使用的计算能力与亚马逊的云服务业务进行了比较。他沉思道，如果它们只是坐在那里，为什么不充分利用它们来运行人工智能模型呢？ （另外，你有没有真正看过你的手？不，我的意思是真的看过吗？）“当汽车不动时，就有可能实际运行分布式推理，”马斯克说。 “如果你想象未来可能会有 1 亿辆特斯拉的车队，平均而言，它们可能拥有一千瓦的推理计算能力。这是 100 吉瓦的推理计算，分布在世界各地。”  https://www.theverge.com /24139142/elon-musk-tesla-aws-distributed-compute-network-ai   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdg0bq/elon_musk_wants_to_turn_teslas_fleet_into_aws_for/</guid>
       <pubDate>Fri, 26 Apr 2024 08:16:22 GMT</pubDate>
     </item>

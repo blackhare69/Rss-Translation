@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:08:25 GMT</lastBuildDate>
     <item>
-      <title>florisboard 抛光支持吗？</title>
+      <title>分叉项目命名</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
+      <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 的 AudioSharing RTSP 替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
+      <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
+      <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>florisboard 抛光支持 ?</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
       <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 26 Apr 2024 02:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>https://flosshub.org/biblio 为什么档案馆只列出 2017 年之前的研究文献</title>
+      <title>https://flosshub.org/biblio 为什么档案馆只列出截至 2017 年的研究文献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</link>
-      <description><![CDATA[为什么会这样？    由    /u/Munich_tal 提交   [链接] [评论]]]></description>
+      <description><![CDATA[为什么会这样？   由   提交 /u/Munich_tal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</guid>
       <pubDate>Fri, 26 Apr 2024 02:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们勉强避开的 XZ 后门位置很可怕。似乎这种供应链攻击仍然是可能的，开发人员不会/不能彻底、持续地评估他们使用的库。有没有一个整体的方案来解决这个问题？有人在做这方面的工作吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</link>
-      <description><![CDATA[ 由   提交/u/ScruffyLineout   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</guid>
-      <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
-      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
