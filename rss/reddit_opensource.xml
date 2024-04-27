@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 09:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 12:12:16 GMT</lastBuildDate>
+    <item>
+      <title>一种命令行方式，可以从 Kindle 中提取所有要点（包括不是从 Jeff 那里购买的文档中的要点）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</link>
+      <description><![CDATA[       由   提交/u/edwardianpug  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</guid>
+      <pubDate>Sat, 27 Apr 2024 09:57:26 GMT</pubDate>
+    </item>
     <item>
       <title>分叉项目命名</title>
       <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿，我希望能找到其他申请参加今年 Google 代码之夏的贡献者的人。  我一直在检查我的提案，并注意到“最后更新”是我的提案中的日期在过去一周更改了两次，可能表明幕后有什么事情（例如导师对我的提案进行排名等？） 其他人也发生过这种情况吗？这似乎有点奇怪，因为最近更改的日期是今天，4 月 25 日，排名期于 24 日结束。席位分配期将于 29 日结束，但我不明白为什么会更新任何提案，因为这只是组织请求 x 数量的席位。 无论如何，任何能让我平静下来的回复将不胜感激。我只是很紧张，想知道我是否获得了这个职位，因为我在申请中投入了如此多的时间和精力。   由   提交/u/weeeewoooweeeee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdaguu/my_gsoc_proposal_was_updated/</guid>
       <pubDate>Fri, 26 Apr 2024 02:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>https://flosshub.org/biblio 为什么档案馆只列出截至 2017 年的研究文献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</link>
-      <description><![CDATA[为什么会这样？   由   提交 /u/Munich_tal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</guid>
-      <pubDate>Fri, 26 Apr 2024 02:35:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
