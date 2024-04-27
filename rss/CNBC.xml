@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 12:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 15:05:50 GMT</lastBuildDate>
+    <item>
+      <title>数字广告市场终于好转，从 2022 年的“黑暗日子”中反弹</title>
+      <link>https://www.cnbc.com/2024/04/27/digital-ad-market-on-mend-as-meta-alphabet-snap-show-faster-growth-.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/04/27/digital-ad-market-on-mend-as-meta-alphabet-snap-show-faster-growth-.html</guid>
+      <pubDate>Sat, 27 Apr 2024 12:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>当局称，俄罗斯克拉斯诺达尔地区的炼油厂在乌克兰无人机袭击中受损</title>
       <link>https://www.cnbc.com/2024/04/27/oil-refinery-in-russia-region-damaged-in-ukraine-drone-attack-authorities.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[优诺酸奶容器显示在加利福尼亚州圣拉斐尔圣维尼蒂亚市场的货架。Justin Sullivan |盖蒂图片社通用磨坊，可可泡芙和麦片早餐的制造商知情人士称，谷类食品公司正在考虑出售其北美酸奶业务，包括其广受欢迎的 Yoplait 品牌，交易价值可能超过 20 亿美元。这家总部位于明尼阿波利斯的食品集团正在与投资银行合作摩根大通   消息人士称，这是为了衡量潜在买家的兴趣，其中可能包括竞争对手的休闲食品制造商和私募股权公司。由于讨论是保密的，因此要求匿名。 通用磨坊希望酸奶投资组合的估值接近该部门 12 个月息前利润的 10 倍消息人士称，税金、折旧和摊销约为 2.5 亿美元。通用磨坊和摩根大通拒绝置评。通用磨坊的股价在过去一年下跌了约 19%周五上涨至 71.04 美元，该公司估值约为 400 亿美元。3 月份，通用磨坊 (General Mills) 第三季度销售额和利润超出市场预期，原因是其早餐麦片、零食棒和宠物食品价格上涨。这些产品有助于缓解消费者需求放缓带来的冲击。一群法国奶农于 1964 年创立了优诺 (Yoplait)，该公司于 1977 年通过特许经营协议与通用磨坊 (General Mills) 合作，授予 Bisquick 煎饼粉制造商独家经营权在美国营销该品牌的权利2011 年，General Mills 收购了 51% 的股份，价值 1.2 美元私募股权公司 PAI Partners 和法国乳制品合作社 Sodiaal 向 Yoplait 投资了 10 亿美元。索地亚尔保留剩余股份。2021 年，通用磨坊将 Yoplait 的欧洲业务出售给索地亚尔。当时，该公司表示，其美国和加拿大酸奶业务 2020 财年的净销售额总计为 14 亿美元。通用磨坊已经剥离了 Yoplait 的欧洲部门，将剩余的酸奶资产视为非盈利资产。消息人士称，这是其当前战略的核心，因为它面临着市场领导者 Chobani 和达能旗下 Dannon 品牌的激烈竞争。酸奶制造商在过去的一年里一直在积极进行交易。金宝汤 (Campbell Soup) 正在寻求剥离 Noosa Yogurt 部门，该部门是其去年以 27 亿美元收购 Sovos Brands 交易的一部分而收购的。达能 (Danone) 去年将其 Wallaby 酸奶和 Horizo​​n 牛奶品牌以 100 美元的价格出售给 Platinum Equity。金额未公开。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/general-mills-explores-sale-of-2-billion-plus-yogurt-business-in-north-america-reuters-sources-say-.html</guid>
       <pubDate>Fri, 26 Apr 2024 19:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>迄今为止的所有数据都表明通胀并未消失，并且让美联储的处境变得艰难</title>
-      <link>https://www.cnbc.com/2024/04/26/all-the-data-shows-inflation-isnt-going-away-making-things-tough-on-fed.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/all-the-data-shows-inflation-isnt-going-away-making-things-tough-on-fed.html</guid>
-      <pubDate>Fri, 26 Apr 2024 19:25:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
