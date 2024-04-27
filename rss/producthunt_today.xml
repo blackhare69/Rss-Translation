@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:11:03 GMT</lastBuildDate>
     <item>
       <title>深渊漫游者</title>
       <link>https://www.producthunt.com/posts/deepwander</link>
@@ -51,12 +51,12 @@
       <title>租</title>
       <link>https://www.producthunt.com/posts/hyra</link>
       <description><![CDATA[
-            适用于 Apple Vision Pro 的沉浸式 AI 阅读应用
-          
+适用于 Apple Vision Pro 的沉浸式 AI 阅读应用
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/hyra</guid>
       <pubDate>Thu, 25 Apr 2024 23:26:55 GMT</pubDate>
@@ -93,7 +93,7 @@
       <title>宝石</title>
       <link>https://www.producthunt.com/posts/gems-3</link>
       <description><![CDATA[
-            从您的所有知识中获取现成可用的答案
+            从您所有的知识中获取现成可用的答案
           
 
 讨论&lt; /a&gt;
@@ -107,7 +107,7 @@
       <title>习惯</title>
       <link>https://www.producthunt.com/posts/habitie</link>
       <description><![CDATA[
-            一款旨在帮助用户养成习惯的 iOS 应用
+            一款旨在帮助用户养成习惯的iOS应用程序
           
 
 讨论
@@ -118,7 +118,7 @@
       <pubDate>Thu, 25 Apr 2024 03:39:53 GMT</pubDate>
     </item>
     <item>
-      <title>Zombie.io：土豆射击</title>
+      <title>Zombie.io: 土豆射击</title>
       <link>https://www.producthunt.com/posts/zombie-io-potato-shooting</link>
       <description><![CDATA[
             超好玩的射击RPG
