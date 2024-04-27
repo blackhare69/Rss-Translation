@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:11:02 GMT</lastBuildDate>
     <item>
       <title>深渊漫游者</title>
       <link>https://www.producthunt.com/posts/deepwander</link>
@@ -37,12 +37,12 @@
       <title>表情符号</title>
       <link>https://www.producthunt.com/posts/emojitell</link>
       <description><![CDATA[
-            将文本翻译成有趣且富有表现力的表情符号组合
-          
+将文本翻译成有趣且富有表现力的表情符号组合
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/emojitell</guid>
       <pubDate>Fri, 26 Apr 2024 02:05:53 GMT</pubDate>
@@ -121,12 +121,12 @@
       <title>Zombie.io：土豆射击</title>
       <link>https://www.producthunt.com/posts/zombie-io-potato-shooting</link>
       <description><![CDATA[
-超级好玩的射击 RPG
-
+            超好玩的射击RPG
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/zombie-io-potato-shooting</guid>
       <pubDate>Thu, 25 Apr 2024 00:33:10 GMT</pubDate>
