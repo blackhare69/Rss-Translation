@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:13:26 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 替代方案 - 基于使用情况的计费</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1cfwz30/chatgpt_alternative_usage_based_billing/</link>
+      <description><![CDATA[大家好， 我目前正在寻找适合商业应用程序的 AI 服务，该服务在后台使用 OpenAI 并提供基于使用情况的计费。我们公司有很多用户，但每个用户都很少使用该服务，因此每个用户每月 20-30 美元的费用是不切实际的。 有人可以推荐符合这些标准的 AI 服务吗？理想情况下，我正在寻找允许我们根据实际使用情况而不是按每个用户的统一费率付费的解决方案。如果您对类似服务有任何见解或经验，我们将不胜感激！ 提前感谢您的帮助！   由   提交/u/bwljohannes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1cfwz30/chatgpt_alternative_usage_based_billing/</guid>
+      <pubDate>Mon, 29 Apr 2024 11:41:37 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 召集所有技术奇才和人工智能专家！ 🧠 加入我们革命教育的使命！ �</title>
       <link>https://www.reddit.com/r/GPT3/comments/1ccpr4m/calling_all_tech_wizards_ai_gurus_join_our/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>AI 模型：嵌入提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cco9is/ai_model_embed_prompts/</link>
-      <description><![CDATA[那么如何将提示嵌入到模型中呢？那么我可以通过 OpenAI-API 使用它吗？我的意思不是微调。这对于我的目的来说太过分了。    由   提交/u/MOCO04  [链接] [评论]]]></description>
+      <description><![CDATA[那么我如何将提示嵌入模型中？这样我就可以通过 OpenAI-API 使用它了？我不是指微调。这对我的目的来说太过分了。    提交人    /u/MOCO04   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1cco9is/ai_model_embed_prompts/</guid>
       <pubDate>Thu, 25 Apr 2024 10:10:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c5mhzz/could_chatgpt_have_created_published_and/</guid>
       <pubDate>Tue, 16 Apr 2024 17:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>应对 Excel 中的 Microsoft Copilot 挑战（调查）</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1c59wub/tackling_microsoft_copilot_challenges_in_excel/</link>
-      <description><![CDATA[您好，我们是来自瑞典达拉纳大学的两名学生。目前，我们正在开展论文工作，重点关注在 Excel 中使用 Microsoft Copilot 时遇到的挑战。如果您有使用 Excel 中的 Copilot 的经验，如果您能抽出 5 分钟的时间来完成我们的匿名调查，我们将不胜感激。提前感谢你的帮助。调查链接：https://forms.office.com/e/GRbrtN3GFb  &lt; !-- SC_ON --&gt;  由   提交 /u/Gabriel_Winlof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1c59wub/tackling_microsoft_copilot_challenges_in_excel/</guid>
-      <pubDate>Tue, 16 Apr 2024 07:13:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
