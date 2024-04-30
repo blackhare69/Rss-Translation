@@ -4,16 +4,23 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:06:17 GMT</lastBuildDate>
     <item>
-      <title>StarCoder2-Instruct：完全透明且允许的代码生成自对准</title>
+      <title>提高结构化生成的即时一致性</title>
+      <link>https://huggingface.co/blog/evaluation-structured-outputs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/evaluation-structured-outputs</guid>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>StarCoder2-Instruct：完全透明且允许自对齐的代码生成</title>
       <link>https://huggingface.co/blog/sc2-instruct</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/sc2-instruct</guid>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放思想排行榜链简介</title>
+      <title>推出开放思维链排行榜</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-cot</guid>
@@ -48,14 +55,14 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面且无污染的评估</title>
+      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在拥抱脸部端点上运行隐私保护推理</title>
+      <title>在拥抱人脸端点上运行隐私保护推理</title>
       <link>https://huggingface.co/blog/fhe-endpoints</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fhe-endpoints</guid>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/hugging-face-wiz-security-blog</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/hugging-face-wiz-security-blog</guid>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Hugging Face 数据集查看器 API 和 Motherduck DuckDB-NSQL-7B 的 Text2SQL</title>
-      <link>https://huggingface.co/blog/duckdb-nsql-7b</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/duckdb-nsql-7b</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
