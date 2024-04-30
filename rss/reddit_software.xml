@@ -4,18 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:10:47 GMT</lastBuildDate>
+    <item>
+      <title>需要软件（最好是免费软件）来知道我的互联网何时恢复</title>
+      <link>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</link>
+      <description><![CDATA[昨天我们遭遇了特大雷暴，互联网断了一整天，但当网络恢复时，我除了手动检查之外没有其他办法知道，而且因为很长时间都没有信号，我当时不在电脑旁，所以从网络恢复到我检查时，已经过去了 4 个小时 有没有软件或免费软件可以在互联网恢复时立即发出警报？    提交人    /u/thejuanwelove   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:09:32 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找显示程序 - 请帮忙</title>
       <link>https://www.reddit.com/r/software/comments/1cgf4md/in_search_of_display_program_please_help/</link>
-      <description><![CDATA[不确定这是否是正确的 Reddit 子版块，但我需要帮助。为了工作，我们正在举办一个活动，他们希望有 8 个显示器来显示不同的内容，但每 10 分钟同步播放相同的视频。我们希望能够从一个控制中心控制一切。我无法找到允许我执行此操作的程序。我发现大多数应用程序只允许 2 个显示器。   由   提交/u/cerob5  [链接] [评论]]]></description>
+      <description><![CDATA[不确定这是否是正确的 subreddit，但我需要帮助。为了工作，我们正在举办一个活动，他们希望有 8 个显示器显示不同的内容，但每 10 分钟同步播放相同的视频。我们希望能够从一个控制中心控制一切。我无法找到允许我执行此操作的程序。我发现大多数应用程序只允许 2 个显示器。   由   提交/u/cerob5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgf4md/in_search_of_display_program_please_help/</guid>
       <pubDate>Tue, 30 Apr 2024 00:22:39 GMT</pubDate>
     </item>
     <item>
       <title>找到了一个适合我的关键垃圾邮件发送者，但无法保存设置（垃圾邮件）</title>
       <link>https://www.reddit.com/r/software/comments/1cge2sj/found_a_key_spammer_that_works_for_me_but_cant/</link>
-      <description><![CDATA[您好。所以我发现这个很酷的点击器程序完全可以满足我的需要： https:// github.com/FrostAtom/spammy?tab=readme-ov-file#overview 但它带有一个独立的exe，我无法让它保存我用它创建的任何配置文件（赢10）。我有什么想念的吗？我觉得个人资料应该很明显。在会话之间保存。多谢。    由   提交 /u/sdlaonline   [链接] [评论]]]></description>
+      <description><![CDATA[您好。所以我发现这个很酷的点击器程序完全可以满足我的需要： https:// github.com/FrostAtom/spammy?tab=readme-ov-file#overview 但它是一个独立的 exe，我无法让它保存我用它创建的任何配置文件（赢10）。我有什么想念的吗？我觉得个人资料应该很明显。在会话之间保存。多谢。    由   提交 /u/sdlaonline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cge2sj/found_a_key_spammer_that_works_for_me_but_cant/</guid>
       <pubDate>Mon, 29 Apr 2024 23:35:18 GMT</pubDate>
     </item>
@@ -43,26 +50,26 @@
     <item>
       <title>显然不再允许使用 SAI Production Manager (Flexi 12) 进行远程打印</title>
       <link>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</link>
-      <description><![CDATA[我使用 SAI Production Manager 打印到 HP Latex 360。直到上周，我还不得不使用一台运行 Windows 7 的旧电脑。上周我终于得到了一台运行 Windows 10 的更新计算机，但我们的 IT 经理必须联系 SAI 技术支持来更新软件，以使其兼容。我很高兴，因为如果不尝试近一个小时，程序总是无法在旧计算机上启动。这是白天和黑夜。 但是，有一个问题。在更新之前，我在 Production Manager 中添加了几个打印设置，使我能够打印到不同城市其他地点的乳胶打印机。更新后我不能再这样做了。当我尝试添加其他打印机/IP 地址等时，作业出现在作业队列中，似乎在撕裂，然后一旦进入打印队列就保持为 0%。我可以 ping 通打印机，并且可以在互联网上看到接口页面（尽管我无法在此页面上添加作业）。我们的 IT 人员无法弄清楚这一点，而 SAI 只是想向我们出售新软件。  这是一家公司为了向您销售更多产品而减少功能的案例，还是我们忽略了某些事情？是否有需要允许的权限可能在软件更新时被“关闭”？ ​ 欢迎任何帮助。谢谢。   由   提交 /u/endorrawitch   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 SAI Production Manager 打印到 HP Latex 360。直到上周，我还不得不使用一台运行 Windows 7 的旧电脑。上周我终于得到了一台运行 Windows 10 的更新电脑，但我们的 IT 经理不得不联系 SAI 技术支持来更新软件以使其兼容。我很高兴，因为该程序总是在旧电脑上启动，除非尝试近一个小时。这简直是天壤之别。 但是，有一个问题。在更新之前，我已将几个打印设置添加到 Production Manager，这使我能够打印到我们位于不同城市的其他地点的 latex 打印机。更新后，我再也无法这样做了。当我尝试添加其他打印机/IP 地址等时，作业会显示在作业队列中，似乎被撕毁，然后一旦进入打印队列，就会保持在 0%。我可以 ping 打印机，并且可以在互联网上看到界面页面（尽管我无法在此页面添加作业）。我们的 IT 人员无法弄清楚，而 SAI 只是想向我们推销新软件。  这是公司为了向您推销更多产品而减少功能的情况，还是我们忽略了什么？ 是否有需要允许的权限在软件更新时可能被“关闭”了？ ​ 欢迎任何帮助。 谢谢。    提交人    /u/endorrawitch   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</guid>
       <pubDate>Mon, 29 Apr 2024 19:57:45 GMT</pubDate>
     </item>
     <item>
       <title>托管连接服务如何提高软件性能？</title>
       <link>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</link>
-      <description><![CDATA[​ ​ 我在一家专门从事数字内容创作和分发的公司工作，因此我们非常依赖我们的软件系统来管理大型文件，并在不同平台和不同客户之间快速分发。但随着我们的客户群不断增长（我希望它能继续增长），我们注意到我们的网络设置确实难以跟上，尤其是在高峰流量时段。那么...我们如何正确解决这个问题？ ​ 我读过有关托管连接服务以及它们如何提高我们软件应用程序的性能和可靠性的文章，这就是为什么这是标题中的主要问题。这个想法是，通过使用托管服务，我们可以获得更稳定的互联网速度，这应该有助于处理大量数据和高用户需求。但它到底是如何运作的，投资会是什么样子，我错过了什么？因为我发现的定义听起来好得令人难以置信。 ​ 此外，在我们考虑使用这些服务之前，我需要更多地了解它们的功能和限制。 ​ 我希望从你们那里得到一些好的建议，特别是如果这里有人在类似的环境中工作。非常感谢！    提交人    /u/Sparrowhaw3   [link] [评论]]]></description>
+      <description><![CDATA[​ ​ 我在一家专门从事数字化业务的公司工作内容创建和分发，因此我们非常依赖我们的软件系统来跨不同平台和不同客户端快速管理和分发大文件。但随着我们的客户群不断增长（我希望它能够持续增长），我们注意到我们的网络设置确实难以跟上，尤其是在流量高峰期。那么...我们如何正确解决此问题？ ​ 我已阅读有关托管连接服务以及它们如何提高我们的性能和可靠性的信息。软件应用程序，这就是为什么这是标题中的主要问题。我们的想法是，通过使用托管服务，我们可以获得更一致的互联网速度，这应该有助于满足大量数据和高用户需求。但它到底是如何运作的，投资会是什么样子，以及我错过了什么？因为我发现的定义听起来好得令人难以置信。 ​ 此外，在我们考虑使用这些服务之前，我需要更多地了解它们的功能和限制。  ​ 我希望从你们那里得到一些好的建议，特别是如果这里有人在类似的环境中工作的话。非常感谢！   由   提交/u/Sparrowhaw3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</guid>
       <pubDate>Mon, 29 Apr 2024 18:21:00 GMT</pubDate>
     </item>
     <item>
       <title>使用 ipad 收集数据的软件建议？请参阅正文以获取更多信息。</title>
       <link>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</link>
-      <description><![CDATA[嗨。我最近换了工作，需要在外出完成现场工作时在 iPad 上创建自己的文档来收集数据。以前，我有一个可填写的 PDF 文档，我认为该文档最初是在 Excel 中创建的，然后转换为 PDF 以便在 PDF Expert 应用程序中进行编辑。我经常需要使用的编辑工具是在文本字段中自由输入、添加文本便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来像这是一张实际的方格纸扫描件，叠加在几页 Excel 工作表上。我之前公司的任何人都不记得最初是谁制作了该表格或如何制作的，而且我们不确定原始 Excel 版本在哪里。 我的问题是：   正在使用Excel 创建文档，然后将其转换为可填写的 PDF，这是创建此类文档的最佳方法吗？ 如果不是，请建议其他方法。    由   提交/u/LiquidAmbar247  [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我最近换了工作，需要在外出完成现场工作时在 iPad 上创建自己的文档来收集数据。以前，我有一个可填写的 PDF 文档，我认为该文档最初是在 Excel 中创建的，然后转换为 PDF 以便在 PDF Expert 应用程序中进行编辑。我经常需要使用的编辑工具是在文本字段中自由输入、添加文本便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来像这是一张实际的方格纸扫描件，叠加在几页 Excel 工作表上。我之前公司的任何人都不记得最初是谁制作了该表格或如何制作的，而且我们不确定原始 Excel 版本在哪里。 我的问题是：   正在使用Excel 创建文档，然后将其转换为可填写的 PDF，这是创建此类文档的最佳方法吗？ 如果不是，请建议其他方法。    由   提交/u/LiquidAmbar247   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</guid>
       <pubDate>Mon, 29 Apr 2024 17:43:08 GMT</pubDate>
     </item>
     <item>
-      <title>通过单个链接分享所有您喜爱的应用程序的最佳方法是什么？</title>
+      <title>在单个链接中共享所有您喜爱的应用程序的最佳方式是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cg3dxm/what_is_the_best_way_to_share_all_your_favourite/</link>
       <description><![CDATA[我想我正在寻找与 letterboxd 或 backloggd 等效的软件。我能想到的唯一可能的解决方案是链接树或发布概念页面，这两者似乎都令人印象深刻。对于这种事情还有更好的服务吗？   由   提交/u/redditt1984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg3dxm/what_is_the_best_way_to_share_all_your_favourite/</guid>
@@ -90,25 +97,18 @@
       <pubDate>Mon, 29 Apr 2024 15:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>如何提取视频中的所有帧以发布到 Twitter</title>
+      <title>如何从视频中提取所有帧并在 Twitter 上发布</title>
       <link>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</link>
-      <description><![CDATA[我不知道你们中是否有人见过 Twitter 帐户，其中的内容类似于“按顺序从 ______ 中提取每一帧”（最好的例子是  breaking_frames）——但我和我的朋友想为我们最喜​​欢的节目做这件事，我们不确定最有效的方法是什么。 我看到有人提到  Breaking frames 的创建者  和他的代码，但我找不到它。我不确定他们所指的代码是否只是关于如何编程机器人来发推文，或者机器人是否也在提取帧？我对编码确实知之甚少，所以如果我说得不清楚，我深表歉意。 我知道无论如何这都是一项艰巨的努力，我完全可以接受。我只是想找出做这样的事情的最佳方法，而不必手动截取每一帧的屏幕截图。我感谢所有的帮助！感谢您的时间    提交人    /u/Nicoleiosis   [link] [评论]]]></description>
+      <description><![CDATA[我不知道你们中是否有人见过这样的 Twitter 帐户：“每一帧都按顺序来自 ______”。 （最好的例子是 Breaking_frames）——但是我和我的朋友想为我们最喜​​欢的节目做这件事，但我们不确定最重要的是什么有效的方法是。 我看到人们引用了 Breaking Frames 的创建者和他的代码，但我没有能够找到它。我不确定他们所指的代码是否只是关于如何对机器人进行编程以发送推文，或者机器人是否也在提取帧？我对编码真的知之甚少，所以如果我说得不清楚，我深表歉意。 我知道无论如何这是一次衷心的努力，我完全同意。我只是想找出执行此类操作的最佳方法，而无需手动截取每一帧。我感谢任何和所有的帮助！感谢您抽出时间   由   提交 /u/Nicoleiosis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</guid>
       <pubDate>Mon, 29 Apr 2024 14:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>我无法在文件资源管理器上打开任何文件</title>
+      <title>我无法在文件资源管理器中打开任何文件</title>
       <link>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</link>
-      <description><![CDATA[沙漏符号出现在鼠标图标旁边，但从未加载。一旦播放视频文件的电影和电视应用程序弹出一秒钟，然后就消失了。   由   提交/u/EarthwormJim_17   [链接] [评论]]]></description>
+      <description><![CDATA[鼠标图标旁边出现沙漏符号，但从未加载。播放视频文件的电影和电视应用程序曾经弹出一秒钟，然后消失。    由   提交  /u/EarthwormJim_17   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</guid>
       <pubDate>Mon, 29 Apr 2024 13:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是想问一下 APK 网站</title>
-      <link>https://www.reddit.com/r/software/comments/1cfza0b/just_want_to_ask_about_an_apk_site/</link>
-      <description><![CDATA[无法在 Google Play 上下载游戏，请在 APK 网站上查看。它叫softontop，下载APK安全吗？   由   提交 /u/Yeetdatnoodle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cfza0b/just_want_to_ask_about_an_apk_site/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
