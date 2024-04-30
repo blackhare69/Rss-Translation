@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:09:49 GMT</lastBuildDate>
     <item>
-      <title>GitHub 预览 Copilot Workspace，这是一个将想法转化为软件的人工智能开发环境</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgr1l5/github_previews_copilot_workspace_an_ai_developer/</link>
-      <description><![CDATA[ 由   提交/u/tedbarney12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgr1l5/github_previews_copilot_workspace_an_ai_developer/</guid>
-      <pubDate>Tue, 30 Apr 2024 11:59:02 GMT</pubDate>
+      <title>喷射流 2.2</title>
+      <link>https://www.reddit.com/r/programming/comments/1ch3ayn/jetstream_22/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ch3ayn/jetstream_22/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>DevOps 只是一种阴谋论吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgqx4b/is_devops_just_a_conspiracy_theory/</link>
-      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgqx4b/is_devops_just_a_conspiracy_theory/</guid>
-      <pubDate>Tue, 30 Apr 2024 11:52:14 GMT</pubDate>
+      <title>我正在从头开始构建一个 javascript MMO（第 1 部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ch28qp/im_building_a_javascript_mmo_from_scratch_part_1/</link>
+      <description><![CDATA[ 由   提交 /u/b___d   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ch28qp/im_building_a_javascript_mmo_from_scratch_part_1/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>ics (rfc5545) 和 vcard (rfc6350) 数据的 Javascript 解析器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgq4nl/javascript_parser_for_ics_rfc5545_and_vcard/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgq4nl/javascript_parser_for_ics_rfc5545_and_vcard/</guid>
-      <pubDate>Tue, 30 Apr 2024 11:06:12 GMT</pubDate>
+      <title>Bruce Perens 提出开放后零成本许可证草案</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgz5bj/bruce_perens_proposes_draft_postopen_zero_cost/</link>
+      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgz5bj/bruce_perens_proposes_draft_postopen_zero_cost/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>Node.js 中的 Buffer 到底是什么？为什么需要它？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgptg7/what_the_heck_is_buffer_in_nodejs_and_why_is_it/</link>
-      <description><![CDATA[ 由   提交/u/Key-Definition4185   meernmentor.com/2024/04/what-is-buffer-in-nodejs-and-why-is-it.html&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgptg7/what_the_heck_is_buffer_in_nodejs_and_why_is_it/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:47:05 GMT</pubDate>
+      <title>SwiftSemanticSearch - 使用 USearch 和 UForm 实现 Swift 中实时多模式检索增强应用的设备 AI 演示 🍏</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgyrl4/swiftsemanticsearch_ondevice_ai_demo_for_realtime/</link>
+      <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgyrl4/swiftsemanticsearch_ondevice_ai_demo_for_realtime/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>学习如何编码但没有纪律，可能永远不会成功</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgps30/learning_how_to_code_but_have_no_discipline_and/</link>
-      <description><![CDATA[ 由   提交/u/Front_Response_4504  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgps30/learning_how_to_code_but_have_no_discipline_and/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:44:36 GMT</pubDate>
+      <title>DSL 一直到使用 pnk.lang DSL 制作的红色编程“IDE”</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgyn26/dsl_all_the_way_down_to_a_red_programming_ide/</link>
+      <description><![CDATA[ 由   提交/u/Hardkorebob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgyn26/dsl_all_the_way_down_to_a_red_programming_ide/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>如何在C++ Builder中使用Skia Shader SkSL着色语言代码？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgpqli/how_to_use_skia_shader_sksl_shading_language_code/</link>
-      <description><![CDATA[ 由   提交 /u/yimmasabi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgpqli/how_to_use_skia_shader_sksl_shading_language_code/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:41:59 GMT</pubDate>
+      <title>通过一个软件包使用任何 LLM（GPT-3、GPT-4、Davinci 和 DALL-E）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgy93s/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/</link>
+      <description><![CDATA[ 由   提交/u/Longjumping_Ad_8227   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgy93s/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:18:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建多步骤表单</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgpnch/how_to_create_a_multistep_form_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建多步表单[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgpnch/how_to_create_a_multistep_form_with_tailwind_css/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:35:54 GMT</pubDate>
+      <title>每位有抱负的程序员都必须知道的 9 个令人震惊的事实</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgy8hh/9_shocking_truths_every_aspiring_programmer_must/</link>
+      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgy8hh/9_shocking_truths_every_aspiring_programmer_must/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何处理技术债务</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgpmaz/how_to_deal_with_technical_debt/</link>
-      <description><![CDATA[或者“为什么你的开发团队这么慢？”这个问题的答案   由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgpmaz/how_to_deal_with_technical_debt/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:34:01 GMT</pubDate>
+      <title>副驾驶刚刚杀了德文？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgxz3e/copilot_just_killed_devin/</link>
+      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgxz3e/copilot_just_killed_devin/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:06:47 GMT</pubDate>
     </item>
     <item>
-      <title>紧缩文化对开发人员不利——企业可以通过以下方法来预防这种情况</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgorjh/crunch_culture_is_a_detriment_to_developers_heres/</link>
-      <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgorjh/crunch_culture_is_a_detriment_to_developers_heres/</guid>
-      <pubDate>Tue, 30 Apr 2024 09:38:01 GMT</pubDate>
+      <title>使用 next.js 和 vercel 构建，与 openAI 开源 API 集成</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgxafq/built_with_nextjs_and_vercel_integrated_with_the/</link>
+      <description><![CDATA[ 由   提交/u/riprunescape_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgxafq/built_with_nextjs_and_vercel_integrated_with_the/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>四月网络平台新功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgntcv/new_to_the_web_platform_in_april/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgntcv/new_to_the_web_platform_in_april/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:31:30 GMT</pubDate>
+      <title>什么是人工智能基础设施软件？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgx739/what_is_ai_infrastructure_software/</link>
+      <description><![CDATA[ 由   提交/u/Real-Ad168  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgx739/what_is_ai_infrastructure_software/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>如何不保护您的 Android 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgnnhx/how_not_to_protect_your_android_applications/</link>
-      <description><![CDATA[  由    /u/Lightricks_Tech  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgnnhx/how_not_to_protect_your_android_applications/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:19:39 GMT</pubDate>
+      <title>Zed 解码：Rope 和 SumTree</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgwxea/zed_decoded_rope_sumtree/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgwxea/zed_decoded_rope_sumtree/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:21:16 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个工具来轻松共享私有 GitHub 存储库</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgn7rr/i_built_a_tool_to_easily_share_private_github/</link>
-      <description><![CDATA[ 由   提交/u/alii-sk  /u/alii-sk  Producthunt.com/posts/gitshare&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgn7rr/i_built_a_tool_to_easily_share_private_github/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:48:15 GMT</pubDate>
+      <title>了解 Delta Lake 的一致性模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgwxd9/understanding_delta_lakes_consistency_model/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgwxd9/understanding_delta_lakes_consistency_model/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:21:14 GMT</pubDate>
     </item>
     <item>
-      <title>Java 代理可以补充 eBPF</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgn7my/where_a_java_agent_can_complement_ebpf/</link>
-      <description><![CDATA[  由    /u/geteranap  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgn7my/where_a_java_agent_can_complement_ebpf/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:47:59 GMT</pubDate>
+      <title>深入了解 XZ Utils 后门 [视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgwvhn/deep_dive_into_xz_utils_backdoor_video/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgwvhn/deep_dive_into_xz_utils_backdoor_video/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>空的 S3 存储桶如何让您的 AWS 账单激增</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgmq28/how_an_empty_s3_bucket_can_make_your_aws_bill/</link>
-      <description><![CDATA[ 由   提交 /u/avinassh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgmq28/how_an_empty_s3_bucket_can_make_your_aws_bill/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:13:15 GMT</pubDate>
+      <title>Systemd 推出“run0”作为 sudo 替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgwvgz/systemd_rolling_out_run0_as_sudo_alternative/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgwvgz/systemd_rolling_out_run0_as_sudo_alternative/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:19:06 GMT</pubDate>
     </item>
     <item>
-      <title>击中下降途中的每一个分支</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgmcpj/hitting_every_branch_on_the_way_down/</link>
-      <description><![CDATA[ 由   提交/u/Rtzon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgmcpj/hitting_every_branch_on_the_way_down/</guid>
-      <pubDate>Tue, 30 Apr 2024 06:48:44 GMT</pubDate>
+      <title>TypeSpec：一种以 API 为中心的开发新语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgwvg0/typespec_a_new_language_for_apicentric_development/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgwvg0/typespec_a_new_language_for_apicentric_development/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:19:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
