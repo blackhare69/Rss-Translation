@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:08:34 GMT</lastBuildDate>
+    <item>
+      <title>教育问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</link>
+      <description><![CDATA[我要回到大学，想主修商业/全球商业/管理。我真的很想找到一个可以辅修某种形式人工智能的地方。我将参加在线学校，因为我必须全职工作。强烈首选国家认可的学校。 感谢您的任何意见！    由   提交 /u/Dizzy-Recording9025    reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 OpenAI 助手 API 制作了一个简单的语音 AI 助手。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghebw/i_made_a_simple_voice_ai_assistant_using_openai/</link>
+      <description><![CDATA[嗨，我想知道如何构建像 Siri 这样的人工智能语音助手。我发现 OpenAI 有一个耳语 API，可以进行文本转语音和语音转文本，而我们可以使用 Assistants API 进行对话部分。由于这是一个有趣的项目，所以我决定通过摆脱 Whisper 部分并使用浏览器 Javascript APIWeb Speech API 进行语音输入和输出来构建 MVP。而使用助手 API 作为主脑。 我认为我们可以通过以下方式提高速度和质量： 语音输入：AssemblyAI 或 OpenAI Whisper 语音输出： Elevenlabs 或 OpenAI Whisper 速度：在 Langchain 上使用不同的模型（但我们必须去掉 Assistants API 部分） 如果有人知道如何改进它，请告诉我。 这里教程是：[使用 openAI 助手 API 构建 AI 语音助手](https://serpapi.com/blog/build-ai-voice-assistant-like-siri-use-openai-ai-assistant/)以下是源代码：【AI语音GitHub 上的助手代码示例](https://github.com/hilmanski/simple-ai-voice -assistant-openai-demo)  我希望它对任何人都有用！   由   提交/u/tukemon24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cghebw/i_made_a_simple_voice_ai_assistant_using_openai/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望创建有关如何使用我的网站的信息丰富的 YouTube 视频。有我可以使用的电影制作工具吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</link>
+      <description><![CDATA[我有一个网站、Facebook 和 Instagram 帐户，我可以在上面发布每日免费线索。有没有办法使用人工智能来展示如何通过视觉和音频来定位每个平台上免费线索的位置？我想将其上传到 youtube。    由   提交/​​u/Various_Performance9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>寻找写作建议。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgep8a/looking_for_recommendations_for_writing/</link>
-      <description><![CDATA[所以我已经完成了所有研究工作。所以我正在寻找一个人工智能，我可以输入我的文字，它会让它看起来和听起来更好。有什么建议吗？   由   提交 /u/ZachariahQuartermain   [链接] [评论]]]></description>
+      <description><![CDATA[所以我已经完成了所有研究，并积累了大量成果。所以我正在寻找一种可以输入我的作品的人工智能，它会让我的作品看起来和听起来都更好。有什么建议吗？    提交人    /u/ZachariahQuartermain   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgep8a/looking_for_recommendations_for_writing/</guid>
       <pubDate>Tue, 30 Apr 2024 00:03:23 GMT</pubDate>
     </item>
@@ -34,23 +55,16 @@
       <pubDate>Mon, 29 Apr 2024 17:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能创新日报，2024 年 4 月 29 日：⚔️中国推出 Sora 挑战者📰OpenAI，用于在《金融时报》内容上训练人工智能🫠Meta 的人工智能广告平台出现故障，现金耗尽🎥中国的 Vidu 生成 16 秒 1080P 视频，与 OpenAI 的 Sora 相匹配💥新iPad Pro：支持 AI 的 M4 芯片❗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg5hbd/a_daily_chronicle_of_ai_innovations_april_29_2024/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg5hbd/a_daily_chronicle_of_ai_innovations_april_29_2024/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:49:57 GMT</pubDate>
-    </item>
-    <item>
       <title>数据、人工智能和去中心化</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2o9d/data_ai_and_decentralization/</link>
-      <description><![CDATA[在加密货币世界中，无数项目争夺关注，人工智能 (AI) 项目占据了中心位置。2024 年，人工智能一直是市场上最令人兴奋的话题，吸引了所有人的兴趣并推动了加密货币领域的交易量。 据 CoinGecko 称，截至今年 3 月，人工智能行业的总市值已从去年 4 月的 27 亿美元飙升至 264 亿美元。在过去 30 天里，与人工智能相关的代币平均涨幅在 145% 至 297% 之间。  来源：https://en.foresightnews.pro/masas-aicrypto-guide-how-the-first-ai-project-on-coinlist-in-2024-is-poised-to-disrupt-the-ai-industry/    提交人    /u/shaydee313   [链接] [评论]]]></description>
+      <description><![CDATA[在加密货币世界中，无数项目都在争夺注意力，人工智能 (AI) 项目正在占据中心舞台。 2024 年，人工智能一直是市场上最令人兴奋的话题，吸引了每个人的兴趣，并推动了加密货币领域的交易量。 根据 CoinGecko 的数据，截至今年 3 月，人工智能的总市值人工智能领域已从去年 4 月的 27 亿美元飙升至 264 亿美元。过去 30 天，与 AI 相关的代币平均涨幅在 145% 至 297% 之间。  来源：https://en.foresightnews.pro/masas-aicrypto-guide-how-the-first-ai-project-on-coinlist-in-2024-is-准备颠覆人工智能行业/   由   提交/u/shaydee313  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2o9d/data_ai_and_decentralization/</guid>
       <pubDate>Mon, 29 Apr 2024 15:56:56 GMT</pubDate>
     </item>
     <item>
       <title>chatgpt 正在做什么以及为什么它有效</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2fw8/what_is_chatgpt_doing_and_why_does_it_work/</link>
-      <description><![CDATA[针对懂一些数学并且有空闲时间的受虐狂 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/     提交人    /u/some-adult-dude   [链接] [评论]]]></description>
+      <description><![CDATA[适合了解一些数学且有空闲时间的受虐狂 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does -it-work/    由   提交 /u/some-adult-dude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2fw8/what_is_chatgpt_doing_and_why_does_it_work/</guid>
       <pubDate>Mon, 29 Apr 2024 15:47:33 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[26 岁的 Elise Mekkaoui 是  &lt; strong&gt;Matricis.ai，一款旨在帮助诊断这种疾病的人工智能软件，她计划将其应用于其他女性病症。   26 岁的埃莉斯·梅卡维 (Elise Mekkaoui) 和同事在巴黎拉斯佩尔大道 (Boulevard Raspail) 的 Agoranov 孵化器内的办公室里工作了六个月，但她仍在处理这一消息。她是 Station F 选出的 13 名女性企业家之一，Station F 是泽维尔·尼尔（Xavier Niel，也是《世界报》的个人股东）创立的大型初创企业园区，将在 2024 年从指导计划中受益。 使用人工Matricis.ai 创始人说服陪审团的想法是利用智能来帮助诊断子宫内膜异位症，陪审团致力于在男性主导的科技行业中提升女性地位。鉴于人们对这种疾病知之甚少，她的项目雄心勃勃：“如今，MRI 图像分析的复杂性使得诊断子宫内膜异位症变得困难。我们希望使其更快、更可靠，以加快治疗速度。这一点更加重要，因为除了它引起的疼痛之外，子宫内膜异位症还是许多不孕症的原因。” Mekkaoui 说道。 在此处阅读全文： https://www.lemonde.fr/en/campus/article/2024/04/29/using-artificial-intelligence-to-detect- endometriosis_6669828_11.html   由   提交 /u/LeMonde_en   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2cnc/using_artificial_intelligence_to_detect/</guid>
       <pubDate>Mon, 29 Apr 2024 15:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 AI 代码 IDE：Cursor.ai 演示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg01zw/best_ai_code_ide_cursorai_demo/</link>
-      <description><![CDATA[查看 cursor.ai 的演示，这是一个 AI 第一个 IDE，可以在 git repo 中编写、更新、修复、解释代码。不仅如此，它还可以遵循编码风格、浏览互联网和文档、编写文档字符串等等。在此处查看完整演示：https://youtu.be/xb-PxO78c4g?si=fFEyhnx_kjwyTxpf    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg01zw/best_ai_code_ide_cursorai_demo/</guid>
-      <pubDate>Mon, 29 Apr 2024 14:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infini-Attention：法学硕士的无限上下文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwvw1/infiniattention_infinite_context_for_llms/</link>
-      <description><![CDATA[自注意力的重大突破是网络能够将输入的不同部分相互关联，无论距离如何。这种重要性直接取决于输出。对于不同类型的输出，对输入数据序列中每个标记的关注度会有很大差异。但问题在于扩展此类系统。为了计算注意力分数，我们需要存储长度为 N 的序列的 NxN 注意力分数矩阵。这意味着当我们按照 128k 或一百万个 token 的上下文窗口顺序进行扩展时，扩展将变得越来越资源密集。  ​  全文： https://vishal-ai.medium.com/infini-attention-infinite-context-for-llms-d4485619a01e&lt; /p&gt;  ​ 那么，Infini-Attention 论文承诺了什么？  一种有效的方法，可将基于 Transformer 的大型语言模型 (LLM) 扩展到具有有限内存和计算的无限长输入。我们提出的方法的一个关键组成部分是一种被称为“Infini-attention”的新注意力技术。 因此，Infini 注意力背后的想法是结合使用局部注意力和全局注意力。首先，将整个文本片段分为多个块，我们对一个块应用标准注意力，并使用一种线性注意力形式来获取前一个块的上下文。  -混合注意力混合：局部注意力集中于单词周围的直接上下文，而远程注意力通过引用所看到的整个序列的压缩摘要来保持更广泛的视野到目前为止。 - 压缩记忆：以前的块是在线性注意力的帮助下记忆的。 -高效更新：为了避免冗余并节省计算量，Infini-attention 不仅仅将新信息添加到其内存中。相反，它首先检查已知的内容，然后仅用新的或不同的内容更新内存，类似于 ResNet 中的跳过连接。 - 权衡控制：  混合本地信息和压缩内存的超参数。 ​   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwvw1/infiniattention_infinite_context_for_llms/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:36:45 GMT</pubDate>
     </item>
     <item>
       <title>有没有可以描述视频的AI工具？我的意思是视频到文本。</title>

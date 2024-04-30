@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:33:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:10:19 GMT</lastBuildDate>
     <item>
-      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
+      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
-      <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/antsaregay   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
       <pubDate>Mon, 29 Apr 2024 17:22:48 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>适用于企业应用程序的元搜索引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</link>
-      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github.com/areYouLazy/ethanol    提交人    /u/gixo89   [link] [评论]]]></description>
+      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github .com/areYouLazy/ethanol   由   提交/u/gixo89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</guid>
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
-      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我最近加入了一个 discord 服务器，其目标是开发一个开源格斗游戏引擎。我想知道什么方法可以有效地熟悉该项目，以便成为一名高效的贡献者？    提交人    /u/AzureHierophant   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>知道美国开源公司的目录吗？</title>
+      <title>知道美国开源公司的名录吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
-      <description><![CDATA[GitHub 是否提供公司搜索功能，或者是否有一些了不起的人在那里编制了一个列表？ 我已经尝试了 1) Crunchbase 和 2) F6S 上的开源行业过滤器，但结果仅限于几百个。 提前谢谢！    提交人    /u/HeyTomesei   [link] [评论]]]></description>
+      <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
       <pubDate>Sun, 28 Apr 2024 21:46:29 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以我决定用 Python 制作一个 Discord 客户端，并在 PyQt5 中使用 UI。 https://github.com/n1d3v/naticord 希望大家喜欢！我会不断解决问题。    提交人    /u/xyqnn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
