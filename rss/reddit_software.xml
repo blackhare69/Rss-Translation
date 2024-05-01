@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 May 2024 06:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:09:48 GMT</lastBuildDate>
     <item>
       <title>减小窗口大小而不丢失窗口内容</title>
       <link>https://www.reddit.com/r/software/comments/1chdivl/decrease_window_size_without_losing_window_content/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>硬件监控器</title>
       <link>https://www.reddit.com/r/software/comments/1cgqgnm/hwmonitor/</link>
-      <description><![CDATA[您好！所以我今天开始使用 HWMonitor，我想到了几个问题。我的目标不是成为一名计算机天才，所以如果你简化你的答案就可以了。  如果我想跟踪基本的东西，我应该主要寻找什么？ &lt; li&gt;什么是 GPU“热点”？ “热点”是否有效？适用于更多事物，例如 CPU？  我想在游戏时进行跟踪的原因很简单，因为我想知道我的 CP 何时工作较多，何时完全不工作。我有一台相当新的电脑，所以没有任何具体问题。 https://preview.redd.it/q8h0rn4jqlxc1.png?width=656&amp;format=png&amp;auto=webp&amp;s=ab515f8aff68f16e30aafa70d0c1f0ea 3533a5d0   由   提交 /u/Orreputt   [链接] [评论]]]></description>
+      <description><![CDATA[您好！今天我开始使用 HWMonitor，脑子里出现了几个问题。我并不是想成为计算机天才，所以如果您能简化您的答案就好了。  如果我想跟踪基本内容，我应该主要寻找什么？ 什么是 GPU“热点”？ “热点”是否适用于更多内容，例如 CPU？  我想在玩游戏时进行跟踪的原因只是因为我想知道我的 CP 何时工作很多，何时根本不工作。我有一台很新的 PC，所以没有任何特定问题。 https://preview.redd.it/q8h0rn4jqlxc1.png?width=656&amp;format=png&amp;auto=webp&amp;s=ab515f8aff68f16e30aafa70d0c1f0ea3533a5d0    提交人    /u/Orreputt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgqgnm/hwmonitor/</guid>
       <pubDate>Tue, 30 Apr 2024 11:26:08 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>找到了一个适合我的关键垃圾邮件发送者，但无法保存设置（垃圾邮件）</title>
       <link>https://www.reddit.com/r/software/comments/1cge2sj/found_a_key_spammer_that_works_for_me_but_cant/</link>
-      <description><![CDATA[您好。我找到了这个很酷的点击程序，它完全符合我的需要： https://github.com/FrostAtom/spammy?tab=readme-ov-file#overview 但它是一个独立的 exe，我无法让它保存我用它创建的任何配置文件（win 10）。我是不是错过了什么？我觉得配置文件应该在会话之间保存。非常感谢。    提交人    /u/sdlaonline   [链接] [评论]]]></description>
+      <description><![CDATA[您好。所以我发现这个很酷的点击器程序完全可以满足我的需要： https:// github.com/FrostAtom/spammy?tab=readme-ov-file#overview 但它是一个独立的 exe，我无法让它保存我用它创建的任何配置文件（赢10）。我有什么想念的吗？我觉得个人资料应该很明显。在会话之间保存。多谢。    由   提交 /u/sdlaonline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cge2sj/found_a_key_spammer_that_works_for_me_but_cant/</guid>
       <pubDate>Mon, 29 Apr 2024 23:35:18 GMT</pubDate>
     </item>
