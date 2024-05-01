@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:37:45 GMT</lastBuildDate>
     <item>
       <title>林克尔</title>
       <link>https://www.producthunt.com/posts/linckr</link>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 26 Apr 2024 11:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>维德创世纪</title>
+      <title>视频创世纪</title>
       <link>https://www.producthunt.com/posts/vidgenesis</link>
       <description><![CDATA[
             一键将您的想法变成专业视频
@@ -121,12 +121,12 @@
       <title>民意调查</title>
       <link>https://www.producthunt.com/posts/survei</link>
       <description><![CDATA[
-您的用户可以发表意见，倾听、学习、改进
-
+            您的用户有发言权、倾听、学习、改进
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/survei</guid>
       <pubDate>Fri, 26 Apr 2024 06:25:31 GMT</pubDate>
@@ -191,12 +191,12 @@
       <title>我的遗产.ai</title>
       <link>https://www.producthunt.com/posts/my-legacy-ai</link>
       <description><![CDATA[
-对话式、安全且价格合理的遗产规划平台
-
+            对话式、安全且经济实惠的遗产规划平台
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/my-legacy-ai</guid>
       <pubDate>Tue, 16 Apr 2024 09:32:59 GMT</pubDate>
