@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 02 May 2024 09:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:13:47 GMT</lastBuildDate>
+    <item>
+      <title>如何让带有背景的视频中的 AI 声音听起来非常清晰？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cie0wf/how_to_make_the_ai_voice_sound_super_sharp_in/</link>
+      <description><![CDATA[ 由   提交 /u/A-n-d-y-R-e-d   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cie0wf/how_to_make_the_ai_voice_sound_super_sharp_in/</guid>
+      <pubDate>Thu, 02 May 2024 12:07:56 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 字幕</title>
       <link>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</link>
@@ -34,13 +41,6 @@
       <pubDate>Thu, 02 May 2024 06:19:21 GMT</pubDate>
     </item>
     <item>
-      <title>有人有在 2020/21 年的 m1 MacBook 上同时编辑 Primere 和 After Effects 的经验吗</title>
-      <link>https://www.reddit.com/r/editors/comments/1ci8h24/does_somebody_have_experience_with_editing_on_an/</link>
-      <description><![CDATA[我想从 PC（i3 10100f、32GB 内存、rtx2060）切换，因为我喜欢它的感觉。你认为值得尝试吗？ （无论如何我不会卖掉我的电脑，但它只有 400 美元，就像 MacBook Air m1 一样）。我需要它来编辑具有多层和大量 AE 合成的 4K。我需要能够同时使用AE和PR。另外，我应该购买什么规格的 MacBook？谢谢！我的预算高达 1k，但无论如何我都会购买二手的   由   提交/u/Kodr_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ci8h24/does_somebody_have_experience_with_editing_on_an/</guid>
-      <pubDate>Thu, 02 May 2024 06:11:32 GMT</pubDate>
-    </item>
-    <item>
       <title>Premiere Pro 数据隐私问题：我正在向客户提供源文件</title>
       <link>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</link>
       <description><![CDATA[您好，我在 PC 上的 Premiere Pro 上处理多个项目（和大家一样）。项目保存在不同硬盘驱动器上的文件中（内容和 adobe Premiere 文件项目）。这是一个有点棘手的问题。  客户 1：他们想要源文件和所有媒体。这很好，他们支付了额外的传输费用。 客户端 2：项目包含敏感数据/内容。该项目与所有相关数据保存在完全不同的硬盘驱动器上。 我担心：如果我将整个客户端 1 文件夹（所有数据）传输到云端以供客户端 1 访问，客户端 1 是否能够以某种方式查看/有权访问任何客户端 2 信息？元数据或文件名？ 我紧张的原因是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 驱动器）。另外，当我从直接图标打开 Premiere 时，Premiere 会显示我所从事的项目的历史记录。我总是确保每次打开其他 Premiere 项目之前关闭 Premiere。 总的来说，我只是想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。   由   提交 /u/netherlanddwarf   [链接] [评论]]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>客户声称他可以在广播电视上“看到”3:2 下拉的隔行扫描</title>
       <link>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</link>
-      <description><![CDATA[20 年来，我一直在 23.98p 时间线中进行编辑，并以 23.98p 的速度从这些时间线中导出母版。然后，对于广播交付成果，我使用 23.98p 主控导出 29.97 (59.94i) 广播交付成果，使用真正的上场优先、隔行扫描 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我知道这基本上是自 20 世纪 50 年代以来所有 24fps 电影源转换为广播电视的方式（至少在北美）。  我现在有一位客​​户建议我使用 Apple Compressor 使用“最佳（运动补偿）”转换为广播交付成果。 “重定时质量”中的选项设置。显然，这将使用光流创建新的插值逐行帧，而不是仅使用 3:2 下拉非破坏性地将原始逐行帧分割成场。  他希望我这样做，因为他说当他查看广播交付成果时，他实际上可以看到隔行扫描。当我告诉他隔行扫描的交付成果仅适用于在支持隔行扫描播放的电视（而不是在逐行扫描计算机屏幕上）上观看/播放时，他反驳说，即使他看到自己的电视，他仍然可以注意到隔行扫描伪像。广播电视上的广告。 我在电视上看过以这种方式投放的所有广告广告，但从未注意到任何奇怪的地方。事实上，我之所以这么热衷于这样做，是因为我总是注意到，只需重复逐行帧或使用某种帧混合过程，某个点就会从 23.98 转换为 29.97。它像拇指酸痛一样突出。 但我愿意在这一点上犯错。我只是好奇我的客户是否疯了，或者我是那个需要现实检查的人？    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
+      <description><![CDATA[20 年来，我一直在 23.98p 时间轴上进行编辑，并以 23.98p 的速度从这些时间轴导出母版。然后，对于广播交付品，我使用 23.98p 母版导出 29.97 (59.94i) 广播交付品，使用真正的上场优先隔行 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我明白，自 1950 年代以来，所有 24fps 电影源基本上都是通过这种方式转换为广播电视（至少在北美是这样）。 现在，我的一个客户建议我使用 Apple Compressor 转换为广播交付品，并在“重定时质量”设置中使用“最佳（运动补偿）”选项。这显然会使用光流创建新的、插值的逐行帧，而不是仅使用 3:2 下拉将原始逐行帧非破坏性地拆分为场。  他希望我这样做，因为他说他在观看广播交付物时实际上可以看到隔行扫描。当我告诉他隔行交付物仅用于在支持隔行扫描播放的电视上观看/播放（而不是在逐行扫描计算机屏幕上）时，他反驳说，即使在广播电视上看到他的广告，他仍然可以注意到隔行扫描伪影。  我看过以这种方式在电视上播放的每一个商业广告，从未发现任何奇怪的东西。事实上，我之所以如此挑剔地这样做，是因为我总是注意到广告何时通过重复逐行帧或使用某种帧混合过程从 23.98 转换为 29.97。它显得格格不入。 但我愿意承认我错了。我只是好奇我的客户是不是疯了，或者我才是需要接受现实检验的人？    提交人    /u/doctorpebkac   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</guid>
       <pubDate>Thu, 02 May 2024 02:13:58 GMT</pubDate>
     </item>
