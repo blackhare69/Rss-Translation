@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 00:34:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:09:27 GMT</lastBuildDate>
     <item>
       <title>关于 Guix 的发泄</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
@@ -20,7 +20,7 @@
       <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
+      <title>Websurfx - 用 rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
       <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
@@ -36,14 +36,14 @@
     <item>
       <title>FOSS Speed reader 版本 2 现已推出：主要 UI 改进、新导入方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</link>
-      <description><![CDATA[嗨！不久前我发布了我在这里开发的速读器，收到了很多积极和建设性的反馈。之后，我和一位朋友开始研究改进版本。现在它已经问世，我们尽可能多地采纳了反馈。 对于任何还不了解我们的阅读器的人，以下是网站上的描述：  高度可定制的速读器，可直接替代付费应用程序。此阅读器内置了分块、节奏和突出显示等速读概念。使用焦点模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换到您想要访问应用程序的任何端口）  这是我们所做的所有改进的综合列表  更简单的用户界面 EPUB 导入支持 从 URL 导入支持 从 GET 导入文件/网页提取请求/html/状态请求的主体 存储有关文本的源数据 内部托管文件限制从约 100kB 增加到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） 修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库：https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖。 祝您阅读愉快！ PS：我们正在寻找可以构建超级简单浏览器的人插件可以将用户重定向到阅读器，并在请求正文中附加数据。如果您认识某人，请给我发消息！    提交人    /u/Pristine-Adeptness-1   [link] [comments]]]></description>
+      <description><![CDATA[嗨！不久前，我发布了我在这里开发的快速阅读器，收到了很多积极和建设性的反馈。之后，我和一个朋友开始研究改进版本。现在就在这里，我们尽可能多地提供了反馈。 对于那些还不了解我们的读者的人，以下是网站上的描述：  高度可定制的快速阅读器，可直接替代付费应用程序。该阅读器内置了诸如组块、节奏和突出显示等快速阅读概念。使用对焦模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换为您想要访问应用程序的任何端口）  这是我们所做的所有改进的完整列表  更简单的用户界面 EPUB 导入支持 从 URL 支持导入 从 GET 请求正文导入文件/网络提取请求/html/状态 存储有关文本的源数据 内部托管文件限制从大约增加到100kB 到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） &lt; li&gt;修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库： https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖. 祝您阅读愉快！ PS：我们正在寻找能够构建一个超级简单的浏览器插件的人，该插件可以重定向用户向读者发送请求正文中附加的数据。如果您认识某人，请给我发消息！   由   提交 /u/Pristine-Adeptness-1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</guid>
       <pubDate>Wed, 01 May 2024 18:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>Maelstrom：一款密封的集群测试运行器（而且速度很快）</title>
+      <title>Maelstrom：一个密封的集群测试运行程序（而且速度很快）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</link>
-      <description><![CDATA[大家好，  Maelstrom 是一个 Rust 测试运行程序，构建在通用集群作业运行程序之上。 Maelstrom 将您的 Rust 测试打包到密封的微容器中，然后将它们分发到任意大的测试运行器集群上运行，或者在本地机器上运行。您可以使用 Maelstrom 来运行测试，因为：  这很简单。 Maelstrom 可以作为货物测试的直接替代品，因此在大多数情况下，它都能正常工作。 它很可靠。 Maelstrom 在自己的轻量级容器中密封地运行每个测试，消除了由测试间或隐式测试环境依赖性引起的混乱错误。 它是可扩展的。 Maelstrom 可以作为集群运行。您可以添加更多工作机器来线性增加测试吞吐量。 速度很快。在大多数情况下，即使不使用集群，Maelstrom 也比货物测试更快。 它很干净。 Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化以降低开销并快速启动。 它是 Rusty。整个项目是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您尝试一下。 https://maelstrom-software.com/ &lt; p&gt;https://github.com/maelstrom-software/maelstrom （编辑：添加github 链接）   由   提交/u/bobbobbio2000   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， Maelstrom 是一个 Rust 测试运行器，建立在通用集群作业运行器之上。Maelstrom 将您的 Rust 测试打包到密封的微型容器中，然后分发它们以在任意大的测试运行器集群上运行，或在您的机器本地运行。您可以使用 Maelstrom 来运行测试，因为：  它很简单。Maelstrom 可以作为 Cargo Test 的替代品，因此在大多数情况下，它都可以正常工作。 它很可靠。Maelstrom 在其自己的轻量级容器中密封地运行每个测试，从而消除了由测试间或隐式测试环境依赖性引起的令人困惑的错误。 它具有可扩展性。Maelstrom 可以作为集群运行。您可以添加更多工作机器以线性增加测试吞吐量。 它很快。在大多数情况下，即使不使用集群，Maelstrom 也比 cargo test 更快。 它很干净。Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化，开销低，启动速度快。 它是 Rusty。整个项目都是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您的尝试。 https://maelstrom-software.com/ https://github.com/maelstrom-software/maelstrom （编辑：添加了 github 链接）    提交人    /u/bobbobbio2000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</guid>
       <pubDate>Wed, 01 May 2024 17:49:29 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>密码管理器与 Android、Linux 和 Windows 上的客户端相互同步</title>
+      <title>密码管理器可在 Android、Linux 和 Windows 上与客户端相互同步</title>
       <link>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</link>
       <description><![CDATA[Android、Linux 和 Linux 上是否有带有客户端的密码管理器彼此同步的 Windows？ 我不需要一个可以自动集成并提交不同应用程序密码的密码管理器。我只需要 1 个开源的，可以保存凭证并在 android、Linux（基于 debian）和 Android、Linux（基于 debian）之间同步。通过互联网或蓝牙的 Windows。   由   提交/u/GL4389  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</guid>

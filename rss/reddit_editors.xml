@@ -4,9 +4,23 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 02 May 2024 00:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:08:59 GMT</lastBuildDate>
     <item>
-      <title>在 Premiere 中制作多机位时我的 AE 做错了什么？</title>
+      <title>从整理转向编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</link>
+      <description><![CDATA[我很难看到这里树上的叶子。我一直在 Flame 的一家高端邮局担任助理整合艺术家，很喜欢那里的环境和人，但对伴奏工作失去了兴趣，而对编辑更感兴趣。我梦想中的许多公司都是我们的供应商，而且他们离商店也很近，这真是太酷了。  当他们对我的未来进行投资时，表明我对编辑感兴趣是否明智？他们不提供编辑服务，因此这可能会导致我失业。事情已经发展到我开始失去兴趣的地步，但我已经证明了我的技能。  关于如何处理这样的事情有什么建议吗？    由   提交/u/chlass  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</guid>
+      <pubDate>Thu, 02 May 2024 03:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户声称他可以在广播电视上“看到”3:2 下拉的隔行扫描</title>
+      <link>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</link>
+      <description><![CDATA[20 年来，我一直在 23.98p 时间线中进行编辑，并以 23.98p 的速度从这些时间线中导出母版。然后，对于广播交付成果，我使用 23.98p 主控导出 29.97 (59.94i) 广播交付成果，使用真正的上场优先、隔行扫描 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我知道这基本上是自 20 世纪 50 年代以来所有 24fps 电影源转换为广播电视的方式（至少在北美）。  我现在有一位客​​户建议我使用 Apple Compressor 使用“最佳（运动补偿）”转换为广播交付成果。 “重定时质量”中的选项设置。显然，这将使用光流创建新的插值逐行帧，而不是仅使用 3:2 下拉非破坏性地将原始逐行帧分割成场。  他希望我这样做，因为他说当他查看广播交付成果时，他实际上可以看到隔行扫描。当我告诉他隔行扫描的交付成果仅适用于在支持隔行扫描播放的电视（而不是在逐行扫描计算机屏幕上）上观看/播放时，他反驳说，即使他看到自己的电视，他仍然可以注意到隔行扫描伪像。广播电视上的广告。 我在电视上看过以这种方式投放的所有广告广告，但从未注意到任何奇怪的地方。事实上，我之所以这么热衷于这样做，是因为我总是注意到，只需重复逐行帧或使用某种帧混合过程，某个点就会从 23.98 转换为 29.97。它像拇指酸痛一样突出。 但我愿意在这一点上犯错。我只是好奇我的客户是否疯了，或者我是那个需要现实检查的人？    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</guid>
+      <pubDate>Thu, 02 May 2024 02:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Premiere 中制作多机位镜头时，我的 AE 做错了什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</link>
       <description><![CDATA[我刚刚开始了一份新的工作，担任编辑，还有一位我以前从未合作过的助理编辑。我注意到所有的“多镜头”他说他制作的并不是真正的多镜头，但似乎所有角度都在时间轴上同步。因此，我无法在多机位视图中观看它，这使得编辑此类节目非常困难。 我不确定它们是如何像这样同步的，以及是否存在快速纠正它的方法，或者他是否必须一起制作新的多机位？    由   提交/u/One-Patient-3417   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>本地 700 成员作为 AE 想要成为一名调色师？</title>
       <link>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</link>
-      <description><![CDATA[大家好， 我的目标是成为一名调色师，目前我有足够的助理编辑时间来加入当地 700 名名单（我在洛杉矶）。我已完成加入名册的所有文书工作，只是尚未提交，因为我正在寻找几个答案：  我目前从事无薪/低薪工作自由着色和编辑演出，如果我要加入花名册，然后最终加入工会，我是否必须*要求*调色师或 AE 率，或者我仍然可以承担基本上是 Craigslist 的演出吗？ 如果我在加入花名册/工会后找到了一家邮局来收留我，那是如何运作的？我要向工会请假吗？如果是这样，列入名单是否需要办理 LoA 的正式文书？ 有点归结为：如果有人为我提供低薪工作，我是否会被迫步行因加入名册/工会而离开？ 成员一旦加入名册/工会，是否必须遵守规则？ li&gt; 我知道加入花名册是一个绝佳的机会，但我也想确保这是成为调色师的下一个正确步骤。有什么我应该注意的缺点吗？    由   提交/u/blueberrybones  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我的目标是成为一名调色师，目前我有足够的助理编辑时间进入 Local 700 名册（我在洛杉矶）。我已经完成了加入名册的所有文书工作，只是还没有提交，因为我正在寻找几个答案：  我目前从事无偿/低薪的自由调色和编辑工作，如果我加入名册，然后最终加入工会，我是否必须*要求*调色师或 AE 的工资，或者我是否仍然可以接受基本上是 Craigslist 的工作？ 如果我在加入名册/工会后找到了一家可以接纳我的后期制作公司，那该怎么办？我需要向工会请假吗？如果是这样，那么进入名册是否需要为 LoA 提供正式的文件？ 归结为：如果有人给我提供低薪工作，我是否会因为进入名册/工会而被迫离开？ 进入名册/工会后，成员是否必须遵守规则？ 我明白加入名册是一个绝佳的机会，但我也想确保这是成为调色师的下一步。有什么我应该注意的缺点吗？     提交人    /u/blueberrybones   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chxve6/local_700_member_as_an_ae_seeking_to_be_a_colorist/</guid>
       <pubDate>Wed, 01 May 2024 21:31:03 GMT</pubDate>
     </item>
@@ -34,16 +48,16 @@
       <pubDate>Wed, 01 May 2024 19:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>达芬奇解决颜色</title>
+      <title>Davinci Resolve 色彩</title>
       <link>https://www.reddit.com/r/editors/comments/1chsali/davinci_resolve_colour/</link>
       <description><![CDATA[我们使用的规格 - Dropbox 用于发送给客户 - Final Cut Pro - davinci resolve studio - Apple Mac Studio 屏幕 - Mac m1 电脑 - iPhone 14 - Sony A7ii 设置 Cine4 - 无人机 dji mini - QuickTime  问题：有人在 davinci 上有任何可以为我们工作的色彩管理设置吗？我目前使用的是rec-709-A，它给了我最好的结果，当我在QuickTime上导出它时，它看起来仍然平坦，所以我放入Final Cut来提高对比度和饱和度；然后我导出到 Dropbox 并检查我的手机，它看起来再次平坦（我的老板检查他的手机），所以我再次提高对比度和饱和度，这样它在计算机上看起来很狂野，但在手机上看起来很正常，但后来他说颜色看起来老实说，我正在失去它，请有人帮助我！  我在屏幕上看到的颜色与我老板在他的屏幕上看到的颜色不同，我尝试了不同的方法，不同的屏幕，但我们似乎永远无法做到正确，摄影方面的业务没有问题，但由于某种原因我们有问题。我觉得我快要疯了。我的老板不愿意改变他的投篮方式，所以我需要从我这边解决这个问题。    由   提交 /u/Salty_Performance314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chsali/davinci_resolve_colour/</guid>
       <pubDate>Wed, 01 May 2024 17:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>多伦多/洛杉矶/纽约是否有适合长期工作的邮局？</title>
+      <title>多伦多、洛杉矶、纽约 有没有可以制作长篇作品的后期制作公司？</title>
       <link>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</link>
-      <description><![CDATA[我已经涉足商业领域大约 5 年了 - 通过在邮局从事全职工作获得收入。与一家公司签约对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想保留的 - 但我希望跳入长篇/专题游戏。我已经做了相当多的研究，但似乎找不到任何我可以关注的主要专注于长篇（严格编辑，而不是视觉特效/音频/等）的后期制作公司。我一直认为切割功能更多的是“自由职业”。无论如何，考虑到每个项目的范围，游戏比广告更重要，但我想在这里运行它，以防万一我错了。我目前住在多伦多，但愿意搬到美国。甚至跳回到助理编辑，如果这就是我在功能上涉足的必要条件。    由   提交/u/hipwithyoungsters  [链接] [评论]]]></description>
+      <description><![CDATA[我已经在商业领域剪辑了大约 5 年，收入来自一家后期制作公司的全职工作。签约一家公司对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想要保留的 - 但我希望进入长篇/故事片行业。我做了大量的研究，似乎找不到任何主要专注于长篇（严格来说是剪辑，而不是视觉特效/音频/等）的后期制作公司，我可以把目光投向这些公司。考虑到每个项目的范围，我一直认为剪辑故事片更像是一项“自由职业”游戏，而不是广告，但为了以防万一我错了，我想在这里说一下。我目前住在多伦多，但愿意搬到美国。甚至跳回助理编辑，如果这是让我涉足故事片领域所需要的。    由    /u/hipwithyoungsters  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</guid>
       <pubDate>Wed, 01 May 2024 16:49:53 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>Avid：10 年前的笔记本电脑与 Macstudio Ultra</title>
       <link>https://www.reddit.com/r/editors/comments/1chen3r/avid_10_year_old_pc_laptop_vs_macstudio_ultra/</link>
-      <description><![CDATA[我正要扔掉我拥有的一台旧联想笔记本电脑。  一台 10 年历史的笔记本电脑。12GB RAM。i5。 我使用 macstudio m1 ultra。128GB RAM 作为我的主机。 在两者上都安装了 Avid 2024.3。 猜猜怎么着…… Avid 在 10 年历史的 PC 上启动速度更快。我简直不敢相信这垃圾。移动、打开剪辑的速度大致相同。使用 DNX 媒体。 我知道 Avid 在 Apple Silicon 上存在错误且未优化，但我没想到会那么糟糕。 Avid 甚至不再尝试在 Mac 上使用了吗？    提交人    /u/Mamonimoni   [链接] [评论]]]></description>
+      <description><![CDATA[我正准备扔掉我拥有的一台旧联想笔记本电脑。  一台已有 10 年历史的笔记本电脑。 12GB 内存。 i5。 我使用 macstudio m1 ultra。 128GB RAM 作为我的主计算机。 两台机器上都安装了 Avid 2024.3。 你猜怎么着...... Avid 在这台已有 10 年历史的 PC 上启动速度更快。我简直不敢相信这个废话。四处移动、打开剪辑的速度大致相同。使用 DNX 媒体。 我知道 Avid 在 Apple Silicon 上存在缺陷且未优化，但我没想到它会那么糟糕。 Avid 不再在 Mac 上尝试吗？&lt; /p&gt;   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chen3r/avid_10_year_old_pc_laptop_vs_macstudio_ultra/</guid>
       <pubDate>Wed, 01 May 2024 05:51:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是一名视频编辑，正在寻找稳定的职位，但我发现几乎每份工作都要求了解如何使用动态图形。我以前使用过 After Effects，并且知道如何制作基本的动态图形，例如角色生成器或简单的过渡，但我想了解更多相关信息。问题是我不知道招聘人员说“你有以前的工作经验或动态图形知识 - After Effects 软件”是什么意思。哪个级别？某些特定技能是否比其他技能更有价值？您建议先学习什么？ 提前致谢   由   提交/u/Specialist_Ad4240   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chak4u/what_should_i_learn_about_motion_graphics/</guid>
       <pubDate>Wed, 01 May 2024 02:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进入企业视频剪辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ch8oq5/how_to_get_into_corporate_video_editing/</link>
-      <description><![CDATA[我作为一名自由视频编辑已经有两年了，我想专注于企业视频，但除了 VSL 之外我还能提供什么，以及我如何找到大多数客户？如果有任何人在这个利基市场，我将不胜感激任何建议！    由   提交/u/_ACamus_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ch8oq5/how_to_get_into_corporate_video_editing/</guid>
-      <pubDate>Wed, 01 May 2024 00:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>导出 EDL 以及其他类型的生成轨迹</title>
-      <link>https://www.reddit.com/r/editors/comments/1ch76ih/exporting_edl_with_other_types_of_generated_tracks/</link>
-      <description><![CDATA[有谁知道 Premiere pro 中是否可以导出其他视频对象（例如彩条）作为 EDL 的一部分？ 我正在运行一个实验，当我在文本编辑器中查看 EDL 时，我只能查看主视频文件的入点和出点。    由   提交 /u/carlostambien   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ch76ih/exporting_edl_with_other_types_of_generated_tracks/</guid>
-      <pubDate>Tue, 30 Apr 2024 23:26:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
