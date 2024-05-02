@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 06:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:09:41 GMT</lastBuildDate>
+    <item>
+      <title>注意：这是一个网络研讨会邀请（是的，这有点像广告！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</link>
+      <description><![CDATA[嘿！我是 Lorina，r/xwiki 的开源倡导者。我知道广告可能会有点麻烦（我也不是粉丝），所以我会保持简单，希望对您很有用。 5 月 30 日 16 点:00 CEST，我们将举办一个免费的网络研讨会，标题为“迁移自Confluence 到 XWiki：没有比这更简单的了”。 我向你保证，这不仅仅是一个广告；它是一个广告。这是一个真正帮助团队顺利过渡到开源平台的机会，该平台不仅灵活而且预算友好。 以下是可用的内容： 快速迁移：我们努力缩短迁移时间。 自动化设置：我们通过改进的自动化消除了手动麻烦。 灵活的选项：使用我们增强的配置选项定制迁移以满足您的需求。 保存设置：使用我们记住您的设置的新功能简化未来的迁移。 详细见解：获取有关内容的全面报告移动，包括宏。 为什么要收听？ 您将看到现场演示，发现简化迁移的资源，并可以询问任何问题我们问答期间的问题。我们设计的这个网络研讨会尽可能具有互动性和信息丰富性。 如果您对从 Confluence 切换到 XWiki 有点好奇，或者只是想了解开源替代方案可以做什么提供，这可能是一个非常合适的选择。 在这里注册：最简单从Confluence迁移到XWiki 再次抱歉类似广告的侵入！期待在网络研讨会期间与您聊天！   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ciaai4/heads_up_this_is_a_webinar_invite_yep_its_sort_of/</guid>
+      <pubDate>Thu, 02 May 2024 08:13:32 GMT</pubDate>
+    </item>
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>支持开源代码的两个（新的？）论点</title>
       <link>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</link>
-      <description><![CDATA[ 在商业环境之外开发的代码可以在较少的时间压力下创建，并且可能源自“神灵的灵感”或“顿悟时刻”。这样的代码比在时间压力下在沉闷的小隔间中创建的代码质量更高，后者只需要“足够好”（“编译通过，发布！”）。对于商业代码，购买两倍快的计算机通常比优化代码使其速度提高一倍更经济，而开源代码通常只关心改进，没有严格的时间限制。  开源通常具有“竞争力”，因为它是公开的，更多的人（包括局外人和陌生人）可以贡献改进，以获得朋友和同行的声誉/善意。例如：想象一下，你正在从事 Linux 内核开发工作，并且能够说你已经在内核中编写了代码。  仅我的两个字节。    提交人    /u/Joonicks   [link] [comments]]]></description>
+      <description><![CDATA[ 在商业环境之外开发的代码可以在较小的时间压力下创建，并且可能源自“神圣灵感”。或“尤里卡时刻”。这样的代码更有可能比在时间压力下在单调的小隔间中创建的代码具有更高的质量，该代码只需要“足够好”即可。 （“它编译了，发布它！”）。商业代码通常更具有经济意义，购买两倍速度的计算机，而不是将代码优化为两倍速度，而开源代码通常只关心没有严格时间限制的改进。  开源通常具有“竞争力”。因为它是公开的，所以更多的人，包括局外人和陌生人，可以贡献改进，以获得朋友和同行的恶名/善意。示例：想象一下，参加 Linux 内核开发工作，并能够说您已经在内核中拥有代码。  只是我的两个字节。   由   提交 /u/Joonicks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</guid>
       <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成和我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
-      <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca 的第一个版本（超级草稿），我们正在寻找合作者来继续这一使命。 我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM，并通过一个简单的界面访问它们。 它从一个非常简单的前提开始。想象一下，我们正在开发基于人工智能的软件，比如聊天机器人。 如果用户输入“hello”，如果即使使用 llama3-8B（更小、更便宜的模型）也能得到很好的响应，为什么还要使用 GPT-4？ 现在，让我们尝试用数学、哲学、心理学等提示意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以在 API 调用中节省相当多的钱。 这是 github repo：https://github.com/OpenSenecaAI/openseneca 我们欢迎反馈、未来的想法和问题 :)    提交人    /u/ottaviofogliata   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
-      <pubDate>Tue, 30 Apr 2024 16:22:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
