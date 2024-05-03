@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 21:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:36:46 GMT</lastBuildDate>
     <item>
-      <title>AI 助手和 Bot Builder</title>
+      <title>人工智能助手和机器人生成器</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[
             无需代码即可直观地构建自定义 AI 助手
@@ -23,12 +23,12 @@
       <title>1流</title>
       <link>https://www.producthunt.com/posts/1flow</link>
       <description><![CDATA[
-使用 AI 在几秒钟内启动有针对性的产品内调查
-
+            使用人工智能在几秒钟内启动有针对性的产品内调查
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/1flow</guid>
       <pubDate>Thu, 02 May 2024 05:27:17 GMT</pubDate>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 01:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>Airbnb 图标</title>
+      <title>爱彼迎图标</title>
       <link>https://www.producthunt.com/posts/airbnb-icons</link>
       <description><![CDATA[
             来自世界上最伟大偶像的非凡体验
