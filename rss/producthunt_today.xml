@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 00:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:11:18 GMT</lastBuildDate>
     <item>
-      <title>人工智能助手和机器人生成器</title>
+      <title>AI 助手和 Bot Builder</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[
             无需代码即可直观地构建自定义 AI 助手
