@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 06:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:08:52 GMT</lastBuildDate>
+    <item>
+      <title>欧洲市场高开；法国银行业因利润超预期领涨</title>
+      <link>https://www.cnbc.com/2024/05/03/europe-stocks-open-to-close-ftse-100-dax-cac-40.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/europe-stocks-open-to-close-ftse-100-dax-cac-40.html</guid>
+      <pubDate>Fri, 03 May 2024 08:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>土耳其4月通胀加速至近70%</title>
+      <link>https://www.cnbc.com/2024/05/03/turkeys-inflation-accelerates-to-nearly-70percent-in-april.html</link>
+      <description><![CDATA[2022 年 8 月 29 日星期一，土耳其伊斯坦布尔西西里区一栋建筑外悬挂着一面土耳其国旗（左）和一面印有现代土耳其共和国创始人凯末尔·阿塔图尔克肖像的旗帜。彭博社 | 彭博社 | Getty Images土耳其统计局周五报告称，4 月份土耳其的通货膨胀率同比上升至 69.8%。同比上涨最高的是教育，上涨了 103.86%，以及酒店、咖啡馆和餐馆，上涨了 95.82%。按月计算，土耳其的通货膨胀率上涨了 3.18%，其中酒精饮料和烟草以及酒店、咖啡馆和餐馆的价格上涨最为明显。这是一条突发新闻。请回来查看更新。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/turkeys-inflation-accelerates-to-nearly-70percent-in-april.html</guid>
+      <pubDate>Fri, 03 May 2024 08:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本日元经历了过山车般的一周。这是发生的事情</title>
+      <link>https://www.cnbc.com/2024/05/03/japans-yen-had-a-rollercoaster-week-here-is-what-happened.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/japans-yen-had-a-rollercoaster-week-here-is-what-happened.html</guid>
+      <pubDate>Fri, 03 May 2024 08:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>面对国外监管审查和国内竞争，中国汽车制造商必须迅速适应，否则就会在电动汽车热潮中失利。</title>
+      <link>https://www.cnbc.com/2024/05/03/chinas-automakers-must-adapt-quickly-or-lose-out-on-the-ev-boom.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/chinas-automakers-must-adapt-quickly-or-lose-out-on-the-ev-boom.html</guid>
+      <pubDate>Fri, 03 May 2024 05:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技投资者表示，不要对特斯拉的全自动驾驶评价过高：“绝不是自动驾驶”</title>
+      <link>https://www.cnbc.com/2024/05/03/dont-rate-teslas-full-self-driving-too-highly-tech-investor-says.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/dont-rate-teslas-full-self-driving-too-highly-tech-investor-says.html</guid>
+      <pubDate>Fri, 03 May 2024 05:26:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>她曾为 Nike、NBA 和 Maya Angelou 工作过。认识抽象艺术家 Ya La'ford</title>
+      <link>https://www.cnbc.com/2024/05/03/ya-laford-abstract-artist-who-has-worked-for-nike-nba-maya-angelou.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/ya-laford-abstract-artist-who-has-worked-for-nike-nba-maya-angelou.html</guid>
+      <pubDate>Fri, 03 May 2024 05:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济学家表示，美联储和欧洲央行在降息问题上的分歧可能会给欧元带来麻烦</title>
+      <link>https://www.cnbc.com/2024/05/03/european-central-bank-rate-cut-would-be-a-mistake-economist-says.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/european-central-bank-rate-cut-would-be-a-mistake-economist-says.html</guid>
+      <pubDate>Fri, 03 May 2024 05:01:28 GMT</pubDate>
+    </item>
     <item>
       <title>以下是在亚洲 10 个主要城市租一套一居室公寓的费用</title>
       <link>https://www.cnbc.com/2024/05/03/heres-how-much-it-costs-to-rent-a-1-bed-apartment-in-10-asian-cities.html</link>
@@ -13,7 +62,7 @@
       <pubDate>Fri, 03 May 2024 03:57:45 GMT</pubDate>
     </item>
     <item>
-      <title>只要利润率和回购增加，苹果 iPhone 销量下滑就不会困扰华尔街</title>
+      <title>只要利润率和回购量增加，苹果 iPhone 销量的下降就不会困扰华尔街</title>
       <link>https://www.cnbc.com/2024/05/02/apples-falling-iphone-sales-not-a-problem-as-margins-buybacks-grow.html</link>
       <description><![CDATA[]]></description>
       <guid>https://www.cnbc.com/2024/05/02/apples-falling-iphone-sales-not-a-problem-as-margins-buybacks-grow.html</guid>
@@ -25,55 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.cnbc.com/2024/05/02/were-raising-our-price-target-on-apple-after-earnings-beat-and-raise.html</guid>
       <pubDate>Fri, 03 May 2024 01:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国存在“假黄金”问题——当地人被骗购买人造珠宝</title>
-      <link>https://www.cnbc.com/2024/05/03/china-has-a-fake-gold-problem-as-more-locals-get-scammed.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/china-has-a-fake-gold-problem-as-more-locals-get-scammed.html</guid>
-      <pubDate>Fri, 03 May 2024 00:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛列出了具有可持续股息收益率的全球股票——并表示其中一只将达到 10%</title>
-      <link>https://www.cnbc.com/2024/05/03/goldman-sachs-names-global-stocks-with-highest-sustainable-dividends.html</link>
-      <description><![CDATA[欧洲公司的现金比它们已经出现在近代历史中。高盛表示，斯托克 600 指数成分股公司的资产负债表上有近 1.5 万亿欧元（1.6 万亿美元）的现金，比大流行前的水平高出 25%。该银行表示，欧洲的自由现金流收益率约为 6%，比美国高出一个百分点以上。高盛表示，收益率最高的行业包括汽车、大宗商品生产商和金融业。该银行青睐后两者，因为它们明确表示关注股东回报。该银行在 4 月 23 日的一份报告中表示，总体而言，该地区公司的资产负债表特别强劲，EBITDA（息税折旧摊销前利润）的净债务水平接近历史最低水平。高盛表示，欧洲和美国之间的股息收益率差异是有史以来最窄的，这使得欧洲更具吸引力。 “换句话说，从绝对和相对的角度来看，欧洲很少看起来更便宜，”它说。该行表示：“我们认为，鉴于派息率低于历史平均水平……且投资机会仍然稀缺，欧洲的股息可能会继续增长。”并补充称，预计欧洲股息在 2024 年将增长 3% 左右，在 2025 年将增长 4% 左右。高盛表示，目前价值股也有很好的机会，特别是银行和能源股。 MSCI 欧洲价值指数的股息收益率为 4.8%，是 MSCI 欧洲增长指数的 2.8 倍。高盛补充说，围绕利率的波动现在表明价值股应该继续跑赢成长型股票。 “在这种环境下，我们认为投资者还应该关注稳定的收入策略，因为收入可能成为回报的重要驱动因素，”它表示。以下是高盛筛选出的一些高股息收益率股票。它们是欧洲斯托克 600 指数中各板块 12 个月远期股息收益率最高的公司。该银行强调，该筛选可识别具有最高可持续股息收益率的公司。 — CNBC 的 Michael Bloom 对本报告做出了贡献。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/goldman-sachs-names-global-stocks-with-highest-sustainable-dividends.html</guid>
-      <pubDate>Thu, 02 May 2024 23:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛表示，这些全球股票将因 8580 亿美元的电力繁荣而飙升，其中一只股票的上涨空间为 45%。</title>
-      <link>https://www.cnbc.com/2024/05/03/goldman-these-stocks-will-soar-on-a-857-billion-electrification-boom.html</link>
-      <description><![CDATA[对电力和数据中心的需求已经高盛表示，欧洲的几家公司将受益。该投行分析师在4月29日的一份研究报告中写道，欧洲电力需求预计在未来10年将增长高达50%，扭转自2008年以来一直面临的低迷局面。他们预计，欧洲输电和配电方面将花费 8000 亿欧元（8575 亿美元），部分原因是“多年投资不足”。分析师表示：“在一个运营和财务杠杆率较高的行业中，这种收入变化（也可能引发电网和可再生能源的长期有机增长）应该会对企业利润产生重大影响。”以下是高盛买入评级的三只股票，它们在未来 12 个月内的上涨潜力超过 30%。 E.on高盛看好电力公司E.on，刚刚将其目标价上调近3%至17欧元。这使得德国股票——高盛的信心名单上的股票——有大约35%的潜在上涨空间。该银行对该股给予买入评级的原因包括德国的电气化推动和零售利润率，该银行表示，能源价格下跌“可能会很好地支撑”这些利润。高盛预计 E.on 将在“2023-28 年实现中个位数[每股收益复合年增长率]”。上交所 苏格兰能源巨头上交所最近的更新证实了“其重新增长的故事”，因此受到高盛的关注。该银行分析师写道：“在可再生能源和网络投资增加的推动下，该公司现在详细介绍了 2023-27 财年 205 亿英镑（256.7 亿美元）的资本支出计划（与 2021 年 11 月的计划相比，运行率增长了约 60%）。”他们表示：“高电价和火力发电利润增加了公司必须投资的现金流。”并补充说，随着管道的建成，公司的增长将加快。高盛将该股目标价定为 2,024 便士，上涨潜力约为 42.8%。 Elia 高盛名单上还有比利时传输系统运营商 Elia。该投资银行的分析师写道，该公司因其“作为我们覆盖范围内增长最快的欧盟公用事业机构而具有强劲的盈利增长潜力”而脱颖而出。高盛将该股目标价定为135欧元，有45.5%的上涨潜力。 — CNBC 的 Michael Bloom 对本报告做出了贡献。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/goldman-these-stocks-will-soar-on-a-857-billion-electrification-boom.html</guid>
-      <pubDate>Thu, 02 May 2024 23:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coterra 明智地从天然气转向石油，带来了出色的第一季度业绩和更加美好的前景</title>
-      <link>https://www.cnbc.com/2024/05/02/coterras-smart-production-pivot-leads-to-an-excellent-quarter-sweeter-outlook.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/coterras-smart-production-pivot-leads-to-an-excellent-quarter-sweeter-outlook.html</guid>
-      <pubDate>Thu, 02 May 2024 22:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>克莱默表示，即使在重要的财报周期间，通胀数据也正在推动市场走势</title>
-      <link>https://www.cnbc.com/2024/05/02/cramer-says-inflation-data-is-driving-market-action-and-not-earnings.html</link>
-      <description><![CDATA[CNBC 的 吉姆克莱默周四表示，如果投资者希望股市上涨，他们需要周五劳工报告中较弱的数据，并补充说，通胀数据才是真正推动市场走势的因素。“我们经常得到‘坏消息是’在商业周期的这个阶段，有好消息时刻，但很少像最近那样过度，”他说。 “我希望市场不会这样运作，但这就是现实，这就是为什么如果你希望股价上涨，你明天就需要做空美国经济。”克莱默对华尔街对美联储下一次利率决定的执着表示遗憾。投资者希望降息，但美联储已表示通胀过高，且经济依然强劲，目前尚无法降息。克莱默表示，他讨厌必须反对经济，但投资者如此关注“大局数据”可能向美联储发出的信号，以至于四月份的信息就业报告控制着市场走势——即使是在有影响力的财报周期间。这种动态让克莱默感到沮丧，因为这让他觉得比如“公司无法控制自己的命运”。他还表示，对联邦基金利率的关注使得股市成为那些想押注美联储下一步行动的人的“玩物”。“我们都知道，今天获得的每一点都可能被抹去。明天的就业数据是错误的，而现在，错误的数据意味着强于预期，”克莱默说。 “这很荒谬——这与选股市场相反。”&lt; div class=&quot;RelatedContent-container&quot;&gt;吉姆·克莱默的投资指南&lt; a href=&quot;https://www.cnbc.com/cramerguide/&quot;&gt;点击此处下载吉姆·克莱默投资指南 免费帮助您建立长期财富并更明智地投资。立即注册 加入 CNBC 投资俱乐部，关注 Jim Cramer 在市场上的一举一动.免责声明对 Cramer 有疑问吗？致电 Cramer：1-800-743-CNBC想要深入了解克莱默的世界吗？打他吧！ Mad Money Twitter - 吉姆·克莱默 Twitter - Facebook - &lt; a href=&quot;http://instagram.com/jimcramer&quot; target=&quot;_blank&quot;&gt;Instagram对“Mad Money”网站有疑问、意见、建议吗？ madcap@cnbc.com]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/cramer-says-inflation-data-is-driving-market-action-and-not-earnings.html</guid>
-      <pubDate>Thu, 02 May 2024 22:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，特朗普当选的 SEC 将旨在扭转气候披露规则，加剧 ESG 斗争</title>
-      <link>https://www.cnbc.com/2024/05/02/trump-sec-would-end-climate-disclosure-rule-target-esg-investments.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/trump-sec-would-end-climate-disclosure-rule-target-esg-investments.html</guid>
-      <pubDate>Thu, 02 May 2024 22:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>盘后涨幅最大的股票：Apple、Cloudflare、Expedia、Block 等</title>
-      <link>https://www.cnbc.com/2024/05/02/stocks-making-the-biggest-moves-after-hours-aapl-net-expe-sq.html</link>
-      <description><![CDATA[查看之后成为头条新闻的公司盘中交易：苹果——这家 iPhone 制造商宣布斥资 1,100 亿美元回购股票，股价上涨 7%。苹果第二财季每股收益为 1.53 美元，营收为 907.5 亿美元。这超出了分析师对 LSEG 每股收益 1.50 美元、营收 900.1 亿美元的预期。 Expedia — 这家在线旅游公司在盘后交易中下跌了约 8%。 Expedia 将全年营收预期下调至中高个位数增长，理由是 Vrbo 增长缓慢，而 B2C 业务迄今为止增速加快。 Expedia 公布的第一季度营收超出了 LSEG 的预期，达到 28.9 亿美元，超过分析师预期的 28.1 亿美元。安进 (Amgen) — 这家生物技术公司股价飙升 11%。安进公布第一季度调整后每股收益为 3.96 美元，营收为 74.5 亿美元。伦敦证券交易所集团 (LSEG) 调查的分析师预计每股收益为 3.87 美元，营收为 74.4 亿美元。该公司还表示，将把其注射肥胖药物进入第三阶段试验，但将不再追求正在开发的实验性减肥药。 Fortinet — 该安全公司股价下跌 8%。 Fortinet 第二季度和全年营收指引的中点略低于分析师预期。 Fortinet 报告第一季度调整后每股收益为 43 美分，营收为 13.5 亿美元，而 LSEG 调查的分析师则预计每股收益为 38 美分，营收为 13.4 亿美元。 Block——支付服务提供商股价上涨 6%。 Block 公布第一季度调整后每股收益为 85 美分，营收为 59.6 亿美元。这些业绩超出了分析师对 LSEG 每股收益 72 美分和营收 58.2 亿美元的预期。 Cloudflare — 该云服务提供商发布了疲软的全年收入指引后，该公司股价下跌 13%。然而，第一季度业绩超出了华尔街的预期。 Cloudflare 公布的调整后每股收益为 16 美分，收入为 3.79 亿美元，而根据 LSEG 的普遍预测，每股收益为 13 美分，收入为 3.73 亿美元。 DaVita——在 DaVita 公布第一季度调整后每股收益为 2.38 美元后，这家医疗保健提供商的股价在盘后交易中上涨了 3%，而接受 FactSet 调查的分析师则预计每股收益为 1.95 美元。 30.7 亿美元的收入也超出了 30.3 亿美元的预期。 — CNBC 的 Christina Cheddar-Berk 提供了报道。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/stocks-making-the-biggest-moves-after-hours-aapl-net-expe-sq.html</guid>
-      <pubDate>Thu, 02 May 2024 21:31:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
