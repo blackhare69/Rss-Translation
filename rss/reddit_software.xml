@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 03:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:09:41 GMT</lastBuildDate>
+    <item>
+      <title>在 Windows 11 上安装 Windows Visual C++ 2010 的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</link>
+      <description><![CDATA[我正在尝试通过电脑上的 EA 应用程序下载《模拟人生 4》，但我始终不知道如何下载要安装的 2010 Visual C++ Redistributable。每次我尝试这样做时，它都会说有另一个安装正在进行中，但据我所知，没有。在尝试安装 2010 c++ 之前，我已经取消了所有安装程序，关闭了 EA，取消了 Sims 安装，卸载了安装程序，并重新启动了我的计算机无数次，但似乎没有任何效果。请帮忙。   由   提交 /u/queennothing9264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjrc5t/issues_installing_windows_visual_c_2010_on/</guid>
+      <pubDate>Sat, 04 May 2024 03:54:56 GMT</pubDate>
+    </item>
     <item>
       <title>推荐可在 YouTube 上进行直播的纯命令行软件</title>
       <link>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>有好的电脑清洁剂吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</link>
-      <description><![CDATA[有哪些好的 Windows 清理软件？我曾经使用过 ccleaner，但我听说它对你的电脑不好   由   提交 /u/ReddishOnion   [链接] [评论]]]></description>
+      <description><![CDATA[有哪些适用于 Windows 的好清理软件？我以前用过 ccleaner，但听说它对电脑不好    提交人    /u/ReddishOnion   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjah01/good_pc_cleaners/</guid>
       <pubDate>Fri, 03 May 2024 14:46:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
       <pubDate>Fri, 03 May 2024 14:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找某种模式识别软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</link>
-      <description><![CDATA[我不确定是否存在这样的东西，但基本思想是这样的：我给出一系列问题的输入以及尝试的答案这些问题以及正确答案的总数。如果有足够的数据，它有望确定正确的答案集。    由   提交 /u/Master_Doggo873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</guid>
-      <pubDate>Fri, 03 May 2024 13:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

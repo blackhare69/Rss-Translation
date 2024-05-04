@@ -4,9 +4,23 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 04 May 2024 03:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:09:36 GMT</lastBuildDate>
     <item>
-      <title>有什么方法可以将嵌入的字幕从 Quicktime 文件中分离出来？</title>
+      <title>关于 Premiere Pro 中代理的快速问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjth6w/quick_question_re_proxys_in_premiere_pro/</link>
+      <description><![CDATA[您好， 在 Premiere Pro 中进行编辑。 我应该将原始 4K 视频存储在同一台计算机上吗？硬盘驱动器作为 .pproj 文件并在单独的驱动器上创建代理，还是相反？ 谢谢。    ;由   提交 /u/real2gems   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjth6w/quick_question_re_proxys_in_premiere_pro/</guid>
+      <pubDate>Sat, 04 May 2024 06:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frame.io 在 Premiere Pro 上仅显示空白面板</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjtei4/frameio_only_shows_blank_panel_on_premiere_pro/</link>
+      <description><![CDATA[为什么我点击查看时面板是空白的？应该会显示登录信息，但全是空白。帮助   由   提交/u/lastsliceofpizza0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjtei4/frameio_only_shows_blank_panel_on_premiere_pro/</guid>
+      <pubDate>Sat, 04 May 2024 05:59:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么办法可以将嵌入的字幕从 Quicktime 文件中分离出来吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cjpks2/any_way_to_separate_embedded_subtitles_from_a/</link>
       <description><![CDATA[标题本质上 - 我有一个客户提供带有嵌入字幕的素材（可以在 Quicktime 中打开和关闭），但他们不明白有烧录字幕和嵌入字幕之间存在差异，我需要访问项目的字幕。 有没有一种简单的方法可以让我从文件中获取嵌入字幕，而无需自己重新输入所有内容？我尝试向客户解释差异，但他们只是不明白问题所在。 规格：我使用的是 MacBook Pro，并且安装了 FCPX、Compressor 和 VLC Player，但有如果需要，可以访问一些其他应用程序。   由   提交 /u/NeedAssistance_123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cjpks2/any_way_to_separate_embedded_subtitles_from_a/</guid>
@@ -69,7 +83,7 @@
       <pubDate>Fri, 03 May 2024 01:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>电视演播室现场抠像交付规格</title>
+      <title>电视演播室制作中现场抠像的交付规范</title>
       <link>https://www.reddit.com/r/editors/comments/1cio5qs/deliveryspecs_for_live_keying_in_a_tv/</link>
       <description><![CDATA[我本来打算编辑几个短片，以便在现场电视演播室制作期间播放。在我的制作公司工作流程中，我通常不进行出口和交付。但由于很多同事生病，我这次不得不去。所有剪辑都以与徽标相关的过渡结束，通过实时抠像将我们带回工作室。我本来打算给他们一个 ProRes4444 8bpc+alpha 通道，但制作人告诉我，他们的视频服务器无法将 Fill 和 Key 放在同一个文件中，并要求我单独渲染它们。 Tbh，我知道我应该但我不知道这意味着什么。有人能解释一下吗？ 我为我在这个领域缺乏知识而道歉，我的日常工作有一个完全不同的重点，我从来没有必要做这样的事情。谢谢！ 系统规格：AMD Ryzen 9 7900X 12 核处理器 4.70 GHzCPU、64,0 GB RAM、NVIDIA GeForce RTX 3080 // &lt; strong&gt;软件规格：Adobe Premiere Pro v23.6.5 // 素材规格：希望能找到答案   由   提交 /u/Lyroscop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cio5qs/deliveryspecs_for_live_keying_in_a_tv/</guid>
@@ -88,20 +102,6 @@
       <description><![CDATA[大家好！我一直在为各种项目将音频剪辑编辑成 Frankenbites，并且经常面临拼接之间速度、音调和语调不匹配的挑战。我一直在剪辑之间使用两帧交叉淡入淡出，这有点帮助，但我正在寻找其他可以提高声音无缝度的技术或工具。任何建议或意见，将不胜感激！谢谢！   由   提交 /u/indymoguler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cihmj5/tips_for_creating_clean_frankenbites/</guid>
       <pubDate>Thu, 02 May 2024 14:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 字幕</title>
-      <link>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</link>
-      <description><![CDATA[大家好， 是我太昏暗了，还是Premiere的字幕系统完全无法使用了？以前，我很高兴能够进行编辑，让它转录编辑和快乐的日子，我们出发。 现在，似乎没有转录序列的选项：我必须导出仅 vox 的视频，重新导入该视频并点击各种按钮，直到我可以强制它转录导出内容。 Adobe 是否破坏了它？ （我正在使用Mac 上的版本 24.3.0（Build 59）。）   由   提交 /u/Bee_Thirteen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</guid>
-      <pubDate>Thu, 02 May 2024 08:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bridge 适合文件预览和文件管理吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</link>
-      <description><![CDATA[这更适合“内容创建者”。对于编辑器类型，我并不想在专业的工作流程中实现这一点。我使用 Soundly 来处理音频，它非常棒。我不需要审查任何对话：这纯粹是为了构建视觉效果（我后来最常将其路由到后期效果中）。  我有无数的视频和静态图像/插图/动画资源。这令人难以承受，而且由于我不是文件管理专家，我也总是希望更改我的文件夹结构并重命名内容。问题是，这会以一百万种不同的方式扰乱一百万个不同的项目。自从我开始大量使用 Productions 以来，我只是垃圾邮件项目。因此，必须一直重新链接所有内容是一场噩梦（如果这是一个简单的更改，Premier 可以自动重新链接，那么没有问题，但如果我也移动文件等，它可能会变得一团糟：这不是一个经常出现的问题，我尝试对我所做的事情进行深思熟虑，所以我只是列出了主要关心的问题，因为我非常多动症，如果我开始“感觉”混乱，事情就会滚雪球）。  我喜欢 Bridge，也喜欢留在 Adob​​e 生态系统中的想法。我对云计算并不是非常热衷，但我希望如此，这只会让我在以后/如果我想再次开始一些更像是生意的事情时有更多的选择。我只是不知道我是否喜欢Bridge，当使用一个新程序时，很难分辨什么是自己知识的限制，什么是自己的限制 我将我的资产保存在外部T7上固态硬盘。我的主程序现在需要重新格式化，它只是有时会出现问题（例如，它无法在本机 Finder Mac OS 中维护标签分类）。但我想要   由   提交 /u/T00Human   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</guid>
-      <pubDate>Thu, 02 May 2024 08:44:24 GMT</pubDate>
     </item>
     <item>
       <title>这些垃圾邮件编辑工作机会到底是怎么回事？！？</title>
