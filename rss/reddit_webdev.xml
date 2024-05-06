@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 May 2024 06:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:10:34 GMT</lastBuildDate>
+    <item>
+      <title>caniemail.com（类似于 caniuse，但用于电子邮件内容）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clek9i/caniemailcom_like_caniuse_but_for_email_content/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clek9i/caniemailcom_like_caniuse_but_for_email_content/</guid>
+      <pubDate>Mon, 06 May 2024 09:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建搜索输入</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clehsl/how_to_create_a_search_input_with_tailwind_css/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建搜索输入[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clehsl/how_to_create_a_search_input_with_tailwind_css/</guid>
+      <pubDate>Mon, 06 May 2024 09:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最后 3 项换行 (CSS)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cle8ys/last_3_items_on_a_new_line_css/</link>
+      <description><![CDATA[我试图让最后 3 个菜单元素始终换行（菜单变得像汉堡包时除外），但我可以不明白.. 我尝试过： #menu-item-26 ~ * { 清除：两者； } li:nth-child(5n+1) { 清除：左； } 网页如下：http://bibilab.mircooliverisofia.com/ 我也尝试过其他代码，但没有任何结果，不起作用！ 有人可以透露一些信息吗？我想避免有 2 个菜单，因为当我得到汉堡菜单时，我需要在移动设备上使用第三个菜单，这意味着我总共有 3 个菜单（2 个可见，1 个隐藏，反之亦然）。 .必须有一个更简单的方法！ 非常感谢   由   提交 /u/mircofragomena   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cle8ys/last_3_items_on_a_new_line_css/</guid>
+      <pubDate>Mon, 06 May 2024 08:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用每个端口联系我的服务器的 IP 地址</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cldhnb/ip_addresses_using_every_port_to_contact_my_server/</link>
+      <description><![CDATA[我有 TLS，握手失败时会记录。今晚，一些 IP 与数千个端口（17k 日志）的 TLS 握手失败。这是某种服务（Cloudflare 或 Analytics）或抓取行为还是我缺少的其他内容？    由   提交/u/vesko26  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cldhnb/ip_addresses_using_every_port_to_contact_my_server/</guid>
+      <pubDate>Mon, 06 May 2024 07:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人会使用 Apache Kafka 作为后端吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/</link>
+      <description><![CDATA[您好，我只是想知道自由职业者是否会使用 kafka 作为后端，如果它与电子商务网站或 kafka 通常获得的任何内容有关用于？   由   提交/u/Visual-Earth  /u/Visual-Earth  reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cld6ad/would_anybody_use_apache_kafka_as_backend/</guid>
+      <pubDate>Mon, 06 May 2024 07:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助和想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clci92/need_help_and_ideas/</link>
+      <description><![CDATA[最近我的一个朋友要求我为他的自由职业公司建立一个网站。我自己是个新人，他没有提供任何设计或任何具体的内容，只是说要制作作品集网站。所以我制作了一个网站并第一次托管了一些东西 https://orazweb.com/ 如果有人想检查的话，这是链接。他看起来对它很满意，但我不满意，有人可以帮助我告诉我应该改进什么吗？我认为这还不够好，但无法指出我应该改进什么。此外，在托管之后，在 Google 上搜索时也不会显示如何改进这一点。    由   提交/u/dinner88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clci92/need_help_and_ideas/</guid>
+      <pubDate>Mon, 06 May 2024 06:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建基本商店网站的最佳/最便宜的方法是什么？ （禁止网上购买）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clc45w/what_is_the_bestcheapest_way_to_create_basic_shop/</link>
+      <description><![CDATA[更具体地说，这些代理是如何工作的？如果我有一家商店，想要一个只包含我的地址、电话号码和一些图片以及一些联系表格的网站。显然图片/电话号码应该由客户端管理（我认为这是cms？）那么在这种情况下他们使用Wordpress吗？我的第二个问题是，我看到很多 WordPress 托管提供商，但他们没有提到 cms 部分，这是否总是包含在 Wordpress 中？如果我对 React Web dev 或一些 jquery mvc 缺乏了解，我可以调整这些 WordPress 模板吗？   由   提交 /u/Unhappy-Albatross-67   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clc45w/what_is_the_bestcheapest_way_to_create_basic_shop/</guid>
+      <pubDate>Mon, 06 May 2024 06:14:23 GMT</pubDate>
+    </item>
     <item>
       <title>语言学习网络应用程序的技术堆栈</title>
       <link>https://www.reddit.com/r/webdev/comments/1clbvkj/tech_stack_for_language_learning_web_app/</link>
@@ -20,9 +69,9 @@
       <pubDate>Mon, 06 May 2024 05:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>React Router 中 BrowserRouter 和 HashRouter 有什么区别?</title>
+      <title>React Router 中的 BrowserRouter 和 HashRouter 有什么区别？</title>
       <link>https://www.reddit.com/r/webdev/comments/1clbjx6/what_is_the_difference_between_browserrouter_and/</link>
-      <description><![CDATA[所以我已经在 gh 页面上部署了我的构建，并且在我从 BrowserRouter 切换到 HashRouter 之前无法正确导航我的应用程序，这很糟糕吗？当我将其部署到另一个主机上时，是否必须将其切换回 BrowserRouter？   由   提交 /u/Vzaje   [链接] [评论]]]></description>
+      <description><![CDATA[所以我已经在 gh 页面上部署了我的构建，并且在我从 BrowserRouter 切换到 HashRouter 之前无法正确浏览我的应用程序，这很糟糕吗？当我将其部署到另一个主机上时，是否必须将其切换回 BrowserRouter？   由   提交 /u/Vzaje   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clbjx6/what_is_the_difference_between_browserrouter_and/</guid>
       <pubDate>Mon, 06 May 2024 05:37:32 GMT</pubDate>
     </item>
@@ -34,7 +83,7 @@
       <pubDate>Mon, 06 May 2024 05:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>为我的理发师制作一个网站</title>
+      <title>为我的理发师建立一个网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1clakbm/making_a_site_for_my_barber/</link>
       <description><![CDATA[正如标题所示，我正在为我的理发师制作一个网站。我的知识延伸到对 html/css/javascript 的相当扎实的理解以及对 React 的基本理解。我的问题是我如何以与此网站类似的方式处理预约：https://cryptobarbershops.com/cp_app_hour_booking-id10/ .我可以集成任何第三方应用程序来进行预订吗？    由   提交 /u/MindlessLiving7949   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clakbm/making_a_site_for_my_barber/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[我将启动一个新项目（以金融服务为重点的 CRM）并尝试决定使用哪个后端。我对 Django、.NET 和 .NET 有一些经验。 Node/Express 然而我的后端技能相当有限。我很好奇人们最喜欢的后端是什么以及为什么   由   提交/u/thebreadmanrises  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cl9x1a/what_is_your_preferred_backend_framework_why/</guid>
       <pubDate>Mon, 06 May 2024 03:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>当职位描述要求至少 3 年 Nodejs 经验时，这意味着什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl9ktr/what_does_it_mean_when_a_job_description_is/</link>
-      <description><![CDATA[我总是对 Nodejs 的含义感到困惑。  他们指的是使用 Express（框架）、节点生态系统（任何 React/Angular/Vue 开发人员都会熟悉的）构建应用程序的经验，还是实际使用 NodeJS 构建应用程序的经验（即实际使用文件系统） ，以及节点提供的库）？    由   提交 /u/juzatropictroll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl9ktr/what_does_it_mean_when_a_job_description_is/</guid>
-      <pubDate>Mon, 06 May 2024 03:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>时区到位置：一种获取用户一般区域的隐私友好方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl9j07/timezone_to_location_a_privacyfriendly_way_to_get/</link>
-      <description><![CDATA[ 由   提交/u/deadfire55  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl9j07/timezone_to_location_a_privacyfriendly_way_to_get/</guid>
-      <pubDate>Mon, 06 May 2024 03:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建...在网站上复制 Google Looker Studio 报告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl8aax/how_do_i_build_replicating_a_google_looker_studio/</link>
-      <description><![CDATA[      大家好，在为我想要构建的东西（或找人）提供一些帮助之后来构建）。 我有一位数据科学家朋友，他在 Google Looker Studio 中构建了一些非常酷的报告，这些报告允许用户筛选多年的体育结果，以寻找基于家庭的趋势/离开、天气、一天中的时间、之前的结果、反对派的地位等。 我很乐意将其公开，但我不想只是在我的网站上嵌入谷歌报告。  p&gt; 这是我正在尝试构建的示例：https://www.nba.com/stats /teams/advanced 请原谅糟糕的术语，但我如何才能以更加用户友好、品牌化的方式在我的 WordPress 网站上复制 Google Looker Report 的功能，响应式方式？ 希望这是有道理的。提前致谢。 https:// /preview.redd.it/r044e5szvpyc1.png?width=2426&amp;format=png&amp;auto=webp&amp;s=f5976965b370715faade155b1b51da4ddcb1353c https://preview.redd.it/nzkn51szvpyc1.png?width=2448&amp;format=png&amp;auto=webp &amp;s =7c8a21f486130dc7e5a2d1ec8a6a83e2e25a28b7   由   提交 /u/peacemaketroy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl8aax/how_do_i_build_replicating_a_google_looker_studio/</guid>
-      <pubDate>Mon, 06 May 2024 02:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码面试所需资源的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</link>
-      <description><![CDATA[有没有类似 neetcode 但更适合 JavaScript 的网站？     提交人    /u/candyloverx101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl55qv/suggestions_for_coding_interviews_resources_needed/</guid>
-      <pubDate>Sun, 05 May 2024 23:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>业余项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</link>
-      <description><![CDATA[大家好，我正在考虑在今年夏天课外时创建一个业余项目。我想创建一个网站，您可以在其中找到您想要阅读的完美书籍并将其添加到阅读列表中。 我不想让您厌倦这些细节，让我直接讲它。我想为名人制作一个过滤器，例如这个过滤器会找到“the rock”推荐的书籍例如。我怎样才能实现这个？有没有一个 api 可以做到这一点？如果没有 api 来制作流行名人和他们推荐的书籍的表格，我是否可以使用 ai 来实现此目的？    由   提交 /u/JackedMushroom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl4qya/side_project/</guid>
-      <pubDate>Sun, 05 May 2024 23:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个更好的存储/知识库平台。想想 Google Drive + Slack。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</link>
-      <description><![CDATA[嗨，我正在构建 The Drive AI，一个 AI-第一个协作知识库和笔记应用程序。 The Drive AI 正在解决什么问题？  难以利用过去的工作：当前的存储/笔记应用程序限制了存储信息的价值。他们不会使用现有文档作为新文档的基础。 可信信息检索：随着笔记和文件的增加，查找可信信息变得前所未有的困难和复杂化决策过程并阻碍进展。 沟通差距：当前的沟通渠道（例如 Slack 和 Discord）缺乏背景。通常，团队正在讨论一个项目，并且在 Slack/Discord 之类的渠道中很难回顾特定的上下文对话。此外，通过它们共享的文件缺乏隐私，从而损害了机密性。频繁的文件丢失也会影响工作效率。  我们如何解决这个问题？  高级检索：我们有高级检索系统可以快速搜索您的文档以找到相关答案并使用这些存储的文件来创建新文件。例如，如果您存储简历并链接到职位描述，您可以告诉人工智能助手根据这些存储的文档为您写一封求职信。如果我们无法在您的知识库中找到答案，我们只会说“我们不知道”。 内置聊天频道：每个文件/文件夹都有独特的团队聊天。如果您正在与教授讨论研究论文，您可以使用该文件的团队聊天，并随时参考该特定聊天。私人 DM 即将推出。您可以在聊天中共享文件，而文件无需离开平台。  其他功能：  您可以突出显示 PDF 、边写笔记、与朋友聊天。 我们支持大多数编辑工具，并且正在添加更多工具。 您可以个性化您的 AI 助手。 每当您共享/发布您的文件时，您也共享了您的 AI 助手。 无需 AI 培训，并且具有高安全/隐私措施。我们正在申请合规证书。 您可以拥有自己的面向公众的个人资料，任何页面都可以成为您的公共页面。例如，https://thedrive.ai/bigyan 可以是您的简历、DOCX 文件或 YouTube 视频。只要有你想要的，AI 助手都能帮到你。我们的目标是在未来拥有您的人工智能角色。  感谢您阅读本文，希望您至少能够尝试一下。干杯。   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl4efs/i_am_building_a_better_storageknowledge_base/</guid>
-      <pubDate>Sun, 05 May 2024 23:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 HTML / CSS 隐藏 Chrome 中损坏的链接图标？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</link>
-      <description><![CDATA[      我尝试这样设计： &lt; ;img src=&quot;#&quot;; alt=&quot;占位符&quot;高度＝“100”宽度＝“300” &gt;&gt; img[src=“#”] { 背景：#e1e1e1; }  但是我在 Chrome 中得到了损坏的图像图标...有没有办法在没有 Js 的情况下防止这种情况？ https://preview.redd.it/neuv5bmmnoyc1.png?width=127&amp;format=png&amp;auto =webp&amp;s=1a1e79cf3541c27c166006b32c82c61d1762d349   由   提交 /u/Weekly_Frosting_5868   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cl36u7/way_to_hide_the_broken_link_icon_in_chrome_with/</guid>
-      <pubDate>Sun, 05 May 2024 22:19:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
