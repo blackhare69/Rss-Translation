@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 21:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 00:33:44 GMT</lastBuildDate>
+    <item>
+      <title>鲁弗斯 gpt/mbr</title>
+      <link>https://www.reddit.com/r/software/comments/1clubp3/rufus_gptmbr/</link>
+      <description><![CDATA[我尝试使用 RUFUS 为两种分区方案 (mbr/gpt) 创建可启动 USB 来安装 Windows 7，但我一直收到 Windows 只能安装在gpt 磁盘    由   提交/u/New_Age6338   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clubp3/rufus_gptmbr/</guid>
+      <pubDate>Mon, 06 May 2024 21:13:49 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌裁员</title>
       <link>https://www.reddit.com/r/software/comments/1clrtce/google_layoffs/</link>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 06 May 2024 14:46:43 GMT</pubDate>
     </item>
     <item>
-      <title>需要一个超级用户友好的演示制作工具（Mac 友好！）</title>
+      <title>需要一个超级用户友好的演示文稿制作器（适用于 Mac！）</title>
       <link>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</link>
       <description><![CDATA[大家好，自从我上次准备演示文稿以来已经有很长时间了，这可能是一次性的事情。正在寻找超级易于使用但仍能让我创建一些具有视觉吸引力的软件。 如果它可以在我的 Mac 上离线运行，那就加分了！提前致谢！   由   提交 /u/dimpchells   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clkaf2/need_a_super_userfriendly_presentation_maker_mac/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 06 May 2024 10:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一个浏览器中的 YouTube 下载器</title>
+      <title>我需要在浏览器中安装 YouTube 下载器</title>
       <link>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</link>
       <description><![CDATA[我正在使用 yt mate，但它表现得很奇怪   由   提交/u/Far_Baseball_1663   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cleve7/i_need_a_youtube_downloader_in_browser/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在使用任天堂 Switch 控制器在 Windows PC 上的 Steam 上玩游戏，这让我大吃一惊，弄清楚这是多么困难。我想重新映射屏幕截图按钮，以便它可以在不和谐中启用一键通，可以映射到任何按钮。我尝试将其映射到`键，然后在steam大图片模式下，将屏幕截图按钮更改为`，但是在游戏本身中，单击`不会在不和谐中注册。  我愿意购买另一个控制器，这可能会让事情变得更容易。 Xbox 控制器是否更适合在 Steam 上玩游戏/重新映射一键通？任何能让这一切变得尽可能简单的事情，而无需我堆叠不同的软件解决方案来获得我正在寻找的东西。   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clagnv/map_nintendo_switch_screenshot_button_to_discord/</guid>
       <pubDate>Mon, 06 May 2024 04:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>文档管理软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cl7e1a/document_management_software/</link>
-      <description><![CDATA[我正在寻找一个文档管理软件来组织多个文档、PDF 等。这些文档应该可以通过其中的关键字轻松搜索。我还希望根据一些参考在每个文档之间创建连接。另一个要求是能够自动从 Outlook 导入附件。 请向我推荐一些也易于使用的 DMS。我急需找到一个   由   提交 /u/Xftgjijkl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cl7e1a/document_management_software/</guid>
-      <pubDate>Mon, 06 May 2024 01:43:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
