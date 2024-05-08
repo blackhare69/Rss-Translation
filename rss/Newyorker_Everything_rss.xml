@@ -3,12 +3,19 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Wed, 08 May 2024 18:10:11 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Wed, 08 May 2024 21:08:58 GMT</lastBuildDate>
+    <item>
+      <title>孩子们不太好。他们希望被倾听</title>
+      <link>https://www.newyorker.com/news/essay/the-kids-are-not-all-right-they-want-to-be-heard</link>
+      <description><![CDATA[如何解释反对加沙战争的学生运动？有时正确的答案就在你面前。]]></description>
+      <guid>https://www.newyorker.com/news/essay/the-kids-are-not-all-right-they-want-to-be-heard</guid>
+      <pubDate>Wed, 08 May 2024 19:41:20 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 禁令并不能解决社交媒体问题</title>
       <link>https://www.newyorker.com/culture/infinite-scroll/a-tiktok-ban-wont-fix-social-media</link>
-      <description><![CDATA[你可以把这个平台从美国用户手中夺走，但要遏制它所引发的习惯已经太晚了。]]></description>
+      <description><![CDATA[你可以把这个平台从美国用户手中夺走，但要遏制它所引发的习惯却为时已晚。]]></description>
       <guid>https://www.newyorker.com/culture/infinite-scroll/a-tiktok-ban-wont-fix-social-media</guid>
       <pubDate>Wed, 08 May 2024 17:07:13 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>加沙的未爆炸炸弹危机</title>
       <link>https://www.newyorker.com/news/q-and-a/gazas-unexploded-bomb-crisis</link>
-      <description><![CDATA[清除领土上的军火和瓦砾可能会构成第二次世界大战以来从未见过的挑战。]]></description>
+      <description><![CDATA[清除领土上的军械和废墟可能带来二战以来前所未有的挑战。]]></description>
       <guid>https://www.newyorker.com/news/q-and-a/gazas-unexploded-bomb-crisis</guid>
       <pubDate>Wed, 08 May 2024 14:29:53 GMT</pubDate>
     </item>
@@ -66,13 +73,6 @@
       <link>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</link>
       <description><![CDATA[像吹叶机一样响亮，像数学一样神奇，这些昆虫即将占领大地。]]></description>
       <guid>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</guid>
-      <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>克里斯蒂·诺姆书中的其他招生</title>
-      <link>https://www.newyorker.com/humor/shouts-murmurs/other-admissions-in-kristi-noems-book</link>
-      <description><![CDATA[“我最大的抱负是在民选职位上继续为我们这个伟大的国家服务。我的第二大目标是与 Aflac 鸭子决斗。”]]></description>
-      <guid>https://www.newyorker.com/humor/shouts-murmurs/other-admissions-in-kristi-noems-book</guid>
       <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
