@@ -3,10 +3,31 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Wed, 08 May 2024 15:07:08 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Wed, 08 May 2024 18:10:11 GMT</lastBuildDate>
     <item>
-      <title>加沙未爆炸炸弹危机</title>
+      <title>TikTok 禁令并不能解决社交媒体问题</title>
+      <link>https://www.newyorker.com/culture/infinite-scroll/a-tiktok-ban-wont-fix-social-media</link>
+      <description><![CDATA[你可以把这个平台从美国用户手中夺走，但要遏制它所引发的习惯已经太晚了。]]></description>
+      <guid>https://www.newyorker.com/culture/infinite-scroll/a-tiktok-ban-wont-fix-social-media</guid>
+      <pubDate>Wed, 08 May 2024 17:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日漫画：5 月 8 日星期三</title>
+      <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-may-8th-crowded-and-noisy</link>
+      <description><![CDATA[“我知道这里很拥挤、很吵，但定期出去不是很有趣吗？”]]></description>
+      <guid>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-may-8th-crowded-and-noisy</guid>
+      <pubDate>Wed, 08 May 2024 16:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年迄今为止我们读过的最佳书籍</title>
+      <link>https://www.newyorker.com/best-books-2024</link>
+      <description><![CDATA[我们的编辑和评论家评论著名的新小说、非小说和诗歌。]]></description>
+      <guid>https://www.newyorker.com/best-books-2024</guid>
+      <pubDate>Wed, 08 May 2024 15:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙的未爆炸炸弹危机</title>
       <link>https://www.newyorker.com/news/q-and-a/gazas-unexploded-bomb-crisis</link>
       <description><![CDATA[清除领土上的军火和瓦砾可能会构成第二次世界大战以来从未见过的挑战。]]></description>
       <guid>https://www.newyorker.com/news/q-and-a/gazas-unexploded-bomb-crisis</guid>
@@ -43,7 +64,7 @@
     <item>
       <title>巨大蝉出现的奇特乐趣</title>
       <link>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</link>
-      <description><![CDATA[像吹叶机一样响亮，像数学一样神奇，昆虫即将占领大地。]]></description>
+      <description><![CDATA[像吹叶机一样响亮，像数学一样神奇，这些昆虫即将占领大地。]]></description>
       <guid>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</guid>
       <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[“我最大的抱负是在民选职位上继续为我们这个伟大的国家服务。我的第二大目标是与 Aflac 鸭子决斗。”]]></description>
       <guid>https://www.newyorker.com/humor/shouts-murmurs/other-admissions-in-kristi-noems-book</guid>
       <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“挑战者”如何让三角恋变得如此空虚？</title>
-      <link>https://www.newyorker.com/culture/the-front-row/how-does-challengers-make-a-love-triangle-feel-so-empty</link>
-      <description><![CDATA[卢卡·瓜达尼诺电影的繁琐结构消除了该剧所依赖的色情指控。]]></description>
-      <guid>https://www.newyorker.com/culture/the-front-row/how-does-challengers-make-a-love-triangle-feel-so-empty</guid>
-      <pubDate>Mon, 06 May 2024 21:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纽约客》荣获两项 2024 年普利策奖</title>
-      <link>https://www.newyorker.com/news/news-desk/2024-pulitzer-prizes-stillman-de-la-cruz</link>
-      <description><![CDATA[专职撰稿人萨拉·斯蒂尔曼 (Sarah Stillman) 因报道严厉的法律原则而受到表彰，首次撰稿人梅达尔·德拉克鲁兹 (Medar de la Cruz) 因一篇有关赖克斯岛的插图文章而受到表彰。]]></description>
-      <guid>https://www.newyorker.com/news/news-desk/2024-pulitzer-prizes-stillman-de-la-cruz</guid>
-      <pubDate>Mon, 06 May 2024 19:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日漫画：5 月 6 日星期一</title>
-      <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-may-6th-kendrick-diss-track</link>
-      <description><![CDATA[“有点让我觉得自己渺小、微不足道，就像我是肯德里克·拉马尔 (Kendrick Lamar) 的一首 diss 歌曲的主题。”]]></description>
-      <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-may-6th-kendrick-diss-track</guid>
-      <pubDate>Mon, 06 May 2024 15:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
