@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 09 May 2024 09:09:17 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Thu, 09 May 2024 12:13:50 GMT</lastBuildDate>
+    <item>
+      <title>寻找易于安装的免费远程桌面软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</link>
+      <description><![CDATA[我需要一个无忧的远程桌面解决方案来帮助我的同学在他们的电脑上进行技术设置。以前，我依赖 Chrome 远程桌面，但它的 bug 越来越多，而且容易死机。 有谁知道有一款可靠、免费的远程桌面软件，可以快速安装、运行流畅并提供支持Mac 和 Windows 都可以吗？重要的是，该软件用户友好且易于设置，即使对于初学者也是如此。 提前致谢！   由   提交/u/Jdogg4089   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnums9/in_search_of_an_easytoinstall_free_remote_desktop/</guid>
+      <pubDate>Thu, 09 May 2024 11:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>所以我做了一个没有广告的Youtube下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1cnuli1/so_i_made_a_youtube_downloader_without_ads/</link>
+      <description><![CDATA[我真的厌倦了 YouTube 下载器网站上的广告。所以我做了一个没有广告的。它完全免费使用。但如果你愿意的话可以给我买瓶啤酒。网站中的捐赠链接。 https://yt2file.com/   由   提交/u/cativ3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnuli1/so_i_made_a_youtube_downloader_without_ads/</guid>
+      <pubDate>Thu, 09 May 2024 11:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 上真的有很棒的日历应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cnuhqu/is_there_really_great_calendar_app_for_windows/</link>
+      <description><![CDATA[我的意思是在可用性方面很棒，它应该非常敏捷。有非常好的键盘快捷键。理想情况下是可以滚动和缩放的连续时间线。使用它应该感觉像是游戏，人们应该能够快速完美地掌握它并像忍者一样创建移动编辑约会。我知道这些要求乍一看可能很奇怪，但我很确定这样的事情会让我的生活变得更好。   由   提交/u/Brace_4_Impact  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnuhqu/is_there_really_great_calendar_app_for_windows/</guid>
+      <pubDate>Thu, 09 May 2024 11:01:58 GMT</pubDate>
+    </item>
     <item>
       <title>帮助：“.exe 没有响应”，自昨天以来的所有游戏 - 详细信息如下。</title>
       <link>https://www.reddit.com/r/software/comments/1cnsbeq/help_exe_is_not_responding_on_all_games_since/</link>
@@ -36,12 +57,12 @@
     <item>
       <title>我想知道这个车机有没有软件可以升级？查看评论了解更多详情。</title>
       <link>https://www.reddit.com/r/software/comments/1cnqt33/im_wondering_if_theres_anyway_to_upgrade_the/</link>
-      <description><![CDATA[ 由   提交 /u/redredreddity   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/redredreddity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnqt33/im_wondering_if_theres_anyway_to_upgrade_the/</guid>
       <pubDate>Thu, 09 May 2024 06:47:33 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以帮我识别这个软件吗</title>
+      <title>有人能帮我识别这个软件吗</title>
       <link>https://www.reddit.com/r/software/comments/1cnqhjy/can_someone_help_me_identify_this_software/</link>
       <description><![CDATA[ 由   提交/u/geoofreysoccer27   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnqhjy/can_someone_help_me_identify_this_software/</guid>
@@ -78,37 +99,16 @@
     <item>
       <title>寻找个人知识数据库解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1cngwe4/looking_for_personal_knowledge_database_solutions/</link>
-      <description><![CDATA[问题： 我正在寻求有关寻找理想的个人知识数据库/Wiki（又名：“第二大脑”）的建议解决方案。注意：我主要使用 Windows，但 Linux 也是一个选择。 我尝试过的程序：在过去的 10 年里，我一直在寻找完美的程序。我测试了许多选项，例如 HelpNDoc、Obsidian、Notion、TiddlyWiki、Joplin strong&gt;、ZimWiki、DokuWiki、电子表格、Google Drive、CherryTree、&lt; strong&gt;TreeSheets 和 Zettelkasten/Bullet Journal 方法。遗憾的是，这些解决方案都没有完全满足我的所有要求。到目前为止，HelpNDoc 可能是我最接近成功的一个。 我还没有尝试过的程序：   BookStack、WordPress、MediaWiki  有谁知道程序或方法/工作流程 支持这些功能： 必备（核心）功能：  开源：我不想被锁定专有系统或工作流程会将我困在他们的生态系统中。 免费：如果它不是免费的，它可能也不是开源的。 离线：由于各种原因，我更喜欢将我的个人知识数据库存储在我的财产上，而不是某人的云服务器上。 可搜索：必须包含搜索栏。 基础知识：链接（内部和外部），粗体、斜体、页眉、页脚、H1、H2、H3 等。 可打印：包括手动分页符。 可导出：数据永远不应该感觉“锁定”在程序中。&lt; /li&gt; 图像支持：必须支持图像。 可组织：应允许“动态”重组页面层次结构，类似于在书中移动章节。 布局：必须支持复杂的布局（如维基百科的信息框和列支持） 模板：应该能够为不同类型的数据创建可重用的模板（例如，“人”和“人”）。或“地点”内容管理：能够轻松管理内容，例如向应用程序库添加徽标以及插入或“更新所有实例”模板。在任何页面上。 变量和变量文本“片段”：允许可重复使用的文本片段（例如，电子邮件或联系人列表）和变量（例如，“main_character_name”），可以插入到“更新所有实例”中并“更新所有实例”。在任何页面上。  最好有（可选）功能：  图形支持：例如 Graphviz 或类似的。&lt; /li&gt; 数学支持：例如 LaTeX 或类似软件。 编程支持：能够在页面内编写代码并在渲染时执行。 移动支持和移动支持同步：能够上传和同步通过个人 WiFi 将知识数据库同步到手机  感谢您的任何帮助！大家帮忙！   由   提交/u/just_a_person_1   [链接] [评论]]]></description>
+      <description><![CDATA[问题： 我正在寻求有关寻找理想的个人知识数据库/Wiki（又名：“第二大脑”）的建议解决方案。注意：我主要使用 Windows，但也可以选择 Linux。 我尝试过的程序：在过去的 10 年里，我一直在寻找完美的程序。我测试了许多选项，例如 HelpNDoc、Obsidian、Notion、TiddlyWiki、Joplin strong&gt;、ZimWiki、DokuWiki、电子表格、Google Drive、CherryTree、&lt; strong&gt;TreeSheets 和 Zettelkasten/Bullet Journal 方法。遗憾的是，这些解决方案都没有完全满足我的所有要求。到目前为止，HelpNDoc 可能是我最接近成功的一个。 我还没有尝试过的程序：   BookStack、WordPress、MediaWiki  有谁知道程序或方法/工作流程 支持这些功能： 必备（核心）功能：  开源：我不想被锁定专有系统或工作流程会将我困在他们的生态系统中。 免费：如果它不是免费的，它可能也不是开源的。 离线：由于各种原因，我更喜欢将我的个人知识数据库存储在我的财产上，而不是某人的云服务器上。 可搜索：必须包含搜索栏。 基础知识：链接（内部和外部），粗体、斜体、页眉、页脚、H1、H2、H3 等。 可打印：包括手动分页符。 可导出：数据永远不应该感觉“锁定”在程序中。&lt; /li&gt; 图像支持：必须支持图像。 可组织：应允许“动态”重组页面层次结构，类似于在书中移动章节。 布局：必须支持复杂的布局（如维基百科的信息框和列支持） 模板：应该能够为不同类型的数据创建可重用的模板（例如，“人”）或“地点”  内容管理：能够轻松管理内容，例如向应用程序库添加徽标以及插入或“更新所有实例”。在任何页面上。 变量和变量文本“片段”：允许可重复使用的文本片段（例如，电子邮件或联系人列表）和变量（例如，“main_character_name”），可以插入到“更新所有实例”中并“更新所有实例”。在任何页面上。  最好有（可选）功能：  图形支持：例如 Graphviz 或类似的。&lt; /li&gt; 数学支持：例如 LaTeX 或类似工具。 编程支持：能够在页面内编写代码并在渲染时执行。 移动支持和移动支持同步：能够上传和同步通过个人 WiFi 将知识数据库同步到手机  感谢您的任何帮助！大家帮忙！   由   提交/u/just_a_person_1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cngwe4/looking_for_personal_knowledge_database_solutions/</guid>
       <pubDate>Wed, 08 May 2024 22:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>我可以让‘地图我的步行’更加准确吗？</title>
+      <title>我可以让“绘制我的步行路线”更加准确吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</link>
       <description><![CDATA[我知道当 GPS 首次公开时，美国政府出于对恐怖分子的恐惧对其准确性进行了限制。但我也知道这些限制最终被取消了。那么，为什么当我使用 Map My Walk 时，它会偏离 15 英尺以上（即，在保持相同车道的情况下沿环形跑道行走会显示我改变了 2 条或更多车道以及在田野上行走）。有没有办法让它更准确？    提交人    /u/Rich-Imagination2444   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</guid>
       <pubDate>Wed, 08 May 2024 19:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计小型住宅村的最佳建筑设计软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</link>
-      <description><![CDATA[我正在与我的非营利组织和城市合作一个项目，我也是一名工程专业的学生。我想尝试使用软件设计一个小型住宅过渡村的概念，并向他们展示该提案。使用什么软件最适合做这件事？我想向他们展示一些可以更好地传达我的想法的东西。  我还有一台电脑。    提交人    /u/soko603   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</guid>
-      <pubDate>Wed, 08 May 2024 18:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可能用一本字典来统治所有这些？</title>
-      <link>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</link>
-      <description><![CDATA[有没有人找到一种方法来拥有自己的拼写字典，并且可以使用 Git 将其备份到某个地方？  我在多台机器上使用多个 IDE、记事本和第二大脑应用程序，我希望只需单击“添加到词典”即可。一次。将字典更新到中央存储库，然后允许我的所有其他设备使用同一字典。我目前正在“添加到词典”多次使用同一个单词 如果我有勇气打开包含“glorpuscles”这样的单词的同一个文件，或“meowssacre”在两种不同的设备上，所有这些都是为了安抚那些在我们的屏幕上画红蛇的计算机侏儒，以吓唬我们遵守语言合规性和严格的拼写规则。  您目前正在这样做吗？您能告诉我如何或从哪里开始寻找吗？  我今天可能在互联网搜索 gnomes 上遇到了困难，但我无法使用我选择的搜索引擎找到一个很好的答案。这可能是我想得太多了。  非常感谢。   由   提交/u/14PulsarsV1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</guid>
-      <pubDate>Wed, 08 May 2024 18:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有程序/方法可以更改照片文件的日期以匹配 EXIF 元数据日期？</title>
-      <link>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</link>
-      <description><![CDATA[我发现了一个名为“的软件照片日期更改器”但它是付费的。我想要类似的软件，但免费。   由   提交 /u/Accomplished-Scar513    reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</guid>
-      <pubDate>Wed, 08 May 2024 17:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
