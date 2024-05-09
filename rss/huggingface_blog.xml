@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Sun, 05 May 2024 09:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:08:38 GMT</lastBuildDate>
+    <item>
+      <title>使用英特尔 Gaudi 2 和英特尔至强构建经济高效的企业 RAG 应用</title>
+      <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>推出希伯来语法学硕士开放排行榜！</title>
       <link>https://huggingface.co/blog/leaderboard-hebrew</link>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放思想排行榜链简介</title>
+      <title>推出开放思维链排行榜</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-cot</guid>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>向社区推出 Idefics2：一个强大的 8B 视觉语言模型</title>
+      <title>隆重推出 Idefics2：面向社区的强大 8B 视觉语言模型</title>
       <link>https://huggingface.co/blog/idefics2</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/idefics2</guid>
       <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉语言模型解释</title>
-      <link>https://huggingface.co/blog/vlms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vlms</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
