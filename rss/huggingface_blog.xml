@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 09 May 2024 09:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:12:25 GMT</lastBuildDate>
+    <item>
+      <title>使用您的 AWS 账户订阅 Enterprise Hub</title>
+      <link>https://huggingface.co/blog/enterprise-hub-aws-marketplace</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/enterprise-hub-aws-marketplace</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用英特尔 Gaudi 2 和英特尔至强构建经济高效的企业 RAG 应用</title>
       <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>推出开放思维链排行榜</title>
+      <title>开放思想排行榜链简介</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-cot</guid>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎 Llama 3 - Meta 新开的法学硕士</title>
+      <title>Welcome Llama 3 - Meta 新开设的法学硕士</title>
       <link>https://huggingface.co/blog/llama3</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/llama3</guid>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
+      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面且无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ryght-case-study</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 Idefics2：面向社区的强大 8B 视觉语言模型</title>
-      <link>https://huggingface.co/blog/idefics2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/idefics2</guid>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

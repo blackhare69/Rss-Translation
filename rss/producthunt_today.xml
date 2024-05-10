@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 May 2024 09:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:14:09 GMT</lastBuildDate>
+    <item>
+      <title>故事</title>
+      <link>https://www.producthunt.com/posts/storiado</link>
+      <description><![CDATA[
+            邪恶之人的棋盘游戏替代品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/storiado</guid>
+      <pubDate>Fri, 10 May 2024 08:19:12 GMT</pubDate>
+    </item>
     <item>
       <title>照片胶带</title>
       <link>https://www.producthunt.com/posts/photo-tape</link>
@@ -62,7 +76,7 @@
       <pubDate>Thu, 09 May 2024 06:44:10 GMT</pubDate>
     </item>
     <item>
-      <title>Replica Studios 配音总监</title>
+      <title>配音导演：Replica Studios</title>
       <link>https://www.producthunt.com/posts/voice-director-by-replica-studios</link>
       <description><![CDATA[
             为创作者提供符合道德的语音人工智能和文本转语音
@@ -149,12 +163,12 @@
       <title>Intract社区中心</title>
       <link>https://www.producthunt.com/posts/intract-community-hub</link>
       <description><![CDATA[
-            正确完成社区建设并给予奖励
-          
+社区建设通过奖励实现
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/intract-community-hub</guid>
       <pubDate>Mon, 06 May 2024 08:02:25 GMT</pubDate>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/otto-5aa2afc8-0483-413d-8ef7-9a4fb8947858</guid>
       <pubDate>Fri, 03 May 2024 05:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论者的公开评论</title>
-      <link>https://www.producthunt.com/posts/public-commenting-by-commented</link>
-      <description><![CDATA[
-            无需任何注册过程即可发表评论
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/public-commenting-by-commented</guid>
-      <pubDate>Fri, 26 Apr 2024 14:39:55 GMT</pubDate>
     </item>
     <item>
       <title>剪辑翼</title>
