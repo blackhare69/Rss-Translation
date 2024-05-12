@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 12 May 2024 08:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 14:54:50 GMT</lastBuildDate>
     <item>
-      <title>作者讨论了他们在 React 应用程序中渲染 Markdown 的方法，强调了 [...]</title>
-      <link>https://t.me/hn_summary/89155</link>
-      <description><![CDATA[在 React 应用中渲染 Markdown 的好方法&lt; br /&gt;
-作者讨论了他们在 React 应用程序中渲染 Markdown 的方法，重点介绍了使用 remark-parse 将 Markdown 文件解析为抽象语法树 (AST) 和递归 React 组件将 AST 映射到 HTML/DOM。他们强调使用安全的 React API 来防止 XSS 攻击的安全优势、支持嵌入音频文件或 YouTube 视频等自定义指令的可扩展性，以及控制发出的 HTML 样式的透明度。作者还提到了在 AST 上应用转换和验证的能力，使其功能强大且适合服务器组件。使用的 React 组件不到 200 行代码，使其成为在 React 应用程序中渲染 Markdown 的简单而高效的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/89155</guid>
-      <pubDate>Sun, 12 May 2024 08:44:00 GMT</pubDate>
+      <title>[媒体] dansblog.netlify.app 内容的作者分享了他们探索 [...]</title>
+      <link>https://t.me/hn_summary/89178</link>
+      <description><![CDATA[意外绕道进入部分符号化、稀疏性利用的自动差异
+dansblog.netlify.app 上内容的作者分享他们探索拉普拉斯近似和稀疏自动差分的旅程。这篇文章最初的目的是介绍拉普拉斯近似，但后来演变成了关于稀疏自动差分和操作 jaxpr 中间表示的讨论。作者深入了解了拉普拉斯近似及其在 JAX 中的实现，并使用 PyMC 将其性能与 MCMC 进行了比较。这篇文章提供了技术细节、代码片段和实际示例的组合，使其成为对这些主题感兴趣的人的宝贵资源。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89178</guid>
+      <pubDate>Sun, 12 May 2024 14:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 vojtechrichter.com 上的这篇文章中，我深入研究了客户端 Ren [...]</title>
-      <link>https://t.me/hn_summary/89154</link>
-      <description><![CDATA[如何渲染我的 Web 应用程序
-在这篇关于 vojtechrichter.com 的文章中，我深入研究了Web 应用程序的客户端渲染 (CSR) 和服务器端渲染 (SSR)。我解释了这两种方法之间的差异，强调了每种方法的优缺点。 CSR 提供​​交互性和速度，而 SSR 在 SEO 优化方面表现出色。我个人更喜欢在我的所有项目中使用 SSR，利用 PHP 和 Latte 模板进行渲染。我提供了模板使用和 PHP 实现的示例。最终，CSR 和 SSR 之间的选择取决于项目的需求，但我推荐 SSR，因为它具有 SEO 优势和简单性。]]></description>
-      <guid>https://t.me/hn_summary/89154</guid>
-      <pubDate>Sun, 12 May 2024 08:37:50 GMT</pubDate>
+      <title>[媒体]最近的太阳风暴对农民的拖拉机 GPS 系统造成了严重破坏 [...]</title>
+      <link>https://t.me/hn_summary/89177</link>
+      <description><![CDATA[太阳风暴在播种高峰期间摧毁了农民的拖拉机 GPS 系统&lt; /a&gt;
+最近的一场太阳风暴对种植旺季农民的拖拉机 GPS 系统造成了严重干扰。这些关键导航系统的准确性已严重受损，导致农民难以有效地在田间导航。这一意外事件凸显了现代农业技术对自然现象的脆弱性，引发了人们对这些系统在面临外部干扰时的可靠性的担忧。这场太阳风暴对农民有效种植农作物的能力的影响清楚地提醒我们现代农业面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/89177</guid>
+      <pubDate>Sun, 12 May 2024 14:31:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的研究重点是自动检测大语言中训练不足的标记[...]</title>
-      <link>https://t.me/hn_summary/89153</link>
-      <description><![CDATA[自动检测大型语言模型中训练不足的标记 
-我们的研究重点是自动检测大型语言模型中训练不足的标记。我们提出了一种利用模型的内部表示来识别在训练过程中尚未经过充分训练的标记的方法。通过检测这些训练不足的标记，我们可以提高语言模型的整体性能和准确性。我们的研究结果表明，解决训练不足的标记问题可以显着提高模型生成连贯且准确的文本的能力。这种新颖的方法揭示了微调语言模型以确保最佳性能的重要性。]]></description>
-      <guid>https://t.me/hn_summary/89153</guid>
-      <pubDate>Sun, 12 May 2024 07:44:30 GMT</pubDate>
+      <title>[媒体] Judea Pearl 是一位著名的计算机科学家和哲学家，以其开创性的 [...]</title>
+      <link>https://t.me/hn_summary/89176</link>
+      <description><![CDATA[Judea Pearl 图灵奖获得者（2011 年）
+Judea Pearl 是一位著名的计算机科学家和哲学家，以其在人工智能、贝叶斯网络和因果推理方面的开创性工作而闻名。 2011年，他因其对该领域的贡献而获得了著名的图灵奖。珀尔的研究彻底改变了各个学科对因果关系的理解。他还是几本有影响力的书籍的作者。除了学术成就外，在他的儿子、记者丹尼尔·珀尔惨遭谋杀后，珀尔还参与促进犹太人和穆斯林之间的和解。他的工作为他赢得了无数奖项和荣誉，巩固了他作为人工智能领域先驱的地位。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89176</guid>
+      <pubDate>Sun, 12 May 2024 14:19:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Quora，曾经是专家分享知识的平台，已被 AI-gener 取代 [...]</title>
-      <link>https://t.me/hn_summary/89152</link>
-      <description><![CDATA[人工智能毁了Quora
-Quora 曾经是专家分享知识的平台，现已被人工智能生成的问题所取代，这些问题缺乏实质内容和真实性。 Quora 提示生成器会生成无意义的查询，导致大量无意义的内容和质量下降。该网站不惜一切代价注重参与，这使它变成了一片充满不相关问题和肤浅互动的荒地。科技作家 Kate Bevan 强调了在没有人类监督的情况下仅依赖人工智能的危险。 Quora 目前的策略似乎优先考虑数量而不是质量，这使得该平台面临着灭亡的风险。争议在于对用户的操纵以及对网站初衷的侵蚀。]]></description>
-      <guid>https://t.me/hn_summary/89152</guid>
-      <pubDate>Sun, 12 May 2024 07:22:20 GMT</pubDate>
+      <title>[媒体]这是 Stack Exchange 网络上所有用户贡献内容的匿名转储 [...]</title>
+      <link>https://t.me/hn_summary/89175</link>
+      <description><![CDATA[Stack Exchange 数据转储 [存档](https://news. ycombinator.com/item?id=40334002)
+这是 Stack Exchange 网络上所有用户贡献内容的匿名转储，可在 archive.org。每个站点都有自己的存档，其中包含使用 bzip2 压缩的 XML 文件。数据转储包括帖子、用户、投票、评论、徽章、标签、帖子历史记录和帖子链接。所有内容均经过 cc-by-sa 4.0 许可，但需要注明出处。有争议的是，许可要求明确的归属，包括原始问题和作者简介的超链接。用户报告了下载速度慢和存档损坏的问题，但已经分享了有用的提示来解决这些问题。 （根据故事文本的 39% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89175</guid>
+      <pubDate>Sun, 12 May 2024 13:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]罗杰·科曼 (Roger Corman)，被誉为“B 之王”的传奇独立电影制片人， [...]</title>
-      <link>https://t.me/hn_summary/89151</link>
-      <description><![CDATA[独立电影制作巨人罗杰·科曼去世，享年 98 岁
-被称为“B 界之王”的传奇独立电影制片人罗杰·科曼去世，享年 98 岁。在他的职业生涯中，他开创了众多好莱坞偶像的事业，包括杰克·尼科尔森、朗·霍华德和詹姆斯·卡梅隆。科曼因其低成本类型片而闻名，其中的著名作品包括《恐怖小店》和《野天使》。他的电影引起了争议，一些人称赞他培养人才的能力，而另一些人则批评他剥削年轻电影制片人。尽管如此，科曼对电影业的影响是不可否认的，他留下的遗产至今仍影响着电影制作人。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89151</guid>
-      <pubDate>Sun, 12 May 2024 07:21:15 GMT</pubDate>
+      <title>[媒体] 欢迎来到 SafeName！</title>
+      <link>https://t.me/hn_summary/89174</link>
+      <description><![CDATA[显示 HN：我制作了一个应用程序来检查您的品牌名称是否粗俗其他语言
+欢迎来到安全名称！您是否厌倦了大品牌在其他语言中犯下令人尴尬的名称错误？借助 SafeName，您可以检查您的品牌名称在不同语言中的粗俗内容，从而避免任何事故。不需要个人详细信息或信用卡，只需一个电子邮件地址。创始人 Roland Wu 在亲身经历了不恰当的品牌名称的陷阱后创建了 SafeName。不要像 Ford 或 Kiri Cheese - 使用 SafeName 变得更聪明。立即免费试用，确保您的品牌名称安全且全球友好。]]></description>
+      <guid>https://t.me/hn_summary/89174</guid>
+      <pubDate>Sun, 12 May 2024 13:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 只需 19 美元即可在 ChatPlayground.ai 上访问所有顶级专业法学硕士！</title>
-      <link>https://t.me/hn_summary/89150</link>
-      <description><![CDATA[为所有专业法学硕士支付 19 美元
-只需 19 美元即可在 ChatPlayground.ai！同时与多个聊天机器人聊天，包括 ChatGPT、Google Gemini、Claude 3、Bing Chat、Llama 和 Perplexity。体验前所未有的人工智能对话的力量。不要错过这个增强聊天机器人交互的绝佳机会。立即加入，彻底改变您的聊天体验！]]></description>
-      <guid>https://t.me/hn_summary/89150</guid>
-      <pubDate>Sun, 12 May 2024 07:20:09 GMT</pubDate>
+      <title>[媒体]在处理文本分析时，余弦相似度是一个强大的工具，可以测量[...]</title>
+      <link>https://t.me/hn_summary/89173</link>
+      <description><![CDATA[余弦相似度
+在处理文本分析时，余弦相似度是一个强大的工具，它通过将单词转换为向量来测量文档之间的相似度。这种方法允许机器从语义上解释人类语言，使其成为推荐系统和文本分类的理想选择。通过计算向量之间的余弦相似度，我们可以确定文档在内容和上下文中的相似程度。举个简单的例子，“我喜欢读惊悚小说”和“我更喜欢读惊悚小说”这样的句子表现出显着的相似性，而“昨天我迟到了”则没有相关性。虽然余弦相似度对于较短的文档有效，但对于较长的文本，建议使用更高级的方法。]]></description>
+      <guid>https://t.me/hn_summary/89173</guid>
+      <pubDate>Sun, 12 May 2024 13:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我将我的时间和知识奉献给了 StackOverflow，因为它具有 CC-BY-SA 许可证，而且 [...]</title>
-      <link>https://t.me/hn_summary/89149</link>
-      <description><![CDATA[我为 StackOverflow 付出了时间和专业知识，因为它获得了 CC 许可- BY-SA
-我将我的时间和知识奉献给了 StackOverflow，因为它具有 CC-BY-SA 许可证，允许共享和重新混合内容。这种独特的许可模式鼓励我为社区做出贡献并帮助其他人解决编程问题。虽然有些人可能会觉得自由分享专业知识的想法有争议，但我相信它为学习和成长营造了一个协作和支持的环境。因此，如果您希望加入重视开放共享和协作的社区，StackOverflow 就是您的最佳选择。]]></description>
-      <guid>https://t.me/hn_summary/89149</guid>
-      <pubDate>Sun, 12 May 2024 07:13:03 GMT</pubDate>
+      <title>【媒体】阿里云倚天710处理器在服务器CPU领域掀起波澜，性能超越[...]</title>
+      <link>https://t.me/hn_summary/89172</link>
+      <description><![CDATA[阿里巴巴的倚天 710 是最快的服务器 CPU，但它基于 Arm&lt; /a&gt;
+阿里云的倚天 710 处理器正在服务器 CPU 领域掀起波澜，在特定数据库任务中表现优于英特尔的至强白金。这项由 Dumitrel Loghin 教授领导的研究发现，基于 Arm 的 128 核处理器是云计算领域的有力竞争者。尽管 Yitian 710 等基于 Arm 的服务器在综合基准测试中表现出了良好的前景，但由于软件优化问题，它们仍然难以处理 OLAP 和机器学习等任务。然而，凭借其较低的成本和改进的潜力，Arm 服务器可能会成为未来云计算的游戏规则改变者。查看 The Register 上的完整基准测试，并通过 TechRadar Pro 随时了解所有最新的技术新闻和见解。]]></description>
+      <guid>https://t.me/hn_summary/89172</guid>
+      <pubDate>Sun, 12 May 2024 13:47:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国科学家研制出突破性的“水电池”，具有强大的...</title>
-      <link>https://t.me/hn_summary/89148</link>
-      <description><![CDATA[中国科学家创造出比锂能容纳更多能量的“水电池” 
-中国科学家开发出一种突破性的“水电池”，它有可能比传统的锂电池储存更多的能量。这项创新技术利用水和一种金属氧化物的独特组合来创建高性能储能解决方案。 “水电池”有可能彻底改变储能行业，并为更可持续、更高效的电源铺平道路。这一发展标志着电池技术领域的重大进步，可能对可再生能源的未来产生深远的影响。]]></description>
-      <guid>https://t.me/hn_summary/89148</guid>
-      <pubDate>Sun, 12 May 2024 07:03:56 GMT</pubDate>
+      <title>[媒体]Arm 首席执行官 Rene Haas 预测 PC 行业将发生转变，多个 AR [...]</title>
+      <link>https://t.me/hn_summary/89171</link>
+      <description><![CDATA[多家 Arm 供应商正在为台式电脑生产芯片&lt; br/&gt;
+Arm 首席执行官雷内·哈斯 (Rene Haas) 预测 PC 行业将发生转变，多家 Arm 供应商将进入市场，为消费者提供各种产品、SKU、价位和体验。高通将推出适用于 Windows PC 的 Snapdragon X Elite 处理器，而华硕则通过即将推出的 VivoBook 瞄准高端市场。 Haas 相信，由于性能、电池寿命和无风扇设计，ARM 生态系统将在未来几年获得显着的市场份额。供应商的这种多元化可能会在未来 12 至 36 个月内导致 PC 行业显着增长。]]></description>
+      <guid>https://t.me/hn_summary/89171</guid>
+      <pubDate>Sun, 12 May 2024 13:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着埃隆·马斯克 (Elon Musk) 放弃 25,000 美元的特斯拉，让我们探索真正充满活力的世界 [...]</title>
-      <link>https://t.me/hn_summary/89147</link>
-      <description><![CDATA[埃隆·马斯克放弃了 2.5 万美元的特斯拉，这款电动汽车的成本仅为 4,400 美元
-当埃隆·马斯克 (Elon Musk) 放弃 25,000 美元的特斯拉时，让我们探索真正实惠的电动汽车的世界。忘掉日产聆风和欧洲车型吧，来自中国的比亚迪海鸥以低廉的成本提供 200 英里的续航里程。但对于那些寻求终极便宜的人来说，知豆彩虹是一款紧凑型城市电动汽车，售价仅为 4,400 美元。这款经济实惠的电动汽车具有数字驾驶员显示屏、触摸屏信息娱乐系统和可定制的彩色面板等功能，非常值得购买。尽管尺寸较小且续航里程有限，Rainbow 却为进入电动汽车世界提供了一个方便的切入点。]]></description>
-      <guid>https://t.me/hn_summary/89147</guid>
-      <pubDate>Sun, 12 May 2024 06:58:51 GMT</pubDate>
+      <title>[媒体]美国正在经历一场非同寻常的创业热潮，其中有像[...]这样的创新公司</title>
+      <link>https://t.me/hn_summary/89170</link>
+      <description><![CDATA[美国正处于非凡的创业热潮之中 
+美国正在经历非凡的创业热潮，南卡罗来纳州格林维尔的 Incora Health 等创新公司引领潮流。 Incora Health 由两名当地人创立，开发了可追踪体温、心率和月经周期的耳环。这家大胆的年轻公司是正在重塑美国商业格局的初创公司浪潮的一部分。尽管一些经济学家对近年来创业率下降表示担忧，但这些新公司正在证明创业精神在该国依然存在且蓬勃发展。随着这些充满活力的初创公司的崛起，创新和生产力增长的未来看起来充满希望。]]></description>
+      <guid>https://t.me/hn_summary/89170</guid>
+      <pubDate>Sun, 12 May 2024 13:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州大学圣地亚哥分校的科学家和 Algenesis 开发了一种 [...]</title>
-      <link>https://t.me/hn_summary/89146</link>
-      <description><![CDATA[科学家已经找到了制造可分解的藻类塑料的方法&lt; /a&gt;
-加州大学圣地亚哥分校的科学家和 Algenesis 开发了一种制造藻类塑料的方法，这种塑料可以在自然环境中分解，避免形成有害的微塑料。该材料由生物基聚氨酯聚合物制成，可被微生物分解，样品显示 200 天后颗粒减少了 97%。尽管有些人对该材料的生物降解性持怀疑态度，但研究人员希望最终将其广泛应用于可持续食品包装。然而，广泛使用的成本仍然是一个挑战，因为需要藻类养殖的基础设施。]]></description>
-      <guid>https://t.me/hn_summary/89146</guid>
-      <pubDate>Sun, 12 May 2024 06:56:43 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了中国电动汽车的崛起以及它们如何快速追赶[...]</title>
+      <link>https://t.me/hn_summary/89169</link>
+      <description><![CDATA[如果西方汽车制造商不害怕中国电动汽车，他们可能应该害怕是
+文章讨论了中国电动汽车的崛起，以及它们如何在制造质量和工程方面迅速赶上甚至超越西方汽车制造商。作者重点介绍了北京车展上展示的一系列令人印象深刻的新型电动车型，其先进的技术和优质的内饰超越了一些西方同行。文章还谈到了保护主义措施对全球电动汽车市场的潜在影响。总体而言，作者建议西方汽车制造商应对中国的竞争保持警惕，并鼓励读者阅读全文，以更深入地了解不断发展的行业。]]></description>
+      <guid>https://t.me/hn_summary/89169</guid>
+      <pubDate>Sun, 12 May 2024 13:19:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

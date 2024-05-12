@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 May 2024 12:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 15:07:41 GMT</lastBuildDate>
+    <item>
+      <title>影响OpenAI - 堆栈内存溢出</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/</link>
+      <description><![CDATA[      我今天观察到，Copilot 和 ChatGPT 等工具似乎对使用 Python、R 和JavaScript。然而，对于使用 Java、C#、C++、Rust 和 Go 的用户来说，该平台的使用似乎几乎没有影响。  您认为为什么会出现这种情况？ 参考链接   由   提交/u/jonnekleijer  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cq8b90/effect_openai_stack_overflow_questions/</guid>
+      <pubDate>Sun, 12 May 2024 13:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决汉堡菜单不全屏的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cq8awv/how_to_fix_burger_menu_not_taking_full_screen/</link>
+      <description><![CDATA[       由   提交/u/fuck-pmo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cq8awv/how_to_fix_burger_menu_not_taking_full_screen/</guid>
+      <pubDate>Sun, 12 May 2024 13:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作一个（非常）简单（和基本）的网站来为论坛建立索引</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cq784k/making_a_very_simple_and_basic_website_to_make_an/</link>
+      <description><![CDATA[      目标是通过建议论坛来促进去中心化网络彼此独立。 考虑到 Google 有点搞砸较小的网站，拥有一个索引会更容易找到这些内容。 我把它变得简单，这样即使最糟糕的 wifi 可以立即打开它，所以没有 javascript/PHP，只有简单的 HTML + CSS。 你觉得怎么样？这是一些人感兴趣的东西还是绝对没有人感兴趣的东西？ https://preview.redd.it/xlql4xu7tzzc1.png?width=458&amp;format=png&amp;auto=webp&amp;s=cd26e94142084f6afb151da665610a82f8 32dd91 https://preview.redd.it/2l0a6qm8tzzc1.png?width=464&amp;格式=png&amp;auto=webp&amp;s=ce33e5317455bd4bc7e2bd05040008ef09a06a9c   由   提交/u/RedlinkAS   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cq784k/making_a_very_simple_and_basic_website_to_make_an/</guid>
+      <pubDate>Sun, 12 May 2024 12:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>.net 聊天机器人教程帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cq6t44/net_chatbot_tutorial_help/</link>
+      <description><![CDATA[大家好，有谁知道在哪里可以找到关于如何使用 .net 创建聊天机器人的不错的教程？微软网站上的似乎太简单了。   由   提交/u/wcats  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cq6t44/net_chatbot_tutorial_help/</guid>
+      <pubDate>Sun, 12 May 2024 12:31:15 GMT</pubDate>
+    </item>
     <item>
       <title>我要教我妹妹什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cq5vab/what_do_i_teach_my_younger_sister/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[   /u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cq1s5f/its_probably_only_getting_more_important_to_use/</guid>
       <pubDate>Sun, 12 May 2024 06:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否需要停止过度技术化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cq1ldx/do_we_need_to_stop_being_over_technical/</link>
-      <description><![CDATA[我经常说，如果你不能向 5 岁的孩子解释它，你就不知道自己在说什么。通常，当我与其他开发人员交谈时，他们会使用技术术语，尽管我理解这些术语，但有时我觉得没有必要。您认为作为开发人员，我们是否需要积极尝试让我们的主题易于非技术人员理解？   由   提交 /u/Unlikely_Usual537   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cq1ldx/do_we_need_to_stop_being_over_technical/</guid>
-      <pubDate>Sun, 12 May 2024 06:37:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 GUI 在 GitHub 存储库中添加子目录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cq1j0z/how_to_add_subdirectores_in_a_github_repository/</link>
-      <description><![CDATA[由于一个项目可以有多个子目录，无法找到添加子目录的方法。例如，财务项目有类似模板的子目录。 https://preview.redd.it/why-directory-upload-not-allowed-within-repository-v0-68jqmqeerxzc1.png?width =1366&amp;format=png&amp;auto=webp&amp;s=2776defee804e5560f8e5591ce0814e2e011fcac 似乎只允许文件上传。 https://preview.redd.it/为什么-directory-upload-not-allowed-within-repository-v0-0qd0l7f5rxzc1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=42b36d02fdd5c81d62d17013bb17fdbdc59fed75   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cq1j0z/how_to_add_subdirectores_in_a_github_repository/</guid>
-      <pubDate>Sun, 12 May 2024 06:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用我的 django web 应用程序和 apache 与 mod_wsgi 到目前为止，可以使用一些帮助进行故障排除</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpyj1p/i_got_this_far_with_my_django_web_app_and_apache/</link>
-      <description><![CDATA[      希望您周六晚上过得愉快， &lt; p&gt;我一直在开发我正在使用的这个网络应用程序，我终于让 mod_wsgi 工作了，并且我在屏幕上看到了该应用程序，但我认为这些包无法正常运行。 Here&#39;s我现在屏幕上的屏幕截图 不知道从哪里开始 谢谢 https://preview.redd.it/7hurmmtazwzc1.png?width=2085&amp;format=png&amp;auto=webp&amp; s=9f1e50f3493353df7c5a9cf47f6436ebbcf842fa 好的，所以图像不会显示，但基本上页面只显示基本的 html，而不显示任何 python/django 应用程序功能。 &lt; /div&gt;  由   提交 /u/RadeonPunk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpyj1p/i_got_this_far_with_my_django_web_app_and_apache/</guid>
-      <pubDate>Sun, 12 May 2024 03:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>说服客户通过 CMS 提供完全定制的解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cpy9hc/convincing_clients_of_fully_custom_solutions_over/</link>
-      <description><![CDATA[我如何向假设的客户解释使用完全定制的解决方案的好处？ CMS 通常更便宜、更快最初建立并开始开展业务（以我非专业的观点），除非您聘请了一个已经开发出满足您需求的解决方案的团队。 但是，如果您为一家拥有大量网站（全部构建）的公司工作，该怎么办？在流行的 CMS 上）并且该公司偶尔想要一个新的？作为一名员工，我如何说服他们使用 Laravel 或 Symfony 来定制解决方案（说实话，我希望它是为了我的乐趣和教育）？ 我的想法： - CMS 经常存在安全问题。 - 流行的框架具有可访问的解决方案，可以在相对较短的时间内开发具有内容管理功能的管理页面。 - 是的，这会有点长，但由于更清晰的架构，对这样一个网站的总体支持将更加顺利。 - 这是一个更具可定制性和面向未来（无论这意味着什么）的解决方案。   由   提交/u/qlinglo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cpy9hc/convincing_clients_of_fully_custom_solutions_over/</guid>
-      <pubDate>Sun, 12 May 2024 03:07:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
