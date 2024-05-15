@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 May 2024 15:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 18:11:58 GMT</lastBuildDate>
     <item>
       <title>通过全球研讨会系列，开源人工智能定义更接近现实</title>
       <link>https://www.reddit.com/r/opensource/comments/1csj6b3/the_open_source_ai_definition_gets_closer_to/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>对于无标签的高质量街道地图有什么软件建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</link>
-      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记、高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记的，高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</guid>
       <pubDate>Tue, 14 May 2024 13:03:51 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>有没有提供“货到付款”选项的轻量级电子商务平台？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cr41mc/any_liteweight_ecommerce_platform_with_cash_on/</link>
-      <description><![CDATA[我正在寻找具有“货到付款/现金支付”选项的开源电子商务平台，我尝试了 github 上的几个平台，但没有一个提供这样的选项。所以我想知道是否有什么。我也在寻找一个轻量级的选项，因为它将在我的 raspberry pi 上运行，我不希望它占用 GB 的 RAM。我正在寻找一个非常简单的平台。 任何线索都值得赞赏。谢谢。    提交人    /u/GiveMeARedditUsernam   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找具有“货到付款/现金支付”功能的开源电子商务平台。选项，我尝试了 github 上的几个平台，但没有一个提供这样的选项。所以我想知道是否有什么事情。我也在寻找一个轻量级的选项，因为它将在我的树莓派上运行，我不希望它占用 GB 的 RAM。我正在寻找一个非常简单的平台。 任何线索都将受到赞赏。谢谢。   由   提交 /u/GiveMeARedditUsernam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cr41mc/any_liteweight_ecommerce_platform_with_cash_on/</guid>
       <pubDate>Mon, 13 May 2024 16:48:34 GMT</pubDate>
     </item>
