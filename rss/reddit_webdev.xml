@@ -4,13 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 May 2024 00:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:11:09 GMT</lastBuildDate>
     <item>
-      <title>教授给我的“Web Dev 入门”期末项目打了 F，因为我的网站使用了服务器，lmk 这有多糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs7md6/professor_gave_me_an_f_for_my_intro_to_web_dev/</link>
-      <description><![CDATA[   /u/xor0101  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs7md6/professor_gave_me_an_f_for_my_intro_to_web_dev/</guid>
-      <pubDate>Wed, 15 May 2024 00:22:00 GMT</pubDate>
+      <title>magento 2 是不是有点像定时炸弹？ （值得留下或移动的平台）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</link>
+      <description><![CDATA[您好 我有一个 magento 2 (2.2.7) 网站，需要投入大量资金将其升级到当前版本版本 (2.4.6)。 我有时听说 Magento 2 有点像定时炸弹，因为 Adob​​e 收购了它，而且他们只专注于 Adob​​e Commerce，这意味着 magento 2 最终可能无法使用或过度使用很难使用。  想听听关于 Magento 2 寿命的一些想法。 另外，有谁知道从 2.2.7 升级到 2.4.6 需要多少小时？ 谢谢！   由   提交 /u/Lucky-Pear-906   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs8cbk/is_magento_2_a_bit_of_a_ticking_time_bomb_worth/</guid>
+      <pubDate>Wed, 15 May 2024 00:57:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何知道我的网站是否被 ISP 屏蔽？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</link>
+      <description><![CDATA[我正在运行一个托管在 GCP 云存储上的网站。尽管 99% 的用户从未遇到过问题，但一小部分用户偶尔会在访问该网站时遇到问题，我总是最终将其追溯到他们的 ISP。  我的主要问题是：是否有任何工具可以帮助我检查所有（或最常见的）ISP，看看是否有其他人阻止了我的网站？ 此外，是我还可以采取其他措施来防止我的网站被屏蔽吗？该网站不是恶意的，每次我都会直接联系 ISP。他们说这是一个错误并纠正了它。但如果可能的话，我只是想尝试解决这个问题。 谢谢！   由   提交 /u/Unappreciable   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cs88q6/how_to_know_whether_my_site_is_getting_blocked_by/</guid>
+      <pubDate>Wed, 15 May 2024 00:52:52 GMT</pubDate>
     </item>
     <item>
       <title>您何时、为何或是否关心网络开发对气候的影响？</title>
@@ -22,7 +29,7 @@
     <item>
       <title>倾斜 ::before 伪元素过渡期间 1px 边缘伪影的解决方法/破解？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cs6uaf/workaroundhack_for_1px_edge_artifacts_during/</link>
-      <description><![CDATA[Suppppp 书呆子们。 我正在尝试倾斜的网格布局，子卡组件会转换为 悬停时不倾斜。实际的动画运行得很好，但在 Firefox 和 Chrome 上（没有 Mac 或 BrowserStack 来测试 Safari），在转换过程中会出现轻微的伪影。 子卡组件倾斜网格的 ::before 带有半透明颜色叠加层，开始时完全透明。将鼠标悬停在卡片上时，::before 会在某些文本动画进入视图之前从不可见变为可见。同样，这一切都工作得很好，但在过渡期间，右下边缘周围有大约 1px，其中 ::before 的颜色叠加没有“覆盖”，因此在白卡上，它似乎有 1px 白色右侧和底部边缘的边框。转换完成后就会消失。 可能只是要切换转换动画的顺序，以便颜色叠加发生在转换之后以避免出现问题，但仍然会出现很想知道是否有人有任何想法。已经尝试过一些较旧的“-webkit-backface-visibility：hidden;”和“outline：1px Solid transparent;”黑客，以及“will-change”，但无济于事。 &lt;！ -- SC_ON --&gt;  由   提交/u/tetractys_gnosys   [链接] [评论]]]></description>
+      <description><![CDATA[各位书呆子们，大家好。 我正在尝试倾斜网格布局，子卡片组件在悬停时会过渡到不倾斜。实际动画效果很好，但在 Firefox 和 Chrome 上（没有 Mac 或 BrowserStack 来测试 Safari），过渡期间会出现轻微的瑕疵。 倾斜网格的子卡片组件具有 ::before，带有半透明颜色叠加，开始时完全透明。悬停卡片时，::before 从不可见变为可见，然后某些文本以动画形式进入视图。同样，这一切都很好，但在过渡期间，右下边缘周围有大约 1px 的区域，::before 的颜色叠加没有“覆盖”，因此在白色卡片上，它似乎在右边缘和下边缘有 1px 的白色边框。过渡完成后立即消失。 可能只是要切换过渡动画的顺序，以便颜色叠加在转换之后发生以避免出现此问题，但仍然想知道是否有人有任何想法。已经尝试了一些较旧的 `-webkit-backface-visibility: hidden;` 和 `outline: 1px solid transparent;` 黑客以及 `will-change`，但无济于事。    提交人    /u/tetractys_gnosys   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs6uaf/workaroundhack_for_1px_edge_artifacts_during/</guid>
       <pubDate>Tue, 14 May 2024 23:45:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cs3sj1/baseline_integration_with_rum_archive_and/</guid>
       <pubDate>Tue, 14 May 2024 21:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>多租户 SaaS 应用问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cs3kar/multitenant_saas_application_questions/</link>
-      <description><![CDATA[嘿伙计们。我正在开发一个多租户 SaaS 应用程序，该应用程序使用 ASP.NET Core Web API 作为后端，并使用 Vue 作为前端。我将采用共享数据库方法，因为它最适合我的需求，并且不会以疯狂的速度扩展。我只是有一些一般性问题，很可能有一些简单的答案，但我似乎无法在任何地方找到答案。  1.在生产环境中添加租户是如何工作的？ 这可能听起来是一个愚蠢的问题，但我对处理这个问题的最佳方法感到有点困惑。无需详细说明，我的产品将由相当小的公司使用。在潜在客户签署使用该产品的合同后，我基本上想做一些事情。  将他们的站点添加到我的租户表中。  为他们的网站设置一个初始管理员用户帐户。  由于各种原因，我希望手动完成此操作，最初是我来做，但我们的想法是我们将让实施专家设置新客户端。   2.处理每个租户（站点）的用户身份验证/授权的最佳方法是什么？ 我正在查看 Auth0 组织，它可能看起来正是我正在寻找的内容，但正在寻求反馈来自使用过该解决方案的人以及您发现有效的其他解决方案。当涉及到租户用户时，我需要考虑一些关键事项。   当新租户注册时，他们将获得一个管理员帐户（授权处理与其帐户相关的所有事务）。  获得网站帐户的唯一方法是管理员添加用户并配置权限。不会有公开注册或类似的事情。  是否有办法让每个租户为各种用户类型设置自定义角色和权限？如果它太麻烦的话，我可以没有这个，但它会非常有帮助。   3.我应该考虑单个用户属于多个站点的可能性吗？ 我确实认为这种情况不太可能发生，但这是一种可能的情况。我假设这将取决于我处理用户身份验证/授权的路线，但很想听到这里有经验的人的一些意见。  4。我应该为开发人员/支持用户采取什么方法？ 这将问题 2 和问题 3 联系在一起。我的产品的开发人员和支持代表将需要出于各种原因访问所有站点，无论是数据更正、错误测试等。有什么好的方法可以解决这个问题吗？  除此之外，我对你们可能有的任何其他想法或评论持开放态度。过去 3 年里，我一直在一家 SaaS 公司担任开发人员，但从头开始对我来说是个新鲜事，所以我真的愿意接受任何和所有建议。   由   提交/u/Nickt1596   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cs3kar/multitenant_saas_application_questions/</guid>
-      <pubDate>Tue, 14 May 2024 21:21:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
