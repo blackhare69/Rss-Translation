@@ -4,11 +4,39 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 16 May 2024 18:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 21:08:53 GMT</lastBuildDate>
     <item>
-      <title>P NP 问题声称已解决</title>
+      <title>OpenAI 与 Reddit 合作</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctnmvh/openai_and_reddit_partnership/</link>
+      <description><![CDATA[ 由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctnmvh/openai_and_reddit_partnership/</guid>
+      <pubDate>Thu, 16 May 2024 20:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试在256字节中带来影院般的体验（WASM）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctmrrk/attempt_to_bring_a_cinematic_experience_in_256/</link>
+      <description><![CDATA[ 由   提交/u/_ilm_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctmrrk/attempt_to_bring_a_cinematic_experience_in_256/</guid>
+      <pubDate>Thu, 16 May 2024 20:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 NextJS 和 Wing 构建您自己的 ChatGPT 图形客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctkvbx/building_your_own_chatgpt_graphical_client_with/</link>
+      <description><![CDATA[ 由   提交/u/nate4t  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctkvbx/building_your_own_chatgpt_graphical_client_with/</guid>
+      <pubDate>Thu, 16 May 2024 19:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一个懒惰的开发者。以下是 Amazon Q 如何帮助我</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctjmi9/im_a_lazy_developer_heres_how_amazon_q_is/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctjmi9/im_a_lazy_developer_heres_how_amazon_q_is/</guid>
+      <pubDate>Thu, 16 May 2024 18:15:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>P NP 问题声称已得到解决</title>
       <link>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</link>
-      <description><![CDATA[中国天工大学的一名高年级学生声称他证明了P=NP。这是他在arxiv上的文章。 The Annual Journal of Mathematics正在审稿。使用的代码在百度网盘pan.baidu.com/wap/init?surl=…（密码：91re）    由   提交/u/Summer-Worm   [链接] [评论]]]></description>
+      <description><![CDATA[中国天工大学的一位学长声称他证明了P=NP，这是他在arxiv上的文章。 《数学年鉴》现在正在审阅他的论文，所用代码在百度网盘pan.baidu.com/wap/init?surl=… (密码：91re)    提交人    /u/Summer-Worm   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</guid>
       <pubDate>Thu, 16 May 2024 17:17:37 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>使用 StringScanner 的快速分词器</title>
       <link>https://www.reddit.com/r/programming/comments/1ctgzaj/fast_tokenizers_with_stringscanner/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctgzaj/fast_tokenizers_with_stringscanner/</guid>
       <pubDate>Thu, 16 May 2024 16:26:38 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>为什么CPU有多个缓存级别？</title>
       <link>https://www.reddit.com/r/programming/comments/1ctgxb5/why_do_cpus_have_multiple_cache_levels/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctgxb5/why_do_cpus_have_multiple_cache_levels/</guid>
       <pubDate>Thu, 16 May 2024 16:24:18 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>关于 Rust、可变别名和形式验证的一些注释</title>
       <link>https://www.reddit.com/r/programming/comments/1ctgwu9/some_notes_on_rust_mutable_aliasing_and_formal/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctgwu9/some_notes_on_rust_mutable_aliasing_and_formal/</guid>
       <pubDate>Thu, 16 May 2024 16:23:45 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctgnhw/learn_things_that_dont_change/</guid>
       <pubDate>Thu, 16 May 2024 16:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>光线追踪器，483 字节（x86 引导扇区）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctg96i/ray_tracer_in_483_bytes_x86_boot_sector/</link>
-      <description><![CDATA[ 由   提交/u/moontoadzzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctg96i/ray_tracer_in_483_bytes_x86_boot_sector/</guid>
-      <pubDate>Thu, 16 May 2024 15:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>打通 LangChain 应用开发的最后一英里</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctg87z/bridging_the_last_mile_in_langchain_application/</link>
-      <description><![CDATA[ 由   提交/u/Zheng_SJ  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctg87z/bridging_the_last_mile_in_langchain_application/</guid>
-      <pubDate>Thu, 16 May 2024 15:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为开发人员，您需要大学学位吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctfa8h/do_you_need_a_college_degree_as_a_developer/</link>
-      <description><![CDATA[ 由   提交 /u/TheDeveloper12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctfa8h/do_you_need_a_college_degree_as_a_developer/</guid>
-      <pubDate>Thu, 16 May 2024 15:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>员工的个人 GitHub 存储库如何损害 Azure 的内部容器注册表</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctf6kj/how_an_employees_personal_github_repository/</link>
-      <description><![CDATA[ 由   提交/u/Pale_Fly_2673  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctf6kj/how_an_employees_personal_github_repository/</guid>
-      <pubDate>Thu, 16 May 2024 15:09:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
