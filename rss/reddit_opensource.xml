@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 00:35:28 GMT</lastBuildDate>
-    <item>
-      <title>Telegram 创始人提到开源政府后门</title>
-      <link>https://www.reddit.com/r/opensource/comments/1csv0uv/telegram_founder_mentioned_open_source_government/</link>
-      <description><![CDATA[有人看过 X 上塔克·卡尔森 (Tucker Carlson) 采访 Telegram 创始人帕维尔·杜罗夫 (Pavel Durov) 的第 94 集吗？ 18点15分，他提到美国特工试图将未命名的开源组件放入Messenger中，以建立后台。这可能意味着他们不仅保留了一份零日漏洞利用列表，而且还积极在开源项目中制作这些漏洞，以针对整个人群，正如我们从斯诺登那里了解到的那样。有什么建议如何处理吗？   由   提交/u/linux-4-ever  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1csv0uv/telegram_founder_mentioned_open_source_government/</guid>
-      <pubDate>Wed, 15 May 2024 20:32:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 May 2024 03:10:47 GMT</lastBuildDate>
     <item>
       <title>推出 Lorevault（测试版），一种从配方创建目录的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1cstxpw/announcing_lorevault_beta_a_tool_to_create_a/</link>
@@ -104,11 +97,18 @@
       <pubDate>Tue, 14 May 2024 08:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>类似于 autocad 和 revit 的免费开源替代方案可以让您进行机械和/或电气布局？</title>
+      <title>类似于 autocad 和 revit 的免费开源替代品可以让您进行机械和/或电气布局？</title>
       <link>https://www.reddit.com/r/opensource/comments/1crfy4a/free_open_source_alternatives_similar_to_autocad/</link>
       <description><![CDATA[我想学习如何使用 autocad 和 revit，但我不再是学生了，我付不起很多钱来获得说软件程序。我一直在网上浏览教程，但我想知道您会推荐这些程序的免费开源替代方案。我可能会使用 autocad 进行 2d 处理，然后使用 revit 进行 3D 处理。   由   提交/u/ranych  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1crfy4a/free_open_source_alternatives_similar_to_autocad/</guid>
       <pubDate>Tue, 14 May 2024 01:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>openapic：让 openapi-generator 更像 protoc 的提案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cre9hg/openapic_proposal_to_make_openapigenerator_more/</link>
+      <description><![CDATA[ 由   提交/u/heraldev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cre9hg/openapic_proposal_to_make_openapigenerator_more/</guid>
+      <pubDate>Mon, 13 May 2024 23:51:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
