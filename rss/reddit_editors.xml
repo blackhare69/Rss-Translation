@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 17 May 2024 12:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 15:08:44 GMT</lastBuildDate>
+    <item>
+      <title>与原来的 Web Presenter 类似吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cu421i/anything_like_the_original_web_presenter/</link>
+      <description><![CDATA[有人知道像原始 Blackmagic Web Presenter 这样的产品吗？我用了 4 年的设备最近坏了，Blackmagic 制造的新设备不适合我。我喜欢的功能在其他地方找不到：  同时采用 HDMI 和 SDI 输入，可以切换为网络摄像头输入 XLR 输入可用于麦克风，混合到正在流式传输的内容中，而不需要像 Loopback 这样令人困惑的软件  欢迎任何建议。我曾尝试从 eBay 购买旧的 Web Presenter，但每次到达时它们都坏了。他们似乎已经过了预产期。 谢谢大家。   由   提交 /u/Amazing_Row_699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cu421i/anything_like_the_original_web_presenter/</guid>
+      <pubDate>Fri, 17 May 2024 12:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>最适合随时随地进行视频编辑的无线耳机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cu38qy/best_wireless_headphones_for_video_editing_on_the/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>Radeon GPU 能否与 Premiere Pro 良好配合？</title>
       <link>https://www.reddit.com/r/editors/comments/1ctg4dv/do_radeon_gpus_work_well_with_premiere_pro/</link>
-      <description><![CDATA[我想用 RX 7700 XT 升级我的工作电脑，但我听说 Premiere Pro 与 NVIDIA 配合使用效果更好。这里有人使用 AMD 卡而不是 NVIDIA 吗？它们工作得好吗？我很确定它仍然比我的 GTX 1660（非 ti、非超级）要好，但如果我要花这笔钱，我想要一些能正常工作的东西。    提交人    /u/rockaleta2049   [link] [评论]]]></description>
+      <description><![CDATA[我想将我的工作计算机升级为 RX 7700 XT，但我听说 Premiere Pro 与 NVIDIA 配合使用效果更好。这里有人使用 AMD 卡而不是 NVIDIA 卡吗？他们工作得好吗？我很确定它仍然是我的 GTX 1660（非 ti、非 super）的升级版，但如果我要花这笔钱，我想要一些性能良好的东西。   由   提交/u/rockaleta2049   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ctg4dv/do_radeon_gpus_work_well_with_premiere_pro/</guid>
       <pubDate>Thu, 16 May 2024 15:50:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[好奇，洛杉矶/纽约的故事编辑/助理 Avid 系统的现行价格是多少？ （不是带有客户端监视器等的完整系统）， 此外，您通过跳转访问的仅远程系统的费率是多少？   由   提交 /u/NeoToronto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ctdn18/avid_rental_rate_for_remote_login/</guid>
       <pubDate>Thu, 16 May 2024 14:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以找到此效果的动画模板？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ctdlhl/where_could_i_find_an_animation_template_for_this/</link>
-      <description><![CDATA[https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us -east-1-prod/5e3ca1f4-70bd-4036-86b1-c9785de63cb7/default.jobtemplate.hls.m3u8 看到带有指向产品的白线的标题了吗？我一直在 Envato Elements 中搜索，但找不到任何具有类似可自定义白线的标题模板包。我没有 After Effects。我同时使用 Final Cut Pro 和 Davinci Resolve。 如何使用可指向产品的炫酷可自定义括号和线条来制作这样的动画标题？ 已解决：带有这些的标题行元素显然被称为“标注标题”。现在我知道要搜索什么了，我发现了很多选择！ 系统规格：Mac Mini M1，16GB 内存// 软件规格：我使用了最新版本的 FCP 以及最新版本的 Resolve // 素材规格：无关紧要，我只是想知道如何制作可以放在任何素材之上的标题，无论素材规格如何。   由   提交/u/totalbeef13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ctdlhl/where_could_i_find_an_animation_template_for_this/</guid>
-      <pubDate>Thu, 16 May 2024 14:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
