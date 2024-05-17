@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 17 May 2024 00:33:55 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 17 May 2024 03:08:30 GMT</lastBuildDate>
+    <item>
+      <title>美国职棒大联盟运动模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctukrj/mlb_sports_model/</link>
+      <description><![CDATA[我正在寻找可以为我创建 AI MLB 体育模型的人。将会支付！如果有兴趣请给我发 DM    由   提交 /u/FireKicks21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctukrj/mlb_sports_model/</guid>
+      <pubDate>Fri, 17 May 2024 02:29:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Node.js、AssemblyAI 和 StreamPot 构建您自己的 AI 视频编辑器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cttjn2/build_your_own_ai_video_editor_with_nodejs/</link>
+      <description><![CDATA[了解如何使用 LLM 从长视频生成剪辑。 https://differ.blog/p/build-your-own-ai-video-editor-with-node-js-assemblyai-streampot-277a75    提交人    /u/TheLostWanderer47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cttjn2/build_your_own_ai_video_editor_with_nodejs/</guid>
+      <pubDate>Fri, 17 May 2024 01:34:54 GMT</pubDate>
+    </item>
     <item>
       <title>我妈妈看着假照片并认为它们是真的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/</link>
@@ -25,6 +39,13 @@
       <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctnjcj/openai_and_reddit_partnership_why/</guid>
       <pubDate>Thu, 16 May 2024 20:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么苹果和亚马逊不全力投入人工智能领域</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/</link>
+      <description><![CDATA[也许已经在其他子帖中回答了，但找不到。如果已经讨论过，请道歉。  我最近一直在想，为什么像苹果和亚马逊这样的公司不像微软、谷歌和 OpenAI 那样一头扎进人工智能领域。凭借庞大的生态系统和数以百万计的用户每天依赖他们的产品，如果不利用人工智能来获得竞争优势，这似乎是一个错失的机会。 例如，很多家庭都有 Alexa 助手和 Siri（两者都非常漂亮）。无用）。你可能会认为他们至少会按照其他 GenAi 型号进行升级。  那么，苹果和亚马逊什么时候会在人工智能领域加强他们的游戏呢？感觉其他人正在拉大差距。想法？   由   提交/u/B-Box360  /u/B-Box360  reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/</guid>
+      <pubDate>Thu, 16 May 2024 20:06:07 GMT</pubDate>
     </item>
     <item>
       <title>大家好！我刚刚发现了 Runway ML 世代中面部变形/扭曲的简单修复方法</title>
@@ -67,27 +88,6 @@
       <description><![CDATA[如果科学家已经证明从根本上（数学上）不可能开发出与人类持续一致的人工智能，您会如何看待进一步投资于开发高度先进的人工智能系统？也称为“AGI”。 哲学上：为什么物种 A 会发展出物种 B，这是另一个在链条中比 A 更优越或更高​​的理性实体/新物种（B &gt; A）？ 答案：“因为AGI将帮助我们并解决我们的问题。” 数学证明的主要思想：不可能保证它永远尊重其创造者的价值观。 数学证明的主要思想：不可能保证它永远尊重其创造者的价值观。 p&gt; 答案：？ 1）“哦，好吧，让我们抱最好的希望吧。” 2）“那么根本不应该开发它。” 3）（其他东西） ——- 受到这个AGI的启发问题   由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/r/ArtificialInteligence/comments/1ctjcso/agi_debate_simplified_1_vs_2/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctjcso/agi_debate_simplified_1_vs_2/</guid>
       <pubDate>Thu, 16 May 2024 18:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能创新每日纪事 2024 年 5 月 16 日：🤔 微软的人工智能野心导致排放量增加 30%🪫 据报道，稳定性 AI 资金耗尽，正在谈判出售🍎苹果推出人工智能增强型眼动追踪、音乐触觉、语音快捷方式等</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctisw6/a_daily_chronicle_of_ai_innovations_may_16th_2024/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctisw6/a_daily_chronicle_of_ai_innovations_may_16th_2024/</guid>
-      <pubDate>Thu, 16 May 2024 17:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 对 2024 年美国大选的影响 - 口头反馈请求（二维码）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cti3a7/ais_influence_on_us_elections_in_2024_verbal/</link>
-      <description><![CDATA[2 个简短问题，您可以通过此链接口头回答：口头调查   由   提交/u/aitoptools  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cti3a7/ais_influence_on_us_elections_in_2024_verbal/</guid>
-      <pubDate>Thu, 16 May 2024 17:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>手势、智能相机以及智能物质</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cthcie/guestures_smart_cameras_and_onward_to_smart_matter/</link>
-      <description><![CDATA[手势和直观计算 — 从这里到智能物质- 全文 配备人工智能和混合现实功能的智能相机可以彻底改变我们与日常设备交互的方式。这些摄像头放置在各个房间，与人工智能/混合现实智能眼镜或使用 Wi-Fi ping 相结合，可以直观地解释我们的手势。人工智能的目标是根据上下文和肢体语言理解我们的意思，使与技术的交互感觉自然和流畅。虽然语音命令已经很常见，但手势提供了一种补充且同样强大的控制设备的方式。 “凝视以建立意图” 要与设备连接，您只需注视它即可或以某种方式发出信号。想象一下站着看着一盏落地灯。 你轻拍腿将其打开，然后举起手并转动空中的隐形旋钮以增加亮度。滑动你的手可以改变色调调整设置，再次转动隐形旋钮可以调整色调。然后，你再刷一次并微笑，因为你有了一个想法。您希望该灯的行为发生一些变化。你想要“机器的乐趣”。您开始前后摆动，就像与机器一起跳舞一样。当您有节奏地来回摇晃时，智能相机会理解您希望光线模仿这种节奏并开始与您的动作同步脉动。这种与技术的有趣互动应该会让您微笑并感觉更加人性化。我们应该期望您的设备能够“抓住您”。他们应该像任何宠物或孩子一样玩耍。我们的工具也应该是我们的玩具。 后来，当您坐在沙发上时，您希望灯光与您正在播放的音乐的节奏同步。你看着落地灯建立联系，指向声源，然后随着节拍摇头。灯光与音乐的脉动相匹配。您旋转手指以示意灯光继续与所有后续歌曲的节奏同步。 继续..  &amp;# 32；由   提交 /u/flochaotic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cthcie/guestures_smart_cameras_and_onward_to_smart_matter/</guid>
-      <pubDate>Thu, 16 May 2024 16:42:29 GMT</pubDate>
     </item>
     <item>
       <title>有没有人因为人工智能而改变了自己的人生决定？</title>
