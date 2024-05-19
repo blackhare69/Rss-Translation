@@ -4,9 +4,30 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 19 May 2024 12:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 15:07:46 GMT</lastBuildDate>
     <item>
-      <title>寻求对我的开源密码管理器应用程序 - NewPass 的反馈！</title>
+      <title>IconMatch - 用于从图像或显示中获取图标位置的 python 库！</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvp1cm/iconmatch_python_library_for_getting_positions_of/</link>
+      <description><![CDATA[ 由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvp1cm/iconmatch_python_library_for_getting_positions_of/</guid>
+      <pubDate>Sun, 19 May 2024 14:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>前 1,000 种计算机语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvodvt/top_1000_computer_languages/</link>
+      <description><![CDATA[  由    /u/moontoadzzz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvodvt/top_1000_computer_languages/</guid>
+      <pubDate>Sun, 19 May 2024 13:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于现代 CSS 你需要了解什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</link>
+      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</guid>
+      <pubDate>Sun, 19 May 2024 13:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关我的开源密码管理器应用程序 - NewPass 的反馈！</title>
       <link>https://www.reddit.com/r/programming/comments/1cvmoox/looking_for_feedback_on_my_open_source_password/</link>
       <description><![CDATA[大家好， 我一直在开发一个名为 NewPass，旨在提供安全且用户友好的密码管理解决方案。经过付出大量努力，我很高兴与大家分享，并很高兴听到您的想法和建议。 主要功能： - 安全存储：使用强大的加密功能可确保您的密码安全。 - 用户友好的界面：设计直观且易于使用。 - 开源：该代码可在 GitHub 上找到，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问 网站 或 GitHub 存储库。 提前致谢！ &lt; /div&gt;  由   提交/u/Geeero  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvmoox/looking_for_feedback_on_my_open_source_password/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>图形程序员的生与死</title>
       <link>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</link>
-      <description><![CDATA[ 由   提交/u/ebbbeeno  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ebbbeeno  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</guid>
       <pubDate>Sun, 19 May 2024 09:42:06 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cv87vq/strb_t_a_new_string_buffer_type/</guid>
       <pubDate>Sat, 18 May 2024 21:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 JWT：身份验证和算法基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1cv7w8z/understanding_jwt_basics_of_authentication_and/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cv7w8z/understanding_jwt_basics_of_authentication_and/</guid>
-      <pubDate>Sat, 18 May 2024 21:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 运行时无关的 WebSocket 服务器实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1cv1pu5/javascript_runtime_agnostic_websocket_server/</link>
-      <description><![CDATA[ 由   提交/u/guest271314  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cv1pu5/javascript_runtime_agnostic_websocket_server/</guid>
-      <pubDate>Sat, 18 May 2024 16:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>NerdFont v3.2.1 代码点范围</title>
-      <link>https://www.reddit.com/r/programming/comments/1cv1ke5/nerdfont_v321_codepoint_ranges/</link>
-      <description><![CDATA[  由    /u/Omnikron13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cv1ke5/nerdfont_v321_codepoint_ranges/</guid>
-      <pubDate>Sat, 18 May 2024 16:49:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
