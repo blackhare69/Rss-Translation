@@ -3,21 +3,42 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 20 May 2024 09:09:38 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Mon, 20 May 2024 12:15:19 GMT</lastBuildDate>
+    <item>
+      <title>如何增强您的 MarTech 堆栈</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwdqxl/how_to_supercharge_your_martech_stack/</link>
+      <description><![CDATA[在本文中，作者分享了“秘密武器”的配方、集中式数据平台以及实施前后的情况。 在此处阅读完整文章：https://moderndata101.substack.com/p/how-to-supercharge-your-martech-stack    提交人    /u/growth_man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwdqxl/how_to_supercharge_your_martech_stack/</guid>
+      <pubDate>Mon, 20 May 2024 11:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用过这个 AI Audio Upscaler 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwd8ta/has_anyone_used_this_ai_audio_upscaler/</link>
+      <description><![CDATA[这里是升级器的链接：https:// stockmusicgpt.com/features/upscale-music 我一直在与 Suno 一起制作一些音乐，虽然其中一些在作曲方面听起来很棒，但并非所有的在质量方面听起来都很棒。有人试过这个升级版吗？或者你有什么可以建议我的替代方案吗？   由   提交/u/iamzeryth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwd8ta/has_anyone_used_this_ai_audio_upscaler/</guid>
+      <pubDate>Mon, 20 May 2024 11:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>专家混合和进化模型合并</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwcsxr/mixture_of_experts_and_evolutionary_model_merging/</link>
+      <description><![CDATA[专家混合 (MoE) 的历史？ 专家混合背后的想法相当古老。这甚至不是为深度学习架构发明的想法。它已经存在相当长一段时间了，随机森林和Boosting树的整个理论基本上都是基于专家混合，只是与LLM不同类型的专家。   尽管专家设置混合的大部分现代实施是在（大约）过去十年中开发的，但 MoE 模型背后的核心前提源自 1991 年的论文“本地专家的自适应混合”。该论文提出训练一个由独立网络组成的人工智能系统，每个网络专门处理不同的训练案例子集。这需要训练“专家网络”本身和门控网络来确定每个子任务应该使用哪个专家。 完整文章：https://medium.com/aiguys/moe-and-llm-merging-recipes-741b11da2b4c &lt; h1&gt;进化算法 合并配置的优化是使用CMA-ES（协方差矩阵适应进化策略）等进化算法来实现的。这些算法根据准确性或 ROUGE 分数等性能指标迭代地改进合并过程。 为了确定最佳合并，他们使用 CMA-ES 算法（协方差矩阵适应进化策略），该策略是数值优化。 进化算法非常适合您没有一组实际操作要采取的情况。例如，在这种情况下，我们不知道会产生最佳模型的确切参数合并。 他们通过尝试合并来发现最佳合并，并获得某种关于我们的表现如何的信号。  CMA-ES 的步骤如下：  创建模型“群体”（可能来自 LLM 排行榜） 循环：   评估环境中的每个模型，返回训练数据的平均准确度（在本例中为 1069 个示例） 从得分最高的模型权重中培育模型权重，以创建新的群体成员。育种步骤可以使用各种合并技术，为系统添加一些随机性。 您还可以向参数添加随机性，例如基因突变（请注意，他们没有在论文中说明这一点，但我认为这会很有趣，并且在其他 CMA-ES 算法中看到了它的完成） 通过添加新创建的高性能模型并删除性能较差的模型来更新群体池。    由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwcsxr/mixture_of_experts_and_evolutionary_model_merging/</guid>
+      <pubDate>Mon, 20 May 2024 11:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapchat 计划每年在人工智能领域投资 15 亿美元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwbecw/snapchat_plans_to_invest_15_billion_annually_in_ai/</link>
+      <description><![CDATA[报告称，Snapchat 必须应对人们使用社交媒体的方式以及广告商想要购买的广告类型的巨大变化Snapchat。了解更多   由   提交 /u/National_Wasabi9993   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwbecw/snapchat_plans_to_invest_15_billion_annually_in_ai/</guid>
+      <pubDate>Mon, 20 May 2024 09:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能的兴起，我想知道/担心该领域的工作是否会减少或要求降低？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwa4g1/with_the_rise_of_ai_im_wonderingworried_if_jobs/</link>
       <description><![CDATA[随着人工智能的不断进步，我发现自己在思考并担心人工智能领域对就业机会的潜在影响。随着技术变得更加复杂，对这些角色的需求会减少吗？   由   提交/u/Zuko_Honor20   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwa4g1/with_the_rise_of_ai_im_wonderingworried_if_jobs/</guid>
       <pubDate>Mon, 20 May 2024 07:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱边缘人工智能：通过实时决策革新技术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cw9fop/embracing_edge_ai_revolutionizing_technology_with/</link>
-      <description><![CDATA[想象一下：您的日常小工具变得更加智能，无需连接到互联网即可快速做出决策的世界。这就是 Edge AI 的魔力。人工智能处理不依赖遥远的数据中心，而是直接在设备本身的“边缘”进行。网络的。这意味着我们正在展望一个技术反应更快、更高效的未来，改变一切，从交通灯的工作方式到自动驾驶汽车在道路上的行驶方式。 https://www.seaflux.tech/blogs/EdgeAI-advantages-and-use-cases   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cw9fop/embracing_edge_ai_revolutionizing_technology_with/</guid>
-      <pubDate>Mon, 20 May 2024 07:06:00 GMT</pubDate>
     </item>
     <item>
       <title>每月花费 20 美元来试验 AI 的最佳方式是什么？</title>
@@ -41,25 +62,11 @@
       <pubDate>Mon, 20 May 2024 03:14:58 GMT</pubDate>
     </item>
     <item>
-      <title>制作说唱模仿的最佳语音 AI 是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cw2vv7/what_would_be_the_best_voice_ai_for_making_a_rap/</link>
-      <description><![CDATA[我正在尝试在歌曲中添加一个功能，我真的很喜欢，我认为如果有一个额外的功能会很好，是否有一个特定的人工智能会很好？ （抱歉，如果这是一个过度使用或愚蠢的问题）   由   提交/u/throtaway6968969420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cw2vv7/what_would_be_the_best_voice_ai_for_making_a_rap/</guid>
-      <pubDate>Mon, 20 May 2024 00:37:28 GMT</pubDate>
-    </item>
-    <item>
       <title>担心人工智能。但找不到一个中立的地方来谈论这些担忧</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cw14p1/worried_about_ai_but_cant_find_a_neutral_place_to/</link>
       <description><![CDATA[我不是一个厄运者。但我对人工智能有很多担忧。 （我也很了解它是如何工作的。）问题是，所有关于人工智能的讨论论坛。绝大多数人都对其发展进行了投资（财务、专业、情感或哲学）。负面帖子会引起激烈且非常不支持的评论。我希望有一个专门为关心这个问题的人提供的论坛。到目前为止，我还没有找到一个。你知道吗？   由   提交 /u/FranklinSealAljezur   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cw14p1/worried_about_ai_but_cant_find_a_neutral_place_to/</guid>
       <pubDate>Sun, 19 May 2024 23:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 5 月最佳文本到视频 AI 以及成人内容最佳文本到图像 AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cw0jw1/best_texttovideo_ai_for_may_2024_and_best/</link>
-      <description><![CDATA[哪种文本转视频 AI 可以在 2024 年 5 月制作出最逼真的视频，而无需用户花费太多成本？ 什么样的文本到图像人工智能可以在对成人内容没有太多限制的情况下制作出最好的图像？ 我想知道人工智能文本到视频服务是否有一天会完全取代传统的色情行业。我想可能会，因为每个人对于自己想看的内容都有特定的品味，而传统的成人娱乐行业只能生产“一刀切”的内容。因此没有考虑到每个用户所需的幻想类型的微小差异。您对此有何看法？   由   提交/u/NASAfan89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cw0jw1/best_texttovideo_ai_for_may_2024_and_best/</guid>
-      <pubDate>Sun, 19 May 2024 22:44:08 GMT</pubDate>
     </item>
     <item>
       <title>G. Hinton 表示，人工智能语言模型不是在预测下一个符号，而是在推理和理解，并且将继续改进</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[https://shakespeare.gproducts.org/  我和我的兄弟创建了一个用户友好的网站，可以将您的声音转换为其他人的声音。与其他网站不同，我们的网站没有付费墙、登录或复杂性。通过广泛的研究，我们发现了一种使用标准云计算执行语音变化推理的方法，无需昂贵的 GPU。这项创新使变声变得比以往任何时候都更容易。希望这可以激励某人   由   提交 /u/mushjacob   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cvug1s/made_an_ai_voice_changer_with_my_brother/</guid>
       <pubDate>Sun, 19 May 2024 18:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天 GPT4o 有哪些意想不到的新用例？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cvszpx/what_are_some_new_unexpected_use_cases_for_chat/</link>
-      <description><![CDATA[聊天 GPT4o 有哪些新的意想不到的用例？ 例如，我发现如果给定一个图像。它还可以做什么？   由   提交/u/vcelibacy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cvszpx/what_are_some_new_unexpected_use_cases_for_chat/</guid>
-      <pubDate>Sun, 19 May 2024 17:03:54 GMT</pubDate>
     </item>
     <item>
       <title>亿万富翁可能已经给了你 UBI</title>
