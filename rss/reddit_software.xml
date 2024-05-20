@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 20 May 2024 15:08:34 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Mon, 20 May 2024 18:10:51 GMT</lastBuildDate>
+    <item>
+      <title>有好的演示软件推荐吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cwk42i/recommendations_for_good_presentation_software/</link>
+      <description><![CDATA[你好。我正在寻找像 PowerPoint 这样的免费软件。我熟悉其中一些选项（Slidebean、Prezi、Libreoffice、Google Docs），但它们都没有我正在寻找的特定功能。 我想做的是有一个动画条形图，点击时条形会一次上升一个。理想情况下，我希望能够在条形出现时将轴刻度与条形一起显示（因此，当第一个条形出现 18 时，它会一直到达顶部，但是当后面的条形出现 58 时18 缩小到很小）。我还想在第一组后面添加第二层栏，但这不是什么问题。 如果您对我想要的内容有任何疑问，我们将不胜感激。做什么或为什么我要这样做，我很乐意回答。   由   提交 /u/speasycumpy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cwk42i/recommendations_for_good_presentation_software/</guid>
+      <pubDate>Mon, 20 May 2024 16:44:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入 twindle.xyz 我做了它，就像 4chan</title>
+      <link>https://www.reddit.com/r/software/comments/1cwk390/join_twindlexyz_i_made_it_fr_its_like_4chan/</link>
+      <description><![CDATA[https://twindle.xyz 实际上是 4chan，但更好，一切都被允许；没有广告，网站看起来很现代并且是实时的。使用它代替 4chan！   由   提交/u/Feisty-Ad534  /u/Feisty-Ad534 reddit.com/r/software/comments/1cwk390/join_twindlexyz_i_made_it_fr_its_like_4chan/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cwk390/join_twindlexyz_i_made_it_fr_its_like_4chan/</guid>
+      <pubDate>Mon, 20 May 2024 16:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁支付错误修复费用？</title>
+      <link>https://www.reddit.com/r/software/comments/1cwjr76/who_pays_for_bug_fixes/</link>
+      <description><![CDATA[TL;DR - 我聘请了一家提供全方位服务的软件开发机构来构建移动应用程序。他们的质量保证流程非常糟糕，但我与他们的关系太深了，无法退出。我们最终构建并运行了一个功能齐全的应用程序。  无论如何 - 我们的合同已经结束 8 个月了，我遇到了一个对客户影响很大的重大错误。我有 8 个月前测试此问题的文档，并且通过了，所以我不确定可能会发生什么变化。 我向他们报告了这个问题，他们试图免费修复它，但结束了他们的修复引入了更多错误！  以前只有 1 项功能受到影响，现在该应用程序在“修复”后对新用户和现有用户都完全不起作用。  我很愤怒！现在他们要我支付 40 小时的开发费用来修复他们刚刚造成的错误。与此同时，在这个服务问题期间，我的客户像苍蝇一样流失。这真的是事情的运作方式还是我被骗了？    由   提交/u/brightpotato369  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cwjr76/who_pays_for_bug_fixes/</guid>
+      <pubDate>Mon, 20 May 2024 16:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题记录软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cwiolm/issue_recording_software/</link>
+      <description><![CDATA[有点奇怪的请求，但我想知道是否存在 Windows 应用程序，允许用户录制屏幕并将其发送给我。用户拥有安装权限，因此如果需要安装也可以使用。这将用于直观地向我展示存在的错误/问题，而不是他们试图向我解释它。应用程序应该尽可能简单。诸如录制并发送或录制并上传之类的内容。   由   提交/u/Mortalus2020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cwiolm/issue_recording_software/</guid>
+      <pubDate>Mon, 20 May 2024 15:44:02 GMT</pubDate>
+    </item>
     <item>
       <title>我需要在 Windows 11 上将 PDF 文件转换为 Word 文档？</title>
       <link>https://www.reddit.com/r/software/comments/1cwhqrh/i_need_convert_pdf_files_to_word_document_on/</link>
@@ -15,14 +43,14 @@
     <item>
       <title>用于编写看起来像旧 Windows 管道屏幕保护程序的文本的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cwhe1k/software_to_write_text_that_looks_like_old/</link>
-      <description><![CDATA[大家好， 我正在寻找一种软件，它可以创建一个看起来像旧的 Windows 管道屏幕保护程序的图像，但也允许我定义一个应该可读的文本。有人有什么想法吗？ 提前说声“谢谢”    由   提交  /u/Trecus   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找可以创建看起来像旧 Windows 管道屏幕保护程序的图像的软件，但是还让我定义一个应该在其中可读的文本。有人知道吗？ 大大的“谢谢”！提前   由   提交 /u/Trecus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cwhe1k/software_to_write_text_that_looks_like_old/</guid>
       <pubDate>Mon, 20 May 2024 14:49:00 GMT</pubDate>
     </item>
     <item>
       <title>精确音频副本 - 如何在翻录过程中更改封面艺术文件名？</title>
       <link>https://www.reddit.com/r/software/comments/1cwh4cx/exact_audio_copy_how_do_i_change_cover_art_file/</link>
-      <description><![CDATA[翻录了很多音乐，想要更改默认封面艺术命名方案“artist-album.jpg”简单地覆盖.jpg。尝试通过一般的在线搜索找到执行此操作的标签，但没有看到这一点。 我拥有的一些专辑没有封面艺术，因此使用专辑艺术下载器，但它没有不会标记具有封面艺术的文件夹，除非它被命名为 cover.jpg 所以...哈哈。    由   提交/u/Jewish_Doctor  [链接] [评论]]]></description>
+      <description><![CDATA[翻录了很多音乐，想将默认的封面艺术命名方案“artist-album.jpg”更改为简单的 cover.jpg。尝试通过常规在线搜索找到执行此操作的标签，但没有看到确切的标签。 我拥有的一些专辑没有封面艺术，因此使用专辑封面下载器，但它不会标记有封面艺术的文件夹，除非它被命名为 cover.jpg，所以......哈哈。    提交人    /u/Jewish_Doctor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cwh4cx/exact_audio_copy_how_do_i_change_cover_art_file/</guid>
       <pubDate>Mon, 20 May 2024 14:36:52 GMT</pubDate>
     </item>
@@ -34,23 +62,16 @@
       <pubDate>Mon, 20 May 2024 13:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>我想用 2 小时的电影制作 10 分钟的视频（电影有字幕。我希望字幕出现在我的视频中）。使用哪个应用程序/软件我可以最轻松、顺利地完成此操作？（可能这个过程称为切割）</title>
-      <link>https://www.reddit.com/r/software/comments/1cweti7/i_want_to_make_a_video_of_10_minutes_from_a_2/</link>
-      <description><![CDATA[我想要免费的应用程序/软件   由   提交/u/Independent_Meal_134   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cweti7/i_want_to_make_a_video_of_10_minutes_from_a_2/</guid>
-      <pubDate>Mon, 20 May 2024 12:51:31 GMT</pubDate>
-    </item>
-    <item>
       <title>您现在最简单、最省电且免费的 pdf 查看器是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cwdpc1/whats_the_simplest_least_power_consuming_and_free/</link>
-      <description><![CDATA[嘿，我正在寻找一个新的 pdf 阅读器，因为 adobe acrobat 太拥挤了，chrome 让我的电脑像直升机一样从办公桌上升起。你能推荐一个吗？    由   提交/u/Background_Head729   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在寻找一个新的 pdf 阅读器，因为 adobe acrobat 太拥挤了，chrome 使我的电脑像直升机一样从我的办公桌上升起。你能推荐一个吗？    由   提交/u/Background_Head729   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cwdpc1/whats_the_simplest_least_power_consuming_and_free/</guid>
       <pubDate>Mon, 20 May 2024 11:53:38 GMT</pubDate>
     </item>
     <item>
       <title>一个可以一键截取屏幕截图的应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1cwdie3/an_app_to_take_cropped_screenshots_in_one_click/</link>
-      <description><![CDATA[我使用 A4Tech X7 鼠标十多年的原因只有一个 - 他们有一个很棒的屏幕截图应用程序，仅适用于这些鼠标。结果发现它现在与我的新 2K 显示器不兼容，因此（并且因为我只是想要其他东西）我想更换鼠标，从而更换屏幕截图软件。所以我想要的和我现在拥有的一样：我单击鼠标上的某个按钮，它会创建我正在拍摄的图像的角，我只需拖动它，形成一个矩形。如何使用其他软件获得相同的结果？   由   提交 /u/DrPapug   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 A4Tech X7 鼠标十余年只有一个原因 - 他们有一个很棒的截图应用程序，但只能与这些鼠标配合使用。结果发现它与我现在的新 2K 显示器不兼容，出于这个原因（也因为我只想换个东西），我想更换鼠标，从而更换截图软件。所以我想要的和我现在拥有的一样：我点击鼠标上的某个按钮，它会创建我正在拍摄的图像的角落，然后我只需拖动它，就可以形成一个矩形。我如何使用其他软件实现相同的效果？    提交人    /u/DrPapug   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cwdie3/an_app_to_take_cropped_screenshots_in_one_click/</guid>
       <pubDate>Mon, 20 May 2024 11:42:43 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 20 May 2024 09:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>ImageGlass 现在是一款付费应用吗？如果是，有什么真正好的免费替代品吗？</title>
+      <title>ImageGlass 现在是付费应用程序吗？如果是这样，什么是真正好的免费替代方案？</title>
       <link>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</link>
       <description><![CDATA[最近有更新，现在似乎只能在 Microsoft Store 上获取 ImageGlass。价格为 9.99 美元或“免费试用”。我记得好像是在 ImageGlass 的网站或其他地方下载的，没有任何特殊条件。此外，ImageGlass 的开发人员曾将其与某种恶意软件或其他东西打包在一起，导致人们强烈反对，直到它被删除，所以谁知道开发人员现在在最新更新中要做什么。 那么现在是时候寻找替代方案了吗？还是仍然有免费的当前版本的 ImageGlass？    提交人    /u/GoBackToLeddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cw5xqd/is_imageglass_a_pay_app_now_if_so_what_is_a_free/</guid>
       <pubDate>Mon, 20 May 2024 03:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您用拇指驱动器/U 盘做过的最酷的事情是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1cw4u24/what_are_the_coolest_things_you_have_done_with/</link>
-      <description><![CDATA[ 由   提交 /u/ReasonRaider   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cw4u24/what_are_the_coolest_things_you_have_done_with/</guid>
-      <pubDate>Mon, 20 May 2024 02:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[PATCH] mmc-utils：实现了 CMD42 锁定/解锁</title>
-      <link>https://www.reddit.com/r/software/comments/1cw3x4y/patch_mmcutils_implemented_cmd42_lockingunlocking/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cw3x4y/patch_mmcutils_implemented_cmd42_lockingunlocking/</guid>
-      <pubDate>Mon, 20 May 2024 01:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有没有软件可以让我轻松地为照片添加标题？</title>
-      <link>https://www.reddit.com/r/software/comments/1cw2xyq/does_anyone_know_if_there_is_software_that_allow/</link>
-      <description><![CDATA[依赖元数据不是一个好主意，因为它很容易被破坏。更不用说，我的许多照片都是扫描的旧照片，所以元数据毫无意义。 我想在底部稍微扩展一下我所有的数码照片以插入标题。我知道如果我想的话我可以在 Paint 中手动执行此操作，但我想知道是否有软件可以做到这一点，因为我希望它们看起来一致，而且我不想花费数百小时来做这件事。 我使用 Windows 11。    提交人    /u/-Vatefairefoutre-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cw2xyq/does_anyone_know_if_there_is_software_that_allow/</guid>
-      <pubDate>Mon, 20 May 2024 00:40:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
