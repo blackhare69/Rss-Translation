@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 21 May 2024 06:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 09:08:57 GMT</lastBuildDate>
     <item>
       <title>我在 Premiere 中创建了大约 48 小时的代理，我可以导出 xml 并且仍然在 Resolve 中使用原始代理和代理吗？提前致谢</title>
       <link>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>再次爱上了编辑。</title>
       <link>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</link>
-      <description><![CDATA[您是否曾经感到卡住并感觉您的编辑毫无进展？上 vimeo 或看一些电影来滋养大脑。 昨晚我重看了《热血警探》，是的，我再次爱上了剪辑。  你们有过这样的时刻吗？如果是这样，请分享，让我们知道哪些电影激发了您的兴趣。   由   提交 /u/Ju1cyBr4in   [链接] [评论]]]></description>
+      <description><![CDATA[您是否曾经感到卡住并且觉得您的编辑毫无进展？上 vimeo 或看一些电影来滋养大脑。 昨晚我重看了《热血警探》，是的，我再次爱上了剪辑。  你们有过这样的时刻吗？如果是这样，请分享，让我们知道哪些电影引起了您的兴趣。   由   提交 /u/Ju1cyBr4in   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</guid>
       <pubDate>Tue, 21 May 2024 02:54:13 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Mon, 20 May 2024 18:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>编辑六个月的延时摄影，从编辑的角度推荐最佳相机？</title>
+      <title>编辑六个月的延时拍摄，从编辑的角度推荐最佳相机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cwlqsd/editing_six_month_long_timelapse_best_camera/</link>
-      <description><![CDATA[标准是每天使用手头上较旧型号的 GoPro 拍摄几张照片，插入墙上电源，存储卡容量从 32GB 到 512GB，最低分辨率为 1920x1080。    提交人    /u/ioncewasaking   [link] [评论]]]></description>
+      <description><![CDATA[标准是使用插入墙上电源的旧型号 GoPro 每天拍摄几张图像，存储卡容量从 32GB 到 512GB，最低容量为分辨率为1920x1080。   由   提交 /u/ioncewasaking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwlqsd/editing_six_month_long_timelapse_best_camera/</guid>
       <pubDate>Mon, 20 May 2024 17:52:55 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Mon, 20 May 2024 17:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>我如何更快地生成代理？ （专用程序？其他工作流程？）</title>
+      <title>我如何更快地生成代理？（专用程序？其他工作流程？）</title>
       <link>https://www.reddit.com/r/editors/comments/1cwk0k0/how_would_i_generate_proxys_quicker_dedicated/</link>
-      <description><![CDATA[只是好奇你们会做什么来加快我的工作流程...  所以我几乎所有事情都使用 Resolve...组织、编辑、图形、颜色等。 我几乎总是为了便于使用而制作代理。问题是我经常得到不同分辨率的素材（从高清到 8k） - 我之前的工作流程是将 Resolve 中的代理设置设置为四分之一，突出显示所有剪辑，然后点击“生成代理媒体”，喝杯咖啡或休息一下，或者嗯，但是让我开始困扰的是，我的 8k 文件看起来不错，但高清文件却超级超级像素化。如果 Resolve 能为代理添加固定分辨率，我会很高兴。 好吧，我没有责怪该程序，而是尝试了代理生成器应用程序，该应用程序可以生成 1920x1080 代理，但仅限于 ProRes422，而且我想要 ProRes 代理...快速由于存储“问题”而放弃了。  现在我的工作流程演变为设置代理资源。高清内容为原始内容，4k 内容为一半，8k 内容为四分之一。问题是我总是需要（或多或少）在我的电脑前等待让代理完成，因为A）我在制作代理时无法使用Resolve，B）在HD Stuff完成我需要的代理制作之后更改设置（一半或四分之一）突出显示下一个 Res。文件并重新开始...  我已经尝试过 Apple Compressor - 这会弄乱 TC，我真的不想为此烦恼。我尝试了 Media Encoder，但我无法（不知道为什么）更改多个预设（删除我不喜欢的预设）并更改多个剪辑的输出文件夹。我尝试了EditReady的试用版，但只能设置一个Dest。文件夹？所以我需要一个又一个地进行项目？ 每个项目都有一个固定的文件夹结构。理想情况下，我可以使用一些预设来自动选择正确的文件夹。但如果我可以将所有文件放入，然后将它们设置为 ProRes Proxy HD，设置目标，我会很高兴。多个剪辑的文件夹（因为有时我想在夜间转码多个项目），然后让程序完成剩下的工作...   由   提交/u/Pure-City1444   reddit.com/r/editors/comments/1cwk0k0/how_would_i_generate_proxys_quicker_dedicated/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[只是好奇你们会做什么来加快我的工作流程...  所以我几乎所有事情都使用 Resolve...组织、编辑、图形、颜色等。  我几乎总是为了便于使用而制作代理。问题是我经常得到不同分辨率的素材（从高清到 8k） - 我之前的工作流程是将 Resolve 中的代理设置设置为四分之一，突出显示所有剪辑，然后点击“生成代理媒体”，喝杯咖啡或休息一下或嗯，但是让我开始困扰的是，我的 8k 文件看起来还不错，但高清文件却超级超级像素化。如果 Resolve 能为代理添加固定分辨率，我会很高兴。 好吧，我没有责怪该程序，而是尝试了代理生成器应用程序，该应用程序可以生成 1920x1080 代理，但仅限于 ProRes422，而且我想要 ProRes 代理...快速由于存储“问题”而放弃了。  现在我的工作流程演变为设置代理资源。高清内容为原始内容，4k 内容为一半，8k 内容为四分之一。问题是我总是需要（或多或少）在我的电脑前等待让代理完成，因为A）我在制作代理时无法使用Resolve，B）在HD Stuff制作完我需要的代理之后更改设置（一半或四分之一）突出显示下一个 Res。文件并重新开始... 我已经尝试过 Apple Compressor - 这会弄乱 TC，我真的不想为此烦恼。我尝试了 Media Encoder，但我无法（不知道为什么）更改多个预设（删除我不喜欢的预设）并更改多个剪辑的输出文件夹。我尝试了EditReady的试用，但只能设置一个Dest。文件夹？所以我需要一个又一个地进行项目？ 我为每个项目都有一个固定的文件夹结构。理想情况下，我可以使用一些预设来自动选择正确的文件夹。但如果我可以将所有文件放入，然后将它们设置为 ProRes Proxy HD，设置目标，我会很高兴。多个剪辑的文件夹（因为有时我想在夜间转码多个项目），然后让程序完成剩下的工作...   由   提交/u/Pure-City1444  /u/Pure-City1444 reddit.com/r/editors/comments/1cwk0k0/how_would_i_generate_proxys_quicker_dedicated/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwk0k0/how_would_i_generate_proxys_quicker_dedicated/</guid>
       <pubDate>Mon, 20 May 2024 16:40:41 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>更快的代理工作流程？</title>
       <link>https://www.reddit.com/r/editors/comments/1cwj6wf/faster_proxy_workflow/</link>
-      <description><![CDATA[只是好奇你们会做什么来加快我的工作流程...  所以我几乎所有事情都使用 Resolve...组织、编辑、图形、颜色等。 我几乎总是为了便于使用而制作代理。问题是我经常得到不同分辨率的素材（从高清到 8k） - 我之前的工作流程是将 Resolve 中的代理设置设置为四分之一，突出显示所有剪辑，然后点击“生成代理媒体”，喝杯咖啡或休息一下，或者嗯，但是让我开始困扰的是，我的 8k 文件看起来不错，但高清文件却超级超级像素化。如果 Resolve 能为代理添加固定分辨率，我会很高兴。 好吧，我没有责怪该程序，而是尝试了代理生成器应用程序，该应用程序可以生成 1920x1080 代理，但仅限于 ProRes422，而且我想要 ProRes 代理...快速由于存储“问题”而放弃了。  现在我的工作流程演变为设置代理资源。高清内容为原始内容，4k 内容为一半，8k 内容为四分之一。问题是我总是需要（或多或少）在我的电脑前等待让代理完成，因为A）我在制作代理时无法使用Resolve，B）在HD Stuff完成我需要的代理制作之后更改设置（一半或四分之一）突出显示下一个 Res。文件并重新开始...  我已经尝试过 Apple Compressor - 这会弄乱 TC，我真的不想为此烦恼。我尝试了 Media Encoder，但我无法（不知道为什么）更改多个预设（删除我不喜欢的预设）并更改多个剪辑的输出文件夹。我尝试了EditReady的试用版，但只能设置一个Dest。文件夹？所以我需要一个又一个地进行项目？ 每个项目都有一个固定的文件夹结构。理想情况下，我可以使用一些预设来自动选择正确的文件夹。但如果我可以将所有文件放入，然后将它们设置为 ProRes Proxy HD，设置目标，我会很高兴。多个剪辑的文件夹（因为有时我想在夜间转码多个项目），然后让程序完成剩下的工作...   由   提交/u/Pure-City1444   reddit.com/r/editors/comments/1cwj6wf/faster_proxy_workflow/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[只是好奇你们会做什么来加快我的工作流程...  所以我几乎所有事情都使用 Resolve...组织、编辑、图形、颜色等。  我几乎总是为了便于使用而制作代理。问题是我经常得到不同分辨率的素材（从高清到 8k） - 我之前的工作流程是将 Resolve 中的代理设置设置为四分之一，突出显示所有剪辑，然后点击“生成代理媒体”，喝杯咖啡或休息一下或嗯，但是让我开始困扰的是，我的 8k 文件看起来还不错，但高清文件却超级超级像素化。如果 Resolve 能为代理添加固定分辨率，我会很高兴。 好吧，我没有责怪该程序，而是尝试了代理生成器应用程序，该应用程序可以生成 1920x1080 代理，但仅限于 ProRes422，而且我想要 ProRes 代理...快速由于存储“问题”而放弃了。  现在我的工作流程演变为设置代理资源。高清内容为原始内容，4k 内容为一半，8k 内容为四分之一。问题是我总是需要（或多或少）在我的电脑前等待让代理完成，因为A）我在制作代理时无法使用Resolve，B）在HD Stuff制作完我需要的代理之后更改设置（一半或四分之一）突出显示下一个 Res。文件并重新开始... 我已经尝试过 Apple Compressor - 这会弄乱 TC，我真的不想为此烦恼。我尝试了 Media Encoder，但我无法（不知道为什么）更改多个预设（删除我不喜欢的预设）并更改多个剪辑的输出文件夹。我尝试了EditReady的试用，但只能设置一个Dest。文件夹？所以我需要一个又一个地进行项目？ 我为每个项目都有一个固定的文件夹结构。理想情况下，我可以使用一些预设来自动选择正确的文件夹。但如果我可以将所有文件放入，然后将它们设置为 ProRes Proxy HD，设置目标，我会很高兴。多个剪辑的文件夹（因为有时我想在夜间转码多个项目），然后让程序完成剩下的工作...   由   提交/u/Pure-City1444  /u/Pure-City1444 reddit.com/r/editors/comments/1cwj6wf/faster_proxy_workflow/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwj6wf/faster_proxy_workflow/</guid>
       <pubDate>Mon, 20 May 2024 16:05:39 GMT</pubDate>
     </item>
