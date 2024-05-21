@@ -3,10 +3,17 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Tue, 21 May 2024 18:09:32 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Tue, 21 May 2024 21:07:21 GMT</lastBuildDate>
     <item>
-      <title>每日漫画：5 月 21 日星期二</title>
+      <title>莱西之死对伊朗的未来意味着什么</title>
+      <link>https://www.newyorker.com/news/daily-comment/what-raisis-death-means-for-the-future-of-iran</link>
+      <description><![CDATA[对于一个面临严峻挑战、最高领导人年迈的国家来说，总统的去世引发了一个生存问题：谁能维持革命？]]></description>
+      <guid>https://www.newyorker.com/news/daily-comment/what-raisis-death-means-for-the-future-of-iran</guid>
+      <pubDate>Tue, 21 May 2024 18:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日漫画：5 月 21 日，星期二</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-may-21st-most-cash</link>
       <description><![CDATA[“你知道规则——谁赚到的钱最多，谁就成为自由世界的领导者。”]]></description>
       <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-may-21st-most-cash</guid>
@@ -15,14 +22,14 @@
     <item>
       <title>新斯科舍省价值数十亿美元的龙虾大战</title>
       <link>https://www.newyorker.com/news/dispatch/nova-scotias-billion-dollar-lobster-wars</link>
-      <description><![CDATA[土著渔民如何在北美最赚钱的渔业中捍卫自己的权利和公司利润。]]></description>
+      <description><![CDATA[土著渔民如何在北美最有利可图的渔业中捍卫自己的权利和公司利润。]]></description>
       <guid>https://www.newyorker.com/news/dispatch/nova-scotias-billion-dollar-lobster-wars</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>当中央情报局 (CIA)把作家变成特工</title>
       <link>https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives</link>
-      <description><![CDATA[一部关于冷战的新节目《并非所有宣传都是艺术》揭示了试图通过文化控制世界的黑暗、有时甚至滑稽的讽刺。]]></description>
+      <description><![CDATA[一部关于冷战的新剧《并非所有宣传都是艺术》揭示了试图通过文化控制世界的黑暗、有时甚至是滑稽的讽刺。]]></description>
       <guid>https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -66,13 +73,6 @@
       <link>https://www.newyorker.com/magazine/2024/05/27/letters-from-the-may-27-2024-issue</link>
       <description><![CDATA[读者对路易斯·梅南德关于学术自由威胁的文章和亚历克斯·罗斯关于噪音的文章做出了回应。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/27/letters-from-the-may-27-2024-issue</guid>
-      <pubDate>Mon, 20 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>已识别</title>
-      <link>https://www.newyorker.com/magazine/2024/05/27/identified</link>
-      <description><![CDATA[非 U.F.O.：气球中的巫师。确认原产地：Oz。骑着飞马生物的先知。确认起源：麦加。披风中的亡灵。确认原产地：高加索地区。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/05/27/identified</guid>
       <pubDate>Mon, 20 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
