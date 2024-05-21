@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 May 2024 03:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:12:25 GMT</lastBuildDate>
     <item>
       <title>在 Astro 的 Starlight 文档框架中添加结构化数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxsqj/adding_structured_data_in_astros_starlight/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 21 May 2024 02:50:02 GMT</pubDate>
     </item>
     <item>
-      <title>我想进步！</title>
+      <title>我想要进步！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxaxw/i_want_to_improve/</link>
       <description><![CDATA[我刚刚启动了Paive 的第一个版本，但我想要来改进。 我目前正在开发其他功能，这些功能将把这个平台提升到一个全新的水平，但在目前的状态下，我不禁感觉缺少了一些东西。 &gt; 你们介意检查一下并让我知道您的想法吗？ 我明天还将推出 Product Hunt！   由   提交 /u/phyziro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwxaxw/i_want_to_improve/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 21 May 2024 02:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>与免费代码训练营类似的网站</title>
+      <title>与 free code camp 类似的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</link>
       <description><![CDATA[嗨，我很难理解免费代码营希望我如何处理他们提出问题的方式。很多次我尝试这个问题，但发现自己在双重猜测或只是不理解它的含义，最终使用了我不想做的 chatgpt，然后我最终感到沮丧。  我可以尝试类似的事情吗？我是一个非常实干的人，而不是一个读者。我喜欢免费代码训练营的方式，它给你一点，然后你练习，然后给你一点，然后你练习。  谢谢。    由   提交/u/Scary_Onion1668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</guid>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 20 May 2024 23:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>我用 AI 构建了我的第一个生产型 Web 应用程序</title>
+      <title>我用 AI 构建了我的第一个生产级 Web 应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwtfz8/i_built_my_first_production_web_app_with_ai/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/a-MUK  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwtfz8/i_built_my_first_production_web_app_with_ai/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>Devolver Digital 揭露独立游戏网站复活节彩蛋并对其用户进行咆哮</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</link>
-      <description><![CDATA[        由    /u/3lijah 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/3lijah  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</guid>
       <pubDate>Mon, 20 May 2024 21:29:58 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>数据库连接，如何允许从任何地方访问。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/</link>
-      <description><![CDATA[目前，我正在开发一个 Web 应用程序。我完成了用户注册和身份验证，并将其连接到我的 PostgreSQL 数据库。 我遇到的问题：数据库托管在我的本地主机上。因此无法从任何地方访问它。稍后，任何地方的人都应该能够从任何地方创建用户帐户。（我知道 Web 应用程序也必须托管在其他地方，而不是我的本地主机上，但目前这不是问题。） 我的问题是，是否有办法托管数据库，以便可以从任何地方访问它？ 有人告诉我 AWS 等云服务可以工作。但这似乎需要大量工作。 我是一名计算机科学专业的学生，​​对 Webdev 没有任何经验。这是我们的项目所需要的。基于 jodel 的 webapp。 任何关于去哪里的想法都将不胜感激。    提交人    /u/-SchlauchbootlippeN-   [链接] [评论]]]></description>
+      <description><![CDATA[现在我正在开发一个网络应用程序。我完成了用户注册和身份验证并将其连接到我的 PostgreSQL 数据库。  我遇到的问题：数据库托管在我的本地主机上。因此无法从任何地方访问它。稍后，来自任何地方的人们都应该能够从任何地方创建用户帐户。 （我知道网络应用程序也必须托管在其他地方，而不是在我的本地主机上，但这在这一点上不是问题。）  我的问题是是否有一种方法来托管数据库，以便可以从任何地方访问它吗？ 有人告诉我，AWS 等云服务可以使用。但这看起来工作量很大。 我是一名计算机科学家学生，实际上没有任何 webdev 经验。这是我们的项目所需要的。一个基于 jodel 的网络应用程序。 非常感谢任何关于去哪里的想法。   由   提交 /u/-SchlauchbootlippeN-   /u/-SchlauchbootlippeN- reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwqdjb/database_connection_how_to_allow_access_from/</guid>
       <pubDate>Mon, 20 May 2024 21:02:58 GMT</pubDate>
     </item>
