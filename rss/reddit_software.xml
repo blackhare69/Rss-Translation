@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 May 2024 18:10:45 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 22 May 2024 21:08:44 GMT</lastBuildDate>
+    <item>
+      <title>所需软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cyazo7/software_needed/</link>
+      <description><![CDATA[您好，我正在寻找用于创建专业文档模板的软件，该模板可以通过 Zapier 从 Excel 导入数据。我需要它自动导入数据或允许手动输入，因此我不必每次都重新创建模板。目标是为潜在投资者提供一份完善的房地产承保报告。   由   提交/u/Dangerous-Ad9208   reddit.com/r/software/comments/1cyazo7/software_needed/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cyazo7/software_needed/</guid>
+      <pubDate>Wed, 22 May 2024 20:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款可以在屏幕上绘图的屏幕共享软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cy84hb/looking_for_a_screensharing_software_with_the/</link>
+      <description><![CDATA[我是一名正在上学的高中生，实际上正在尝试寻找可以在学校使用三星 Galaxy 平板电脑在笔记本电脑屏幕上绘图的软件我可以在其中看到作业（测验/文档）和上面的涂鸦，一旦得到答案就可以轻松清除屏幕，类似于 Zoom 的绘图功能。 有什么建议吗？   由   提交 /u/RedPcat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cy84hb/looking_for_a_screensharing_software_with_the/</guid>
+      <pubDate>Wed, 22 May 2024 18:53:42 GMT</pubDate>
+    </item>
     <item>
       <title>阻止 Safari 播放视频？</title>
       <link>https://www.reddit.com/r/software/comments/1cy6u26/prevent_safari_from_playing_videos/</link>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 22 May 2024 17:02:47 GMT</pubDate>
     </item>
     <item>
-      <title>我如何暂时禁用我的笔记本电脑键盘？？？</title>
+      <title>如何暂时禁用笔记本电脑键盘？？？</title>
       <link>https://www.reddit.com/r/software/comments/1cy3gle/how_do_i_temporraily_disable_my_laptops_keyboard/</link>
       <description><![CDATA[由于损坏，我目前不得不使用外部键盘，我想暂时禁用笔记本电脑键盘，但是“禁用” ;选项未显示。如果有人可以在这里帮助我，我将不胜感激 https://preview.redd.it/8udfn0tm002d1.png?width=595&amp;format=png&amp;auto=webp&amp;s=747b837ad6b77e5b3eec424f13c52d54 a1a17267   由   提交/u/4321getclappeboi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cy3gle/how_do_i_temporraily_disable_my_laptops_keyboard/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>具有 API 支持的免费图像标记和过滤软件</title>
       <link>https://www.reddit.com/r/software/comments/1cxw12t/free_image_tagging_and_filtering_software_with/</link>
-      <description><![CDATA[我需要能够上传一堆图像，标记它们，然后根据标记轻松地包含/排除图像。缩略图必须清晰 - 最好只加载原始图像。 我希望能够批量上传和应用标签，因此这意味着 API 支持（然后我可以通过脚本进行管理）。 我希望它是免费的。 我不需要编辑图像。 我能找到的最好的是 eagle，除了免费部分外，它可以完成所有工作。它不是太贵，但我想在购买之前在这里试试运气也没什么坏处。    提交人    /u/GoatRocketeer   [链接] [评论]]]></description>
+      <description><![CDATA[我需要能够上传一堆图像，标记它们，然后根据标记轻松包含/排除图像。缩略图必须清晰 - 最好只加载原始图像。 我希望能够批量上传和应用标签，所以这意味着 API 支持（然后我可以通过脚本进行管理） ）。 我希望它是免费的。 我不需要编辑图像。 我能找到的最好的是 eagle，它确实除了免费部分之外的一切。虽然不太贵，但我想在买东西之前在这里试试运气也没什么坏处。   由   提交 /u/GoatRocketeer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxw12t/free_image_tagging_and_filtering_software_with/</guid>
       <pubDate>Wed, 22 May 2024 09:22:47 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/augspurger  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxvfvs/we_are_excited_to_announce_the_launch_of_a_new/</guid>
       <pubDate>Wed, 22 May 2024 08:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一款可以将 WhatsApp 聊天从 iOS 转移到 Android 的软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1cxu4a9/looking_for_a_software_that_would_allow_to/</link>
-      <description><![CDATA[我父亲有两部手机（旧的 iPhone 和较新的 Android），它们都有 WhatsApp。最近，iPhone 变得非常慢并且卡住（这对于 iPhone 来说并不常见，这个是旧的并且被滥用）所以，我一直在寻找一个可以帮助我将 iPhone 的 WhatsApp 转移到 Android 的软件，通过还保持 Android 的 WhatsApp 完好无损并正常运行。基本上，一部手机带有来自 2 个不同 SIM 卡的 2 个 WhatsApp。 请帮助我，iPhone 无法使用。   由   提交/u/akasaiga  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cxu4a9/looking_for_a_software_that_would_allow_to/</guid>
-      <pubDate>Wed, 22 May 2024 07:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何删除刚刚添加的注册表文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1cxsae5/how_can_i_delete_registry_file_i_just_added/</link>
-      <description><![CDATA[ 由   提交 /u/Serazax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cxsae5/how_can_i_delete_registry_file_i_just_added/</guid>
-      <pubDate>Wed, 22 May 2024 04:59:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
