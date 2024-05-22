@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 22 May 2024 15:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 18:10:03 GMT</lastBuildDate>
     <item>
-      <title>3D打印和人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cxyofe/3d_printing_and_ai/</link>
-      <description><![CDATA[我记得几年前听说过很多关于 3D 打印的事情，但最近没听说过这么多。有人知道 3D 打印和生成人工智能的交叉点正在做一些很酷的工作吗？   由   提交/u/PlacidoFlamingo7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cxyofe/3d_printing_and_ai/</guid>
-      <pubDate>Wed, 22 May 2024 12:09:36 GMT</pubDate>
+      <title>Gemini 说它无法访问网络。我认为这是重大突破的一部分！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cy3tre/gemini_says_it_cant_access_the_web_i_thought_that/</link>
+      <description><![CDATA[我认为 Gemini 的重大突破之一是，公共法学硕士第一次可以访问实时互联网，并且能够与常规网络搜索集成。现在，Gemini 表示该功能已经存在了一段时间，但出于安全原因现已被删除。有人知道吗？   由   提交 /u/FranklinSealAljezur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cy3tre/gemini_says_it_cant_access_the_web_i_thought_that/</guid>
+      <pubDate>Wed, 22 May 2024 16:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 5 月 22 日人工智能创新每日纪事：🧠 微软首款随 Windows 一起提供的 SoTA SLM 📈Google 推出用于品牌和产品营销的新 AI 工具🎨Adobe 向 Lightroom 推出由 Firefly 人工智能驱动的生成删除🗺️ 人工智能研究：绘制“思维”法学硕士 & ❗AI 职位</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cy36vi/a_daily_chronicle_of_ai_innovations_may_22nd_2024/</link>
+      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cy36vi/a_daily_chronicle_of_ai_innovations_may_22nd_2024/</guid>
+      <pubDate>Wed, 22 May 2024 15:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试创建一个像 GPT-4o 这样的半本地助手</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cy32eb/i_tried_to_create_a_semilocal_assistant_like_gpt4o/</link>
+      <description><![CDATA[受到 GPT-4o 多模态发布的启发，我尝试在本地链接一些模型并制作类似的东西。我最终使用 Whisper.cpp、Llama.cpp 上的 Phi-3-Mini 和 ElevenLabs 将 LLM 回复近乎实时地转换为音频。这就是它的样子 https://www.youtube.com/watch?v= 0-6LY9XJbZQ&amp;ab_channel=JustforBlogsHey%21 在这里阅读我的实验：https://medium.com/towards-artificial-intelligence/whisper-cpp-llama-cpp-elevenlabs-local-gpt-4o- like-voice-heaven-b6c3c185d912   由   提交/u/thevatsalsaglani   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cy32eb/i_tried_to_create_a_semilocal_assistant_like_gpt4o/</guid>
+      <pubDate>Wed, 22 May 2024 15:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] AI 代理：太早、太昂贵、太不可靠</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cy2noc/d_ai_agents_too_early_too_expensive_too_unreliable/</link>
+      <description><![CDATA[ 由   提交 /u/madredditscientist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cy2noc/d_ai_agents_too_early_too_expensive_too_unreliable/</guid>
+      <pubDate>Wed, 22 May 2024 15:13:12 GMT</pubDate>
     </item>
     <item>
       <title>人工智能法案：具有里程碑意义的欧盟法律为安全和道德的人工智能系统设定了全球标准</title>
@@ -55,18 +76,11 @@
       <pubDate>Wed, 22 May 2024 06:14:20 GMT</pubDate>
     </item>
     <item>
-      <title>我问人们什么是照片，什么是图形。答案对摄影师来说不是好兆头</title>
+      <title>我问人们什么是照片，什么是图形。答案对摄影师来说并不是什么好兆头</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cxsnnj/i_asked_people_what_is_a_photograph_and_what_is_a/</link>
       <description><![CDATA[我使用了 Midjourney 和 Magnific AI。由于我从事摄影和修饰工作，主要是来自摄影行业的人跟随我，他们常常无法区分他们在看什么。我在这个 2 分钟的视频中总结了很多示例：https://youtu.be/bySGNxb4E8s &lt; /div&gt;  由   提交 /u/ThomasVoland   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cxsnnj/i_asked_people_what_is_a_photograph_and_what_is_a/</guid>
       <pubDate>Wed, 22 May 2024 05:22:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这里寻找其他人工智能社区......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cxr0lz/looking_for_other_ai_communities_out_here/</link>
-      <description><![CDATA[嘿人工智能朋友们！ 👋 我想知道您是否知道任何很酷的人工智能社区，人们在其中分享最新的人工智能工具和新闻？我一直在寻找新的东西来尝试和学习。如果您有任何建议，请告诉我！ 😊   由   提交 /u/Original_Nerve6819   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cxr0lz/looking_for_other_ai_communities_out_here/</guid>
-      <pubDate>Wed, 22 May 2024 03:45:07 GMT</pubDate>
     </item>
     <item>
       <title>让 AI 帮我筛选文章</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[我是一名技术产品经理，我很乐意使用对现有应用程序进行的大量 AI 增强功能，例如MS Office 等。 但我也在一家大公司工作，他们限制了你能想象到的所有可能的事情，甚至让你的工作电脑变得适度用户友好。正如标题所说，令我沮丧的是，我工作的速度/轻松程度受到落后组织的限制。还有人有同感吗？   由   提交 /u/VanquishShade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cxg7s5/are_you_frustrated_that_your_corporate_workplace/</guid>
       <pubDate>Tue, 21 May 2024 19:18:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习使用 AI 可使薪资增加 25%</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cx7xiq/learning_to_use_ai_can_increase_pay_by_25/</link>
-      <description><![CDATA[我发现这篇文章很有趣，但我不确定除了软件工程之外还有哪些工作需要人工智能，反正软件工程通常工资更高。有什么想法吗？ https： //www.cnn.com/2024/05/21/business/ai-jobs-higher-wages-productivity/index.html  &amp; #32；由   提交/u/CriticalTemperature1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cx7xiq/learning_to_use_ai_can_increase_pay_by_25/</guid>
-      <pubDate>Tue, 21 May 2024 13:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 拖累在线教育股。切格损失了 95%。学生不再需要它</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cwq6qm/chatgpt_brings_down_online_education_stocks_chegg/</link>
-      <description><![CDATA[Chegg 完了。这家在纽约证券交易所上市的公司（市值 4.7122 亿美元）通过解决学校家庭作业赚了数百万美元。Chegg 的工作方式是联系他们所谓的“专家”，通常是廉价的外包教师，这些教师由孩子的父母（包括大学生）支付报酬，让他们写出精美的论文或解决家庭作业数学问题。 Chegg 毫不尴尬地宣称自己是“获得家庭作业帮助”。正如 Chegg 所说，您可以“拍下您的家庭作业问题的照片，然后在几个小时内获得专家的解释”。“有争议”是描述它的一种方式。另一个更合适的短语是“大规模生产的有组织的作弊”。 但它不再需要了。 ChatGPT 可以即时免费解决所有任务，这使得这种商业模式难以为继。 Chegg 股价从 2021 年的历史最高点下跌了 95%，从每股 113 美元暴跌至 4 美元。 1 月，高盛分析师 Eric Sheridan 将 Chegg, Inc. 的评级从“中性”下调至“卖出”，并将目标价从 10 美元下调至 8 美元。跌幅高达每天 -12%。下降幅度如此之大，用对数刻度来表示会更好。 如果您在 2021 年初在 Chegg 投资了 10,000 美元，那么您的股票现在的价值将不到 500 美元。 查看此处的完整故事。    提交人    /u/FrontalSteel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cwq6qm/chatgpt_brings_down_online_education_stocks_chegg/</guid>
-      <pubDate>Mon, 20 May 2024 20:55:06 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
