@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 22 May 2024 00:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 03:11:31 GMT</lastBuildDate>
     <item>
       <title>GitHub 上有哪些 JavaScript、Python 和 Go 的新热门项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</link>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
+      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
       <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>Bigcapital - QuickBooks 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwhk1q/bigcapital_opensource_alternative_to_quickbooks/</link>
-      <description><![CDATA[  由    /u/AdInner8113  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/AdInner8113  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwhk1q/bigcapital_opensource_alternative_to_quickbooks/</guid>
       <pubDate>Mon, 20 May 2024 14:56:12 GMT</pubDate>
     </item>
