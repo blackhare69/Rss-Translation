@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 03:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 06:12:54 GMT</lastBuildDate>
     <item>
       <title>GPU Faker - 绕过 Arena Breakout Infinite 等游戏施加的 GPU 限制</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyitap/gpu_faker_bypass_gpu_limitations_imposed_by_games/</link>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 22 May 2024 20:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>显示 Reddit：文本区域元素的人工智能自动完成</title>
+      <title>显示 Reddit：文本区域元素的 AI 自动完成</title>
       <link>https://www.reddit.com/r/opensource/comments/1cy6nfi/show_reddit_ai_autocomplete_for_textarea_elements/</link>
       <description><![CDATA[https://github.com/maxmandia/autocomplete   由   提交/u/dougthenug   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cy6nfi/show_reddit_ai_autocomplete_for_textarea_elements/</guid>
@@ -83,9 +83,9 @@
       <pubDate>Tue, 21 May 2024 19:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>有人能推荐一个尊重隐私的开源、透明网络上的在线文件托管网站吗？</title>
+      <title>谁能推荐一个尊重隐私的明网开源在线文件托管网站？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</link>
-      <description><![CDATA[我的意思是一个可以上传文件的网站，它们只能通过链接访问，并且该网站没有跟踪器   由   提交/u/kekmacska7  [链接] [评论]]]></description>
+      <description><![CDATA[我的意思是一个我可以上传文件的网站，这些文件只能通过链接访问，并且该网站没有跟踪器    提交人    /u/kekmacska7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</guid>
       <pubDate>Tue, 21 May 2024 15:04:54 GMT</pubDate>
     </item>
@@ -97,16 +97,16 @@
       <pubDate>Tue, 21 May 2024 14:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/选项卡）| FOSS WebExtension - GitHub</title>
+      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/Tabs）| FOSS WebExtension - GitHub</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</link>
       <description><![CDATA[       由   提交 /u/RedditNoobie777   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</guid>
       <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
+      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
-      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
+      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
       <pubDate>Tue, 21 May 2024 05:48:05 GMT</pubDate>
     </item>
