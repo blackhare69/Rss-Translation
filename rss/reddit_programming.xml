@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 23 May 2024 00:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 03:10:42 GMT</lastBuildDate>
     <item>
-      <title>随机项目给不懂技术的人留下深刻印象</title>
-      <link>https://www.reddit.com/r/programming/comments/1cyft6s/random_project_to_impress_non_tech_savvy_people/</link>
-      <description><![CDATA[ 由   提交/u/Exact-Rabbit375  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cyft6s/random_project_to_impress_non_tech_savvy_people/</guid>
-      <pubDate>Thu, 23 May 2024 00:28:58 GMT</pubDate>
+      <title>Python：带有网络和移动应用程序的 Gmail Trello 连接器</title>
+      <link>https://www.reddit.com/r/programming/comments/1cyipnb/python_gmail_trello_connector_with_web_and_mobile/</link>
+      <description><![CDATA[ 由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cyipnb/python_gmail_trello_connector_with_web_and_mobile/</guid>
+      <pubDate>Thu, 23 May 2024 03:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 NPM 库：kv-to-json</title>
+      <link>https://www.reddit.com/r/programming/comments/1cyhwkc/my_first_npm_library_kvtojson/</link>
+      <description><![CDATA[ 由   提交 /u/notunlikecheckers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cyhwkc/my_first_npm_library_kvtojson/</guid>
+      <pubDate>Thu, 23 May 2024 02:16:54 GMT</pubDate>
     </item>
     <item>
       <title>使用 Vision-LLM 进行稳健的 Web 提取：使用 GPT-4o 来自任何 URL 的结构化数据</title>
@@ -29,7 +36,7 @@
     <item>
       <title>JsonB .Net 8 的列表列表 · 问题 #3172 · npgsql/efcore.pg</title>
       <link>https://www.reddit.com/r/programming/comments/1cycq6c/list_of_list_to_jsonb_net_8_issue_3172/</link>
-      <description><![CDATA[我打开了这个问题 (https: //github.com/npgsql/efcore.pg/issues/3172）在 efcore github 存储库上，碰巧有人有关于 .Net 8 和 jsonb 的经验或者已经解决了我在问题中描述的问题？  还有一个迷你存储库可以重现该错误。   由   提交/u/Ok_Skirt_8572   [链接] [评论]]]></description>
+      <description><![CDATA[我在 efcore github repo 上打开了这个问题 (https://github.com/npgsql/efcore.pg/issues/3172)，有人有关于 .Net 8 和 jsonb 的经验吗？或者已经解决了我在问题中描述的问题吗？ 还有一个可以重现该错误的迷你 repo。    提交人    /u/Ok_Skirt_8572   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cycq6c/list_of_list_to_jsonb_net_8_issue_3172/</guid>
       <pubDate>Wed, 22 May 2024 22:05:05 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 22 May 2024 16:31:19 GMT</pubDate>
     </item>
     <item>
-      <title>通向 Common Lisp 之路</title>
+      <title>Common Lisp 之路</title>
       <link>https://www.reddit.com/r/programming/comments/1cy4kpr/a_road_to_common_lisp/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cy4kpr/a_road_to_common_lisp/</guid>
       <pubDate>Wed, 22 May 2024 16:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算 B 树</title>
-      <link>https://www.reddit.com/r/programming/comments/1cy4dpf/counted_btrees/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cy4dpf/counted_btrees/</guid>
-      <pubDate>Wed, 22 May 2024 16:23:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
