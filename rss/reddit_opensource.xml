@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 06:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:11:04 GMT</lastBuildDate>
+    <item>
+      <title>FOSS 基本视频编辑器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cym8pp/foss_basic_video_editors/</link>
+      <description><![CDATA[我只是希望能够从视频中剪辑出某些部分，并将视频拼接在一起。我希望能够通过输入时间或帧编号来设置剪辑的开始和结束，而不仅仅是在“大约正确的时间”暂停。   p&gt; 在剪切之前播放我选择的部分（即在我选择的部分末尾自动暂停）  Avidemux 和 VidCutter 似乎都没有达到我想要的效果。小于 500MB 的文件是非常好的，但我会尽我所能。   由   提交/u/Iybraesil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cym8pp/foss_basic_video_editors/</guid>
+      <pubDate>Thu, 23 May 2024 06:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>GPU Faker - 绕过 Arena Breakout Infinite 等游戏施加的 GPU 限制</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyitap/gpu_faker_bypass_gpu_limitations_imposed_by_games/</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 22 May 2024 20:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>显示 Reddit：文本区域元素的 AI 自动完成</title>
+      <title>显示 Reddit：文本区域元素的人工智能自动完成</title>
       <link>https://www.reddit.com/r/opensource/comments/1cy6nfi/show_reddit_ai_autocomplete_for_textarea_elements/</link>
       <description><![CDATA[https://github.com/maxmandia/autocomplete   由   提交/u/dougthenug   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cy6nfi/show_reddit_ai_autocomplete_for_textarea_elements/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>寻找开源工作匹配平台。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</link>
-      <description><![CDATA[在我的公司，我们希望使用某种软件来帮助我们将人员与特定的职位列表相匹配。我发现了一些我们可以使用的 saas 选项，例如 RChilli、HiRize 或 TextKernel，但还没有看到任何可以实现我们想要的功能的开源选项。到目前为止，该项目的范围将是解析我们所有客户的简历，然后根据解析后的职位描述，返回最适合的人员列表。有谁知道一个好的开源项目可以帮助我们解决这个问题吗？   由   提交 /u/GroundZer01   [链接] [评论]]]></description>
+      <description><![CDATA[我公司希望使用某种软件来帮助我们将人员与特定职位列表进行匹配。我发现了一些我们可以使用 SaaS 选项，如 RChilli、HiRize 或 TextKernel，但还没有看到任何可以满足我们需求的开源选项。到目前为止，该项目的范围是解析我们所有客户的简历，然后根据解析后的职位描述返回最合适的人员列表。有谁知道一个好的开源项目可以帮助我们解决这个问题吗？    提交人    /u/GroundZer01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</guid>
       <pubDate>Tue, 21 May 2024 19:04:11 GMT</pubDate>
     </item>
     <item>
       <title>谁能推荐一个尊重隐私的明网开源在线文件托管网站？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</link>
-      <description><![CDATA[我的意思是一个我可以上传文件的网站，这些文件只能通过链接访问，并且该网站没有跟踪器    提交人    /u/kekmacska7   [链接] [评论]]]></description>
+      <description><![CDATA[我的意思是一个可以上传文件的网站，它们只能通过链接访问，并且该网站没有跟踪器   由   提交/u/kekmacska7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</guid>
       <pubDate>Tue, 21 May 2024 15:04:54 GMT</pubDate>
     </item>
@@ -97,14 +104,7 @@
       <pubDate>Tue, 21 May 2024 14:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/Tabs）| FOSS WebExtension - GitHub</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</link>
-      <description><![CDATA[       由   提交 /u/RedditNoobie777   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</guid>
-      <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
+      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
       <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
