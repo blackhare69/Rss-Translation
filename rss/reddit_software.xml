@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 06:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:08:32 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元关于我需要的详细信息和评论</title>
+      <link>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</link>
+      <description><![CDATA[我有许多旧杂志的 PDF 文件，这些杂志已不再印刷，而且已经有大约 30 年没有印刷了。我想要做的是进入 PDF 编辑器，在那里我可以更改页边距大小和页面大小，并添加来自 lulu.com 的模板，为自己打印一些单独的添加内容，这样我就可以像以前一样浏览它们当杂志还很流行的时候，我不需要专业的 PDF 编辑器，只需要可以轻松调整大小、压缩、组合和更改边距，还可以添加来自 lulu.com 的模板   由   提交 /u/thephillman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</guid>
+      <pubDate>Sat, 25 May 2024 08:46:07 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过这个吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 25 May 2024 05:36:21 GMT</pubDate>
     </item>
     <item>
-      <title>AI视频批量转录工具（590个MP4文件，1.2TB）</title>
+      <title>批量 AI 视频转录工具（590 个 MP4 文件，1.2TB）</title>
       <link>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</link>
       <description><![CDATA[我姐姐去年去世了。几年来，她创作了数百个精彩/富有洞察力的 YT 视频。我一直在关注（并使用多种）人工智能工具来处理各种事情，但不包括转录。我希望有人遇到了一个可以在本地运行的最新 (Windows) 工具，这样我就可以批量转录这 590 个视频，这样我就可以为她的孩子创建一个小搜索索引。有任何想法吗？或者我必须一次复制一份抄本？ :\   由   提交 /u/wiintah_was_broken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 24 May 2024 17:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>允许您编辑 HTML 来撰写邮件的电子邮件客户端？</title>
+      <title>电子邮件客户端允许您编辑 HTML 来撰写邮件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</link>
       <description><![CDATA[是否有任何电子邮件客户端可以让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但会接受 Linux 选项。   由   提交/u/cisco_bee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>适用于移动设备和 PC 的隐形 unicode</title>
+      <title>手机和电脑上不可见的unicode</title>
       <link>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</link>
       <description><![CDATA[是否存在在移动设备和 PC 上都看不见的 unicode？我不是在谈论空格，而是在谈论不可见的实际字符。   由   提交/u/Stab_me_goodnight  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 24 May 2024 10:01:24 GMT</pubDate>
     </item>
     <item>
-      <title>规则引擎和文本在Word模板引擎中创建</title>
+      <title>规则引擎与文本在word模板引擎中创建</title>
       <link>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</link>
       <description><![CDATA[有没有一个软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。如：输入：a1f -&gt;输出：“这是一个测试” 然后 3. 使用占位符中的这些文本段填写标准化的预格式化 Word 模板？   由   提交/u/pivo161  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</guid>
       <pubDate>Fri, 24 May 2024 07:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于创建剪贴簿/日记来记录我的愿望清单的最佳免费离线软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</link>
-      <description><![CDATA[我创建了一个遗愿清单，我想在努力完成每一项的同时，保留遗愿清单旅程的回忆。我正在寻找一款可以在 Windows 10 上离线运行的免费软件，能够录制带有时间戳的音频、视频、照片和文本。  我想过 OneNote，但找不到任何方法来创建仅离线的笔记本。我不想让遗愿清单上线，即使是意外的。尽管我可能会在我的 Facebook、个人网站或 YouTube 上分享遗愿清单的部分内容。  有什么最好的软件建议吗？    提交人    /u/Experimentalphone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</guid>
-      <pubDate>Fri, 24 May 2024 07:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
