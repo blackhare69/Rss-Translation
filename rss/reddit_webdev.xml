@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 May 2024 03:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:10:48 GMT</lastBuildDate>
+    <item>
+      <title>社交媒体网络应用程序项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</link>
+      <description><![CDATA[嘿伙计们，上周我分享了一个我热衷的项目，以便获得用户参与， https://sparkify.vercel.app  我希望你们尝试一下，我修复了上一篇文章中的一些建议。 Sparks 是一个社交人工智能驱动的平台。 如果你们有兴趣，我也可以分享 GitHub 存储库。    由   提交 /u/Additional_Hall_3034   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</guid>
+      <pubDate>Sun, 26 May 2024 03:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>注册商冻结帐户。域名已过期。追索权？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0smpq/registrar_blocked_account_domain_expired_recourse/</link>
+      <description><![CDATA[大家好，刚刚发现这个社区，希望不要在这里受到太多打击。  无论如何，我拥有一个域名已有 3 年了。我在上面运行了一个相当成功的博客和电子商务网站。现在，我去年用朋友的信用卡续签了。几个月后，我们吵了一架，从此关系不睦。无论如何，注册商会自动续订新的 CC。为了找回这位前朋友，他对卡进行了欺诈扣款。  注册商冻结帐户和域名进入 60 天宽限期。我一查看电子邮件就联系了注册商。从字面上请求他们允许我放置新的 CC，但他们要求我退回退款。我联系了银行，他们告诉我，因为不是我发起的，所以他们不能这样做。恳求前朋友。未能扭转纠纷。最终，域名过期了。  我现在可以做点什么吗？任何人都可以帮助我。我已经与多个注册商谈过了，他们告诉我你的注册商​​可以允许你这样做，但他们坚决不这样做。 我不希望命名该域名有人可以帮助我，所以请不要向我求助。 谢谢   由   提交 /u/Angellect   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0smpq/registrar_blocked_account_domain_expired_recourse/</guid>
+      <pubDate>Sun, 26 May 2024 03:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要登录/注册身份验证和授权帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d0shdj/need_help_for_loginregister_authentication_and/</link>
+      <description><![CDATA[我用 React 设置前端，用 Flask 设置后端。现在我有一个使用 reack hook 表单的登录和提交表单，但我正在努力寻找一种方法来验证和授权我的用户。我见过人们乱扔 auth0、clerk，我还看到了有关 React auth kit 的视频。我只是想知道是否可以获得一些指导。   由   提交/u/rodyli123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d0shdj/need_help_for_loginregister_authentication_and/</guid>
+      <pubDate>Sun, 26 May 2024 03:23:50 GMT</pubDate>
+    </item>
     <item>
       <title>如何在美国以外的国家/地区设置付款？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0rk4p/how_to_set_up_payment_in_a_country_that_isnt_in/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>我创建了一个 C++ 多项选择测验。请帮助我改进它。</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0mozo/ive_created_a_c_multiplechoice_quiz_please_help/</link>
-      <description><![CDATA[我创建了我的第一个 Web 项目 – 使用 ReactJS 构建的 C++ 编程语言多项选择测验。我很想得到您对 UI 和 UX 的反馈，并且我也对您的整体印象感兴趣。以下是该网站的链接： https://quiz-website-mocha.vercel.app/  提前致谢！   由   提交/u/denis527  [链接] [评论]]]></description>
+      <description><![CDATA[我已经创建了我的第一个 Web 项目 - 一个使用 ReactJS 构建的 C++ 编程语言的多项选择测验。我很想听听您对 UI 和 UX 的反馈，我也对您的整体印象感兴趣。以下是网站链接： https://quiz-website-mocha.vercel.app/ 提前致谢！    提交人    /u/denis527   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0mozo/ive_created_a_c_multiplechoice_quiz_please_help/</guid>
       <pubDate>Sat, 25 May 2024 22:00:46 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Sat, 25 May 2024 20:25:02 GMT</pubDate>
     </item>
     <item>
-      <title>新手付费开发网站</title>
+      <title>菜鸟为开发的网站付费</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0k5n9/a_noob_paying_for_a_developed_website/</link>
       <description><![CDATA[大家好， 我需要为我创建一个网站，我将使用 Fiverr 的人员，但在此之前我已经有几个问题... 我需要购买域名并且可能会使用 Namecheap。我知道保留域名需要一次性费用和每年费用。为什么有些提供托管服务？这个有必要吗？如果我的网站是在 WordPress 上创建的，我想不会吧？抱歉，如果这是一个愚蠢的问题。 除此之外，如果我选择某人在 WordPress、Wix 或 Square Space（这些似乎是 Fiverr 上最常见的选项）中为我创建一个网站，我是否需要向该网站支付每月订阅费用？或者这是他们的模板？我想支付域名费用并请某人为我创建一个网站，并且如果可能的话不收取月费？ 最后，当我购买域名时，我不会自动获得访问权限吗？其匹配的电子邮件域还是我需要考虑的另一项费用？ 抱歉，如果所有这些问题都很愚蠢，我们将不胜感激。   由   提交 /u/G22RGE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0k5n9/a_noob_paying_for_a_developed_website/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/ammuench  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0jboo/i_built_a_simple_personal_reading_list_book/</guid>
       <pubDate>Sat, 25 May 2024 19:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个人工智能驱动的网站来生成域名建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0japv/i_made_an_aidriven_website_to_generate_domain/</link>
-      <description><![CDATA[       由   提交/u/teaganga  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0japv/i_made_an_aidriven_website_to_generate_domain/</guid>
-      <pubDate>Sat, 25 May 2024 19:16:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 转换时间戳</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0ja7v/showoff_saturday_сonvert_timestamps/</link>
-      <description><![CDATA[       由   提交/u/webvagus  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0ja7v/showoff_saturday_сonvert_timestamps/</guid>
-      <pubDate>Sat, 25 May 2024 19:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shovel 简介：一款用于深度工作的极简生产力应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0j9hq/introducing_shovel_a_minimalist_productivity_app/</link>
-      <description><![CDATA[      大家好， 我想分享一个我一直在开发的名为 Shovel 的生产力应用程序。它旨在通过将所有内容放在一个地方来帮助您集中注意力并完成深入的工作。 Shovel 包括：  日记 时间跟踪器&lt; /li&gt; 每日签到 目标和任务 多用户房间（即将推出聊天功能！）  干净，极简界面旨在帮助您保持心流状态并尽最大努力工作。您可以自定义主题，而且它是完全免费和开源的。 我还提供了访客模式，可将数据存储在浏览器的本地存储中，因此您无需创建帐户即可试用。  如果您有兴趣尝试 Shovel，我会在评论中发布链接。我很想听听您的想法和反馈 - 网站上有一个论坛，您可以在其中分享您的想法并与其他用户联系。我还有一个开发博客，我在其中发布有关新功能和改进的更新。 https://preview.redd.it/w2jyb3wsgm2d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=bcd3c92407ed1c8c0ea1edaf493188f1ee eec758    由   提交/u/jamesfy49  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0j9hq/introducing_shovel_a_minimalist_productivity_app/</guid>
-      <pubDate>Sat, 25 May 2024 19:14:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
