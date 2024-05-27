@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 May 2024 09:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 12:13:38 GMT</lastBuildDate>
+    <item>
+      <title>用于评估新闻文章整体情绪的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1q0ij/ai_tool_for_evaluating_news_article_for_overall/</link>
+      <description><![CDATA[谁能推荐一个人工智能工具来评估文章及其整体情绪？它将有 5 个不同的类别供其回答和收集信息。因此，它需要接收下面的 5 个具体输入，然后扫描文章以完成它 1 合法性：裸盖菇素是否仅仅被视为非法物质（负面），还是应该被视为合法的物质？医疗治疗（积极）？ 2 作用方式：裸盖菇素是否被视为对使用者有身体损害（消极）或身体有益（积极）？ 3 个人影响：裸盖菇素是否被视为对使用者有身体伤害（消极）或身体有益（积极）？被视为对用户心理有害（负面）还是心理有益（正面）？ 4 科学诚信：裸盖菇素研究是否被视为伪科学（负面）或严谨严肃（正面）？ &lt; p&gt;5 社会影响：除了使用者之外，裸盖菇素是否被视为对社会有害（负面）或有益（正面）？    由   提交 /u/Aikooooooooooo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1q0ij/ai_tool_for_evaluating_news_article_for_overall/</guid>
+      <pubDate>Mon, 27 May 2024 12:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为云开发人员从哪里开始学习人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ojn0/where_to_start_learning_about_ai_as_an_cloud/</link>
+      <description><![CDATA[我是一名云开发人员，有兴趣了解人工智能（我对此几乎一无所知）。有哪些适合开发人员开始学习人工智能的好课程？我了解 Microsoft 和 AWS 等供应商的特定认证，但我希望有更广泛/理论上的更多视角来了解基础知识/基础知识，而不必过多关注技术。    由   提交 /u/UnityOfPurpose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ojn0/where_to_start_learning_about_ai_as_an_cloud/</guid>
+      <pubDate>Mon, 27 May 2024 10:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以接收文本并按照给定的节拍“唱出”它吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1of25/ai_that_takes_text_and_sings_it_over_a_given_beat/</link>
+      <description><![CDATA[嘿，我有一个非常具体的问题。 我想问是否有人可以推荐一个网站或软件我可以上传我自己的节拍，完成后然后写我自己的歌词。 AI 会将我以散文形式、以多种不同形式和风格编写的这些歌词（英文）插入到我上传的节拍上。音色几乎无关紧要。我只是需要它作为拐杖。 提前致谢。   由   提交 /u/GalicateEscobar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1of25/ai_that_takes_text_and_sings_it_over_a_given_beat/</guid>
+      <pubDate>Mon, 27 May 2024 10:24:34 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一套适用于 YouTube 频道的工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1nc67/looking_for_a_set_of_tools_for_a_youtube_channel/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>通过 API 根据提示生成线框</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ko7k/generate_wireframes_from_a_prompt_via_api/</link>
-      <description><![CDATA[我有一个简单的问题要问你们。 是否有 AI 工具可以通过 API 根据提示生成线框？  理想情况下我想做的是：提示 -&gt; make.com -&gt;线框（图像）   由   提交 /u/IntellectualAINC   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个简单的问题要问你们。 是否有可以通过 API 从提示生成线框的 AI 工具？ 理想情况下，我想要做的是：提示 -&gt; make.com -&gt; 线框（图像）    提交人    /u/IntellectualAINC   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ko7k/generate_wireframes_from_a_prompt_via_api/</guid>
       <pubDate>Mon, 27 May 2024 05:53:10 GMT</pubDate>
     </item>
@@ -55,16 +76,9 @@
       <pubDate>Mon, 27 May 2024 02:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>这是 2062 年。选举时间到了。你投票给谁？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1gsaa/its_the_year_2062_its_election_time_who_do_you/</link>
-      <description><![CDATA[ 由   提交/u/AcceptableAd7478   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1gsaa/its_the_year_2062_its_election_time_who_do_you/</guid>
-      <pubDate>Mon, 27 May 2024 01:54:59 GMT</pubDate>
-    </item>
-    <item>
       <title>艾未未能否解决师资短缺问题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</link>
-      <description><![CDATA[我记得 90 年代的互联网非常专业；显然，从那时起它已经取得了长足的发展。 只是在学习方面很棘手。比如有人可能会用它来学习如何制作冰毒；比如人工智能的教学能力——无论它们是什么——如何能占据一个不会最终让它走上那条路的位置？    提交人    /u/heavensdumptruck   [link] [评论]]]></description>
+      <description><![CDATA[我记得 90 年代的互联网非常专业化；显然，从那时起，它已经走了这么远。在学习方面，这很棘手。就像有人可能用它来学习如何烹饪冰毒一样；就像人工智能的教学能力——无论它们是什么——如何占据一个最终不会让它走上这条路的位置？   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</guid>
       <pubDate>Mon, 27 May 2024 00:16:50 GMT</pubDate>
     </item>
@@ -81,20 +95,6 @@
       <description><![CDATA[世界的基于机器学习的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 1000 多名专业人士正在阅读它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d16cxl/miss_ai_worlds_first_beauty_contest_with_computer/</guid>
       <pubDate>Sun, 26 May 2024 17:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>忽视 CoPilot（和其他 GenAi 生产力增强功能）的公司多久会陷入严重不利境地？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d13pmb/how_soon_companies_who_ignore_copilot_and_other/</link>
-      <description><![CDATA[背景：我在一家大型 B2C 零售商工作，该零售商忽视了对培训和生产力工具的投资。 MS Office 副驾驶就是一个重要的例子。原因是——现在没有用于新服务和许可证的 IT 预算。这对我来说听起来完全是无稽之谈，但我无法联系到负责的总经理。我目前的薪水很高，但我害怕成为一家严重落后于行业的公司的一部分。你认为这种无知能够安全且不受惩罚多久？竞争对手多久才能开始通过更具生产力的劳动力或爱人的间接支出（劳动力成本）或通过能够吸引更好的人才来获得比我们更大的优势？    由   提交/u/snorty_hedgehog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d13pmb/how_soon_companies_who_ignore_copilot_and_other/</guid>
-      <pubDate>Sun, 26 May 2024 15:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能热潮带来巨大收益后，英伟达将进行 10 股拆股</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</link>
-      <description><![CDATA[当一家公司分割股票时，它赚多少钱并不会改变，但每股会变得更便宜，这可以让小投资者感觉更好。英伟达在一份新闻稿中表示，股票分割将使“员工和投资者”更有可能拥有所有权。在此处阅读更多信息   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d10cm8/nvidia_to_split_stock_10for1_after_big_gains_from/</guid>
-      <pubDate>Sun, 26 May 2024 12:32:15 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>

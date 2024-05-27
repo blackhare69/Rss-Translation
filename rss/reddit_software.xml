@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 May 2024 09:09:27 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Mon, 27 May 2024 12:14:31 GMT</lastBuildDate>
     <item>
       <title>导出已保存的 Reddit 帖子</title>
       <link>https://www.reddit.com/r/software/comments/1d1m6rl/exporting_saved_reddit_posts/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>有没有什么软件可以在我的电脑上下载 YouTube 播放列表中的音频？</title>
       <link>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</link>
-      <description><![CDATA[任何与 Windows 10/11 兼容的软件    由    /u/n00kland  提交  [链接] [评论]]]></description>
+      <description><![CDATA[任何与 Windows 10/11 兼容的软件   由   提交/u/n00kland  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</guid>
       <pubDate>Mon, 27 May 2024 02:38:59 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>X 鼠标按钮控制图层</title>
       <link>https://www.reddit.com/r/software/comments/1d1e6m7/xmouse_button_controls_layers/</link>
-      <description><![CDATA[我正在使用应用程序 X-Mouse Button Controls (XMBC）并且它具有图层功能。然而，无论我选择哪一层，只有第 1 层处于活动状态。理想情况下，我希望能够在层之间切换（它确实有一个热键设置，但即使全局热键打开，这些设置也不起作用）并且一次只有 1 个层处于活动状态。 这将允许我将 1 个鼠标按钮设置为多个按键并在它们之间随意切换。 任何熟悉此应用程序的人愿意帮助我吗？  &amp;# 32；由   提交 /u/Wafelze   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用应用程序 X-Mouse Button Controls (XMBC)，它具有图层功能。但是，无论我选择了哪个图层，只有第 1 层处于活动状态。理想情况下，我希望能够在图层之间切换（它确实有一个热键设置，但即使启用了全局热键，这些设置也不起作用），并且一次只能激活 1 个图层。 这将允许我将 1 个鼠标按钮设置为多个键，并随意在它们之间切换。 有谁熟悉这个应用程序愿意帮助我吗？    提交人    /u/Wafelze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1e6m7/xmouse_button_controls_layers/</guid>
       <pubDate>Sun, 26 May 2024 23:31:34 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>鳄鱼慢速</title>
       <link>https://www.reddit.com/r/software/comments/1d1cpvt/croc_slow_speeds/</link>
-      <description><![CDATA[大家好，我和我兄弟使用 croc 时发现下载速度非常慢。 https://github.com/schollz/croc 我使用 croc 在家里的计算机之间传输文件，速度很快一直很好。我们尝试关闭防火墙并且不使用防病毒软件。  任何有关此事的信息将不胜感激，谢谢。   由   提交/u/Humbaba3344   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我和我兄弟之间使用 croc 时发现下载速度非常慢。 https://github.com/schollz/croc 我使用 croc 在家庭计算机之间传输文件，速度一直很好。我们尝试关闭防火墙，并且不使用防病毒软件。  如能提供有关此事的任何信息，我们将不胜感激，谢谢。    提交人    /u/Humbaba3344   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1cpvt/croc_slow_speeds/</guid>
       <pubDate>Sun, 26 May 2024 22:18:01 GMT</pubDate>
     </item>

@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 09:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 12:15:12 GMT</lastBuildDate>
     <item>
       <title>适合初学者的云架构 Python 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[因此，我花了两年时间致力于我的第一个大型开源项目。现在，它的第一个候选版本已经达到了某种稳定状态。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。此外，文件查找不连接到互联网。  您可以在以下位置查看它：  https://github.com/Pixel-Master/File-Find  或访问网站： https://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没有弄清楚。 如果您尝试一下并报告问题，那将非常友善。    提交人    /u/PixelMqster   [link] [comments]]]></description>
+      <description><![CDATA[过去两年我一直在致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>是否有 uad（通用 Android 清理工具）的替代品或更新版本？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</link>
-      <description><![CDATA[官方 repo 已经停用数月了，我刚刚尝试卸载 Android 手机中的一些臃肿系统应用程序，但“卸载选择”按钮没有任何反应，所以......什么都没发生。而且由于我已经多次使用它，并且过去它运行良好......所以我不认为我这边出了什么问题。    提交人    /u/Biggus_Niggus_   [link] [评论]]]></description>
+      <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
       <pubDate>Sun, 26 May 2024 10:52:43 GMT</pubDate>
     </item>
