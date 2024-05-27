@@ -4,92 +4,106 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 27 May 2024 12:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 18:03:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该项目提供了一个最小的 Docker 基础镜像，旨在简化 c [...]</title>
-      <link>https://t.me/hn_summary/91693</link>
-      <description><![CDATA[最小化 Docker 基础镜像以简化 X 图形应用程序容器的创建
-该项目提供了一个最小的 Docker 基础镜像，旨在简化在无头服务器上运行 X 图形应用程序的容器的创建。这些应用程序的 GUI 可以通过 Web 浏览器或任何 VNC 客户端访问，无需客户端安装或配置。基础镜像包含 TigerVNC、Openbox、noVNC 和 NGINX 等基本组件，并支持 Alpine、Debian 和 Ubuntu 等各种 Linux 发行版。主要优势包括体积小、安全性和资源效率，尤其是在使用 Alpine Linux 时。该项目还通过环境变量提供广泛的定制并支持安全连接。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/91693</guid>
-      <pubDate>Mon, 27 May 2024 12:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国住房市场变得越来越难以承受，租金上涨，飙升 [...]</title>
-      <link>https://t.me/hn_summary/91692</link>
-      <description><![CDATA[价格超出房屋所有权
-美国房地产市场变得越来越难以负担，租金上涨、房价飙升以及抵押贷款利率上升，使得拥有住房对许多人来说似乎遥不可及。内森·威尔金斯 (Nathan Wilkins) 为了省钱搬回来与家人同住，现在他发现自己每月要花 2,500 美元的房租，感觉自己“在玩一场你赢不了的游戏”。自 2019 年以来，房屋售价中位数上涨了近 30%，抵押贷款利率增加了一倍多。即使像梅根·霍尔特这样设法买房的人也面临着高利率，并且必须对生活做出重大改变。这个问题导致了普遍的经济悲观情绪和政治幻灭，尤其是在年轻选民中。拜登总统政府提出了解决负担能力问题的措施，但短期影响有限。美联储的潜在降息也存在不确定性，加剧了市场的悲观情绪。一些分析师认为最终会有所改善，但其他人，如布雷登·多格蒂（Braiden Dogherty），仍然持怀疑态度，担心未来十年将是艰难的。]]></description>
-      <guid>https://t.me/hn_summary/91692</guid>
-      <pubDate>Mon, 27 May 2024 11:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年 10 月，我构建了一个复杂的 PSU，最初运行良好，为我的 LED Superlamp 供电 [...]</title>
-      <link>https://t.me/hn_summary/91691</link>
-      <description><![CDATA[我的新 PSU 烧坏了，我修复了它，并通过破解来折磨它水
-2023 年 10 月，我构建了一个复杂的 PSU，最初运行良好，为我的 LED Superlamp 供电整个冬天。然而，一个春天的一天，它闲置的时候却散发出一股烧焦的味道。经检查，发现PCB走线被烧毁，很可能是高压走线之间间隙不足，导致短路。令人惊讶的是，除了损坏的晶体管外，所有组件均保持完好。维修后，我使用电解装置测试了 PSU，效果良好，展示了 PSU 的弹性。这一事件凸显了 PCB 设计中适当的爬电距离对于防止未来发生故障的重要性。尽管存在这些缺陷，我仍然谨慎地继续使用 PSU。]]></description>
-      <guid>https://t.me/hn_summary/91691</guid>
-      <pubDate>Mon, 27 May 2024 10:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]C++ 核心指南是一份持续改进的动态文档，旨在帮助 [...]</title>
-      <link>https://t.me/hn_summary/91690</link>
-      <description><![CDATA[C++ 核心指南
-C++ 核心指南是一个持续改进的动态文档，旨在帮助开发人员有效地使用现代 C++（C++20、C++17）。该指南重点关注接口、资源管理和并发性等高层问题，提倡类型安全、无资源泄漏且高效的代码。虽然某些规则可能看起来很严格或与经验相反，但它们旨在提高代码质量和可维护性。这些准则并非详尽无遗，也不是在每个细节上都具有可执行性，但可以作为新代码的理想选择和改进旧代码的机会。鼓励贡献和反馈以完善和扩展指南。有争议的是，某些规则可能会禁止合法的 C++ 实践以防止常见错误，这可能并不适合所有程序员。 （根据故事文本的 1% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/91690</guid>
-      <pubDate>Mon, 27 May 2024 10:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]华尔街即将迎来多年来最大的交易变化</title>
-      <link>https://t.me/hn_summary/91689</link>
-      <description><![CDATA[华尔街即将看到多年来最大的交易变化
-华尔街即将看到多年来最大的交易变化
+      <title>网站：www.getaprototype.com</title>
+      <link>https://t.me/hn_summary/91740</link>
+      <description><![CDATA[显示 HN：使用反应游乐场
+标题：Show HN：使用 React Playground 将提示或图像转换为用户界面
+网站：www.getaprototype.com
 
-从下周二开始，券商交易的结算周期将从“T+2”转变为“T+1”，这意味着交易将在一个工作日内结算，而不是两个工作日。这一变化旨在增强市场弹性和流动性，但预计最初会出现一些波动。此举在一定程度上是对 2021 年 meme 股票狂潮的回应，该狂潮暴露了当前系统的风险。像贝尔德这样的金融公司正在准备顺利过渡。此外，波音公司将向美国联邦航空局提交一项解决质量问题的计划，Meta 为其人工智能战略任命了一个全白人男性顾问小组，但因缺乏多样性而受到批评。]]></description>
-      <guid>https://t.me/hn_summary/91689</guid>
-      <pubDate>Mon, 27 May 2024 10:07:17 GMT</pubDate>
+访问 GetAPrototype.com 探索终极专业生成式 UI 平台。这种创新工具允许您使用 React Playground 轻松地将提示或图像转换为功能齐全的用户界面。它的设计效率极高，声称不到一个小时就能收回成本。最重要的是，您无需提供信用卡即可尝试。该平台因其简化 UI 创建过程的独特能力而脱颖而出，使其成为开发人员和设计师的必试之选。]]></description>
+      <guid>https://t.me/hn_summary/91740</guid>
+      <pubDate>Mon, 27 May 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家发现进化悖论；</title>
-      <link>https://t.me/hn_summary/91688</link>
-      <description><![CDATA[科学家发现进化论中的悖论；它可能成为生物学的下一个规则
-南加州大学的研究人员提出了一种新的生物学规则，称为“选择性有利不稳定性”（SAI），这表明蛋白质和基因等细胞成分的不稳定性可以使细胞受益。这挑战了生命追求稳定的传统观点。 SAI 可以促进遗传多样性和适应性，但它​​也有缺点，例如导致衰老和细胞功能障碍。这个概念与混沌理论和细胞意识相一致，表明其作为基本生物学原理的潜力。了解 SAI 可以彻底改变我们对细胞生命和衰老等过程的探索。这项研究发表于Frontiers in Aging。]]></description>
-      <guid>https://t.me/hn_summary/91688</guid>
-      <pubDate>Mon, 27 May 2024 10:06:13 GMT</pubDate>
+      <title>[媒体]在这篇文章中，我对难民家庭遭到轰炸表示深切哀悼和愤慨[...]</title>
+      <link>https://t.me/hn_summary/91739</link>
+      <description><![CDATA[拉法和国际法院的种族灭绝
+在这篇文章中，我对以色列轰炸拉法难民家庭表示深切哀悼和愤慨，我将以色列描述为恐怖实体。我批评西方国家的同谋，并强调主流媒体和政治人物对国际法院秩序的歪曲。国际法院明确命令以色列停止对拉法的军事进攻，但媒体和政界人士错误地声称继续行动有“回旋余地”。我认为这种误解在语法上是不可能的，并谴责英国工党基于这种错误的叙述支持以色列。这一刻暴露了西方对国际法的放弃。我敦促读者确保这个问题在政治竞选中不会被忽视，并要求自愿订阅以维持我的博客，该博客的运营没有国家或公司的资助。]]></description>
+      <guid>https://t.me/hn_summary/91739</guid>
+      <pubDate>Mon, 27 May 2024 17:51:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rete 算法，由 Charles L. 开发</title>
-      <link>https://t.me/hn_summary/91687</link>
-      <description><![CDATA[Rete算法
-Rete 算法由卡内基梅隆大学的 Charles L. Forgy 在 20 世纪 70 年代开发，是一种模式匹配算法，旨在高效实现基于规则的系统。它通过构建代表规则模式的节点网络来解决朴素专家系统的低效率问题。随着事实的添加或修改，它们会通过该网络传播，并在满足所有条件时触发规则。该算法牺牲内存来提高速度，显着优于简单的实现，但在非常大的系统中可能会面临内存问题。 Rete 是许多规则引擎（例如 CLIPS、Jess 和 Drools）的基础。它使用匹配-解析-行动循环进行前向链接和推理，并采用 alpha 和 beta 网络进行高效的数据处理。冲突解决和生产执行与算法一起管理，确保最佳的规则触发序列。该算法还支持存在量化和通用量化等高级功能。
+      <title>[媒体]Tantivy 是一个用 Rust 编写的快速全文搜索引擎库，受到 Apache 的启发 [...]</title>
+      <link>https://t.me/hn_summary/91738</link>
+      <description><![CDATA[Tantivy – 受 Apache Lucene 启发的全文搜索引擎库
+Tantivy 是一个用 Rust 编写的快速全文搜索引擎库，受到 Apache Lucene 的启发。与 Elasticsearch 或 Apache Solr 不同，Tantivy 不是现成的搜索引擎，而是用于构建自定义搜索引擎的箱子。它提供全文搜索、可配置分词器、BM25 评分、短语查询、增量和多线程索引以及分面搜索等功能。 Tantivy 因其速度而闻名，基准测试显示它的速度大约是 Lucene 的两倍。它支持各种数据类型并提供命令行界面以方便设置。不支持分布式搜索，但Quickwit提供了此功能。]]></description>
+      <guid>https://t.me/hn_summary/91738</guid>
+      <pubDate>Mon, 27 May 2024 17:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.coursera.org</title>
+      <link>https://t.me/hn_summary/91737</link>
+      <description><![CDATA[红队 LLM 申请的 Coursera
+标题：Coursera 红队 LLM 申请
+网站：www.coursera.org
 
-争议：在大型系统中，内存使用和速度之间的权衡可能会出现问题，从而导致严重的内存和服务器消耗问题。
+了解如何测试和查找 LLM 应用程序中的漏洞以使其更安全。在本课程中，您将使用提示注入来攻击各种聊天机器人应用程序，以查看系统如何反应并了解安全故障。法学硕士失败可能会导致法律责任、声誉受损和代价高昂的服务中断。本课程可帮助您主动降低这些风险。学习经过行业验证的红队技术，以主动测试、攻击和提高 LLM 申请的稳健性。在本课程中：
 
-独特/聪明的方面：使用网络结构消除冗余并有效管理部分匹配是一种聪明的优化，可以显着提高性能。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/91687</guid>
-      <pubDate>Mon, 27 May 2024 09:41:01 GMT</pubDate>
+1. 探索LLM绩效评估的细微差别，并了解基准基础模型和测试LLM应用之间的差异。
+2. 概述基本的 LLM 应用程序漏洞以及它们如何影响实际部署。
+3. 通过手动和自动 LLM 红队方法获得实践经验。
+4. 观看红队评估的完整演示，并应用整个课程中涵盖的概念和技术。
+
+完成本课程后，您将对如何在自己的应用程序上试验 LLM 漏洞识别和评估有一个基本的了解。]]></description>
+      <guid>https://t.me/hn_summary/91737</guid>
+      <pubDate>Mon, 27 May 2024 17:34:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我对推特失去了所有兴趣。</title>
-      <link>https://t.me/hn_summary/91686</link>
-      <description><![CDATA[Twitter 现在是注意力轮盘赌，最终毫无意义
-我对 Twitter 失去了所有兴趣。该平台的算法变化使其变成了毫无意义的注意力轮盘游戏。高质量的内容创作不再受到奖励，而且无论关注者数量或努力如何，大多数帖子的浏览量都很少。该平台现在充满了点击诱饵、低效帖子和反反复复的废话。病毒式帖子让人感觉很肤浅，除了 Twitter 之外没有任何实际影响。即使有超过 2 万的关注者，我的推文也几乎没有得到任何关注。我看到的内容大多是垃圾，登录感觉就像在吃垃圾食品。 Twitter 已经成为一个孤立的注意力机器，就像 TikTok 一样，尤其是自从埃隆·马斯克接手以来。我已经转向阅读书籍、博客文章和参与当地关系。我什至为我最喜欢的博客构建了个人搜索引擎。 Google 和 Twitter 等平台的衰落标志着向新的去中心化解决方案的令人兴奋的转变。]]></description>
-      <guid>https://t.me/hn_summary/91686</guid>
-      <pubDate>Mon, 27 May 2024 09:30:51 GMT</pubDate>
+      <title>[媒体] 网站：arxiv.org</title>
+      <link>https://t.me/hn_summary/91736</link>
+      <description><![CDATA[使用基于 Wi-Fi 的定位系统监视群众
+标题：利用基于 Wi-Fi 的定位系统监视大众
+网站：arxiv.org
+
+摘要：
+本文探讨了基于 Wi-Fi 的定位系统 (WPS) 用于大规模监控的功能和影响。通过利用现有的 Wi-Fi 基础设施，WPS 可以以惊人的精度跟踪设备的位置，从而引发严重的隐私问题。作者深入研究了 WPS 的技术方面，包括信号三角测量和数据分析，同时还讨论了安全和零售领域的潜在应用。有争议的是，该论文强调了平衡公共安全与个人隐私权的道德困境。这项研究的独特之处在于探讨了 WPS 如何成为技术进步的福音和入侵监视的潜在工具。]]></description>
+      <guid>https://t.me/hn_summary/91736</guid>
+      <pubDate>Mon, 27 May 2024 17:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一起事件中，一辆处于完全自动驾驶 (FSD) 模式的特斯拉未能检测到移动 [...]</title>
-      <link>https://t.me/hn_summary/91685</link>
-      <description><![CDATA[特斯拉“自动驾驶”技术未能检测到前方行驶的火车崩溃
-在最近发生的一起事故中，一辆处于全自动驾驶（FSD）模式的特斯拉未能检测到正在行驶的火车，从而导致撞车事故。尽管可以看到闪烁的红灯和移动的棚车，多蒂驾驶的汽车还是偏离了道路并撞上了铁路道口臂。双手放在方向盘上的多蒂手动干预，但无法阻止碰撞。去年 11 月，他报告了类似的火车险情。特斯拉的 FSD 作为高级驾驶员辅助功能进行营销，但其功能和安全性面临着审查和监管调查。多蒂将事故视频发布到网上，该视频在网上疯传，但特斯拉尚未做出回应。争议在于特斯拉将 FSD 宣传为近乎自动驾驶，尽管需要驾驶员主动监督，从而导致了此类事件。]]></description>
-      <guid>https://t.me/hn_summary/91685</guid>
-      <pubDate>Mon, 27 May 2024 08:45:34 GMT</pubDate>
+      <title>[媒体]马其顿大帝亚历山大三世的统治？</title>
+      <link>https://t.me/hn_summary/91735</link>
+      <description><![CDATA[马其顿大帝亚历山大三世的统治？第二部分
+在我们探索马其顿的亚历山大三世（俗称亚历山大大帝）的第二部分中，我们将焦点从他的军事实力转移到他作为国王和行政长官的角色。亚历山大的行政方式的特点是不断迁徙，很少返回他所征服的地区。他的治理往往是出于权宜之计，使波斯的行政体系基本保持不变，但用马其顿或伊朗贵族取代了波斯总督。亚历山大建立了许多城市，主要作为军事控制中心而不是文化中心。他的统治是支离破碎的，采用了多个头衔来使他的征服合法化，例如埃及的法老和巴比伦的世界之王。值得注意的是，他对被征服城市的对待可能是残酷的务实，从他在提尔和加沙的严厉行动中可以看出。这种描绘挑战了亚历山大作为一贯仁慈的征服者的流行形象，揭示了一个更加复杂且往往残酷的领导者。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91735</guid>
+      <pubDate>Mon, 27 May 2024 17:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Li Huang 和 c [...] 的论文“正式验证的部署软件系统的经验教训”</title>
-      <link>https://t.me/hn_summary/91684</link>
-      <description><![CDATA[正式验证的已部署软件系统的经验教训
-Li Huang 及其同事撰写的论文《形式化验证部署软件系统的经验教训》探讨了形式化软件验证的实际好处，这项技术已经取得了重大进步。作者研究了机械检查的正确性证明是否可以超越昂贵的、生命攸关的项目，并且可以在软件行业中广泛应用。通过调查已成功部署正式验证系统的各种项目，本文检查了所使用的技术、所采用的验证方法以及所取得的成果。本文的扩展版本提供了全面的分析，为软件行业利用形式验证技术提供了宝贵的见解。值得注意的是，关于这些方法的实用性和广泛适用性存在相当多的争论。]]></description>
-      <guid>https://t.me/hn_summary/91684</guid>
-      <pubDate>Mon, 27 May 2024 08:01:17 GMT</pubDate>
+      <title>[媒体]2021 年 12 月，大英博物馆的例行检查发现 [...]</title>
+      <link>https://t.me/hn_summary/91734</link>
+      <description><![CDATA[大英博物馆宝石在 eBay 上出售 - 盗窃案是如何曝光的&lt; /a&gt;
+2021年12月，大英博物馆的一次例行检查发现希腊和罗马部门的物品丢失，引发了秘密调查。到了四月，在部门主管彼得·希格斯（Peter Higgs）的监督下，聘请了一位策展人来检查每件物品。馆长发现 300 多件已登记的物品受损或被盗，其中许多都带有黄金镶嵌物，并在储藏室中发现了 1,161 件未登记的物品丢失。尽管希格斯试图推迟报告研究结果，但馆长的坚持使博物馆馆长哈特维格·费舍尔和主席乔治·奥斯本得知了这一信息。这与 Gradel 博士之前提出的怀疑不谋而合，表明存在重大内部问题。]]></description>
+      <guid>https://t.me/hn_summary/91734</guid>
+      <pubDate>Mon, 27 May 2024 17:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：blog.jgc.org</title>
+      <link>https://t.me/hn_summary/91733</link>
+      <description><![CDATA[使用 Flipper Zero 控制 Taylor Swift Eras Tour 腕带 
+标题：用 Flipper Zero 控制 Taylor Swift Eras 巡演腕带
+网站：blog.jgc.org
+
+许多大型音乐会都配备了可根据指令发光的腕带，在体育场内创造出令人惊叹的视觉效果。 PixMob 是一家专门生产这些腕带的公司，目前正在为泰勒·斯威夫特的 Eras Tour 提供 X2 产品。这些腕带专为重复使用而设计，包含两节电池、带 RGB LED 的电路板、微控制器、EEPROM 和用于接收信号的红外二极管。 PixMob 使用大型可移动红外遥控器来传输命令，实现各种灯光效果。有趣的是，围绕这项技术出现了一个逆向工程社区，GitHub 存储库记录了他们的工作。值得注意的是，Flipper Zero 设备可以控制这些腕带，如视频中所示，腕带逐渐变为橙色。这种简单而有效的技术展示了令人印象深刻的视觉功能。]]></description>
+      <guid>https://t.me/hn_summary/91733</guid>
+      <pubDate>Mon, 27 May 2024 17:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Brainbase 类似于内部工具的 Retool，正在彻底改变人工智能劳动力格局。</title>
+      <link>https://t.me/hn_summary/91732</link>
+      <description><![CDATA[Brainbase (YC W24) 正在招聘
+Brainbase 类似于内部工具的 Retool，正在彻底改变人工智能劳动力格局。很快，人工智能员工将成为每家公司不可或缺的一部分，而 Brainbase 使企业能够创建企业级人工智能员工来执行从销售到客户支持等各种任务。 Brainbase 成立于 2024 年 1 月，已实现 ARR 超过 10 万的里程碑，并获得了顶级公司和著名创始人的种子资金。该公司正在寻找足智多谋、有弹性、果断、具有编码经验的个人来担任高级代理职位。 Brainbase 的独特之处在于即使在运营角色中也需要技术知识，以确保对工程和销售工作的全面了解。]]></description>
+      <guid>https://t.me/hn_summary/91732</guid>
+      <pubDate>Mon, 27 May 2024 17:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Ubicloud 已成功启用 ARM64 虚拟机，利用基于 ARM 的 CP 的优势 [...]</title>
+      <link>https://t.me/hn_summary/91731</link>
+      <description><![CDATA[我们如何启用 ARM64 VM
+Ubicloud 已成功启用 ARM64 虚拟机，利用基于 ARM 的 CPU 的优势，例如与 x86 相比更高的性价比和更低的功耗。尽管最初存在一些担忧，但过渡只需要 151 行代码。主要变化包括标准化 CPU 架构名称、自动化架构检测、更新 VM 分配逻辑以及集成重要组件的 ARM64 二进制文件。然而，由于 Hetzner 硬件配置不灵活以及需要更正式的二进制构建和版本控制过程，因此出现了挑战。这些问题导致计算和磁盘使用效率低下，并且需要改进其构建和发布管道。如果您有任何问题或反馈，请联系 info@ubicloud.com。]]></description>
+      <guid>https://t.me/hn_summary/91731</guid>
+      <pubDate>Mon, 27 May 2024 16:52:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
