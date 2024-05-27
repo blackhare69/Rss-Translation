@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 May 2024 06:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:08:48 GMT</lastBuildDate>
+    <item>
+      <title>寻找一套适用于 YouTube 频道的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1nc67/looking_for_a_set_of_tools_for_a_youtube_channel/</link>
+      <description><![CDATA[嗨。  我有一个有趣的小众 YouTube 频道创意，与许多新用户一样，它是匿名的，需要文本阅读器和基本动画。也许是一个字幕制作者。 你会推荐什么？最好是免费使用或廉价订阅的工具，因为这只是一种爱好类型的频道😅 谢谢！  PS 对于视频创作来说是全新的，所以我可能也会依赖基本的软件，除非你推荐一些易于使用的软件。    由   提交/u/anima99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1nc67/looking_for_a_set_of_tools_for_a_youtube_channel/</guid>
+      <pubDate>Mon, 27 May 2024 09:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI耳机让你只听人群中一个人的声音</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</link>
+      <description><![CDATA[华盛顿大学的一个团队开发了一种人工智能系统，可以让戴着耳机的用户看着正在说话的人三到五秒钟，然后只听然后，他们的“目标语音听力”应用程序会取消环境中的所有其他声音，并仅实时播放已注册说话者的声音，即使听者在嘈杂的环境中走动也是如此位置并且不再面向扬声器。 在此处阅读更多信息：https://magazine.mindplex.ai/mp_news/ai-headphones-let-you-listen-to-only-a-single-person-in-a-crowd/&lt; /a&gt;    由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</guid>
+      <pubDate>Mon, 27 May 2024 08:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>穿越 NLP 丛林：Google、AWS、IBM、Azure</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lv3f/navigating_the_nlp_jungle_google_vs_aws_vs_ibm_vs/</link>
+      <description><![CDATA[选择正确的自然语言处理 (NLP) 平台就像冒险进入数字荒野。别担心，我们有你的砍刀！本快速指南对四大云提供商（Google、AWS、IBM 和 Azure）进行了比较，以帮助您发现最适合您需求的 NLP 解决方案。 https://www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lv3f/navigating_the_nlp_jungle_google_vs_aws_vs_ibm_vs/</guid>
+      <pubDate>Mon, 27 May 2024 07:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越规则：生成式人工智能与传统人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lqnm/beyond_the_rules_generative_ai_vs_traditional_ai/</link>
+      <description><![CDATA[传统人工智能就像一个勤奋的学生，完美地遵循指示。它擅长处理具有明确规则和指导方针的任务。另一方面，生成式人工智能更像是一种创造性的自由精神，从数据中学习来发明新事物。两种类型的人工智能都非常强大，但适合不同的工作。传统人工智能非常适合解决简单的问题，而生成式人工智能则依靠创造力和创新而蓬勃发展。那么，谁将赢得人工智能竞赛？事实是，这不是竞争，而是合作。人工智能的未来将结合逻辑和想象力，带来突破性的解决方案。 https ://www.seaflux.tech/blogs/generative-ai-industry-scope   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1lqnm/beyond_the_rules_generative_ai_vs_traditional_ai/</guid>
+      <pubDate>Mon, 27 May 2024 07:06:37 GMT</pubDate>
+    </item>
     <item>
       <title>通过 API 根据提示生成线框</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ko7k/generate_wireframes_from_a_prompt_via_api/</link>
@@ -36,30 +64,9 @@
     <item>
       <title>艾未未能否解决师资短缺问题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</link>
-      <description><![CDATA[我记得 90 年代的互联网非常专业化；显然，从那时起，它已经走了这么远。在学习方面，这很棘手。就像有人可能用它来学习如何烹饪冰毒一样；就像人工智能的教学能力——无论它们是什么——如何占据一个最终不会让它走上这条路的位置？   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
+      <description><![CDATA[我记得 90 年代的互联网非常专业；显然，从那时起它已经取得了长足的发展。 只是在学习方面很棘手。比如有人可能会用它来学习如何制作冰毒；比如人工智能的教学能力——无论它们是什么——如何能占据一个不会最终让它走上那条路的位置？    提交人    /u/heavensdumptruck   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1f1mu/could_ai_help_the_teacher_shortage/</guid>
       <pubDate>Mon, 27 May 2024 00:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>从图表中提取分数的人工智能工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cz9i/ai_tool_to_extract_scores_from_a_graph/</link>
-      <description><![CDATA[我正在寻找一种可用于从图表（图像）中提取分数的 AI 工具。有什么建议吗？    提交人    /u/vgideon   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cz9i/ai_tool_to_extract_scores_from_a_graph/</guid>
-      <pubDate>Sun, 26 May 2024 22:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 AI Studio 上批量测试问答流程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cpdm/bulk_testing_on_ai_studio_for_qa_flows/</link>
-      <description><![CDATA[大家好！我目前正在 AI Studio 中进行开发，想要批量测试问答流程（输入 = 聊天历史 - 输入和输出 -，输出 = 预测响应） 事情是：测试它我需要用尽可能多的手动预先制定的问答会话作为输入来详细阐述 jsonl，为此，我需要阅读所有基本事实文档，然后手动输入问题和答案 这不是非常耗时吗？我想我需要创建至少 100 个会话，这样测试才能彻底。我应该在人工智能的帮助下做到这一点吗？您将如何处理此类测试？   由   提交/u/thehelptea  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1cpdm/bulk_testing_on_ai_studio_for_qa_flows/</guid>
-      <pubDate>Sun, 26 May 2024 22:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何免费的人工智能现实文本到语音生成器可以让我导出并且不受时间或字符的限制？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1bmj4/any_free_ai_realistic_text_to_speech_generators/</link>
-      <description><![CDATA[基本上就是标题。我需要它来为学校配音，我很感激帮助。我有一台 Windows 11 笔记本电脑，如果有帮助的话     提交人    /u/ProgressingChad   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1bmj4/any_free_ai_realistic_text_to_speech_generators/</guid>
-      <pubDate>Sun, 26 May 2024 21:25:56 GMT</pubDate>
     </item>
     <item>
       <title>评论：最佳人工智能文章摘要器</title>
@@ -76,14 +83,7 @@
       <pubDate>Sun, 26 May 2024 17:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>Dalle 3 的 AI 艺术👾✨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d15qpl/ai_art_with_dalle_3/</link>
-      <description><![CDATA[ 由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/gallery/1d15oni&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d15qpl/ai_art_with_dalle_3/</guid>
-      <pubDate>Sun, 26 May 2024 16:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>忽视 CoPilot（以及其他 GenAi 生产力增强功能）的公司多久会陷入严重不利地位？</title>
+      <title>忽视 CoPilot（和其他 GenAi 生产力增强功能）的公司多久会陷入严重不利境地？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d13pmb/how_soon_companies_who_ignore_copilot_and_other/</link>
       <description><![CDATA[背景：我在一家大型 B2C 零售商工作，该零售商忽视了对培训和生产力工具的投资。 MS Office 副驾驶就是一个重要的例子。原因是——现在没有用于新服务和许可证的 IT 预算。这对我来说听起来完全是无稽之谈，但我无法联系到负责的总经理。我目前的薪水很高，但我害怕成为一家严重落后于行业的公司的一部分。你认为这种无知能够安全且不受惩罚多久？竞争对手多久才能开始通过更具生产力的劳动力或爱人的间接支出（劳动力成本）或通过能够吸引更好的人才来获得比我们更大的优势？    由   提交/u/snorty_hedgehog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d13pmb/how_soon_companies_who_ignore_copilot_and_other/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
