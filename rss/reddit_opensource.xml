@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 12:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:09:25 GMT</lastBuildDate>
+    <item>
+      <title>从 CLI 合并文件夹</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</link>
+      <description><![CDATA[每当移动具有相同名称的文件夹时，当看到“目录不为空”或“目标已存在”时，我总是会畏缩。然后立即放弃并使用 GUI 文件管理器。 现有的解决方案都有注意事项： mv ./src/* ./dest/  哎呀，没有点文件？！ rsync --remove-sent-files rclone move  rsync 和 rclone 将复制文件以移动它们，当只需要重命名时，这可能会非常慢 因此，我创建了自己的使用 BSD 语法的： pip install xklb library merge-mv folder1 folder2/ # folder1 将进入 folder2 library merge-mv folder1/ folder2/ # folder1 将与 folder2 合并  nb。延续微妙警告的传统：我的程序不会移动/复制空目录，因为它只担心文件...... 代码：https://github.com/chapmanjacobd/library/blob/main/xklb/folders/merge_mv.py    提交人    /u/BuonaparteII   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</guid>
+      <pubDate>Tue, 28 May 2024 14:43:16 GMT</pubDate>
+    </item>
     <item>
       <title>一个开源演示仪表板，显示美国选举新闻中的情绪趋势。由于它是用 JavaScript 和 React 构建的，任何人都可以在 GitHub 上分叉并修改它以比较其他主题的情绪，例如比特币与以太坊或 iPhone 与 Android。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2hhm2/an_opensource_demo_dashboard_that_presents/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交/u/Agreeable_Ad6424   [链接] [评论]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
-      <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
