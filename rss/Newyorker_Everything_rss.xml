@@ -3,8 +3,22 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Tue, 28 May 2024 09:07:55 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Tue, 28 May 2024 12:13:43 GMT</lastBuildDate>
+    <item>
+      <title>不容错过的气候变化图片</title>
+      <link>https://www.newyorker.com/news/daily-comment/images-of-climate-change-that-cannot-be-missed</link>
+      <description><![CDATA[正当我们冒着对危机习以为常的风险时，一场名为“煤炭+冰”的展览令人震惊地号召人们采取行动。]]></description>
+      <guid>https://www.newyorker.com/news/daily-comment/images-of-climate-change-that-cannot-be-missed</guid>
+      <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通往纽约市的所有钥匙</title>
+      <link>https://www.newyorker.com/humor/shouts-murmurs/all-of-the-keys-to-new-york-city</link>
+      <description><![CDATA[生活在这座城市并不总是像在展望公园散步一样。市长的这份礼物将解开它的所有秘密。]]></description>
+      <guid>https://www.newyorker.com/humor/shouts-murmurs/all-of-the-keys-to-new-york-city</guid>
+      <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>拉斯维加斯和夏威夷数十年的浪漫</title>
       <link>https://www.newyorker.com/magazine/2024/06/03/the-decades-long-romance-of-las-vegas-and-hawaii</link>
@@ -41,9 +55,9 @@
       <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>佛蒙特州要求化石燃料公司对气候变化损害承担责任</title>
+      <title>佛蒙特州要求化石燃料公司对气候变化造成的损害承担责任</title>
       <link>https://www.newyorker.com/news/daily-comment/vermont-moves-to-hold-fossil-fuel-companies-liable-for-climate-change-damage</link>
-      <description><![CDATA[一个新的选民愿意对抗大型石油公司（以及天然气和煤炭）：州政府。]]></description>
+      <description><![CDATA[一个新的选区愿意对抗石油巨头（以及天然气和煤炭巨头）：州政府。]]></description>
       <guid>https://www.newyorker.com/news/daily-comment/vermont-moves-to-hold-fossil-fuel-companies-liable-for-climate-change-damage</guid>
       <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -59,20 +73,6 @@
       <link>https://www.newyorker.com/magazine/2024/06/03/behind-the-scenes-of-a-short-lived-broadway-musical</link>
       <description><![CDATA[戏剧导演雷切尔·查夫金 (Rachel Chavkin) 因《冥府》(Hadestown) 等非传统热门作品而闻名。为什么她最新的百老汇项目未能流行？]]></description>
       <guid>https://www.newyorker.com/magazine/2024/06/03/behind-the-scenes-of-a-short-lived-broadway-musical</guid>
-      <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>塞尔吉奥·加西亚·桑切斯的“酷航”</title>
-      <link>https://www.newyorker.com/culture/cover-story/cover-story-2024-06-03</link>
-      <description><![CDATA[艺术家描绘了这座城市即将步入夏季的激动之情。]]></description>
-      <guid>https://www.newyorker.com/culture/cover-story/cover-story-2024-06-03</guid>
-      <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日漫画：5 月 27 日星期一</title>
-      <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-may-27th-holiday-beach</link>
-      <description><![CDATA[神圣的海滩喜剧。]]></description>
-      <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-may-27th-holiday-beach</guid>
       <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
