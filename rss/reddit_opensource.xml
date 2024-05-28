@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 00:35:54 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 28 May 2024 03:10:02 GMT</lastBuildDate>
     <item>
       <title>如何营销 OSS 包</title>
       <link>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -55,9 +55,9 @@
       <pubDate>Mon, 27 May 2024 05:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>remove.bg API 替代方案</title>
+      <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交/u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>很高兴分享 tdlib-rs 的第一个版本 🦀</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</link>
-      <description><![CDATA[嘿伙计们！ 🦀 我们很高兴地告诉您，我们终于发布了 tdlib-rs。 &lt; p&gt;与其他库相比，我们很荣幸带来了这些改进：  它是跨平台的，它可以在 Windows、Linux 和 MacOS 上运行。 不需要 &lt; code&gt;pkg-config 来构建库和关联的导出变量。 不需要在系统上编译和安装 tdlib。 可以从 GitHub 版本下载 tdlib 库。  当我们开始开发时tgt，我们意识到编译电报库（构建说明）不会导致其他开发人员为该项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库，以尽量减少开发 Telegram 客户端或机器人的工作量，因此也 tgt。  p&gt; 欢迎任何改进或贡献！ ❤️‍🔥   由   提交 /u/FedericoBruzzone   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，大家好！ 🦀 我们非常高兴地告诉您，我们终于发布了 tdlib-rs。 与其他库相比，我们很荣幸能够带来以下改进：  它是跨平台的，适用于 Windows、Linux 和 MacOS。 不需要 pkg-config 来构建库和相关的导出变量。 不需要 tdlib 来编译和安装在系统上。 可以从 GitHub 版本中下载 tdlib 库。  当我们开始开发 tgt 时，我们意识到编译电报库（构建说明）不会导致其他开发人员为项目做出贡献，因为构建需要 20 到 30 分钟。 因此，我们决定创建这个库以尽量减少开发电报客户端或机器人的工作量，因此也 tgt。 欢迎任何改进或贡献！❤️‍🔥    提交人    /u/FedericoBruzzone   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1c6xm/happy_to_share_the_first_release_of_tdlibrs/</guid>
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
@@ -97,14 +97,14 @@
       <pubDate>Sun, 26 May 2024 17:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>开源英雄联盟 | 一次尝试</title>
+      <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
       <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>是否有 uad（通用 Android 清理工具）的替代品或更新版本？</title>
+      <title>是否有任何替代或更新的 uad（通用 Android debloater）分支？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</link>
       <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
