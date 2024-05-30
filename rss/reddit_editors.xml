@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 30 May 2024 09:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 12:14:30 GMT</lastBuildDate>
+    <item>
+      <title>創作者</title>
+      <link>https://www.reddit.com/r/editors/comments/1d41aja/creators/</link>
+      <description><![CDATA[您好视频创作者，请分享您的作品集，我想看一些东西     提交人    /u/Peter_Ogola   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d41aja/creators/</guid>
+      <pubDate>Thu, 30 May 2024 10:59:08 GMT</pubDate>
+    </item>
     <item>
       <title>请帮忙！在公司规模设置中使用视频游戏 HEVC Mp4 源材料进行编码/工作流程。</title>
       <link>https://www.reddit.com/r/editors/comments/1d3ykjn/help_please_encodingworkflow_with_video_game_hevc/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://streamable.com/mz9x3s 只是好奇这是否可能。    提交人    /u/Friend_of_the_show   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d2w0tr/is_there_a_way_to_fix_this_footage_flicker_scan/</guid>
       <pubDate>Tue, 28 May 2024 22:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>导出具有不同宽高比的静态图像</title>
-      <link>https://www.reddit.com/r/editors/comments/1d2rclz/exporting_stills_with_different_aspect_ratios/</link>
-      <description><![CDATA[我使用 bmpcc og 拍摄照片，使用 davinci 进行编辑（我知道这非常不合常规，因为它只拍摄视频），但在一个项目中，我可以导出 1.77、1.33 或 2.35 的静态图像，而且我总是在不同的输出消隐之间切换。就我而言，输出消隐不会影响图像，它只是一种以所需比例查看图像的方式。有没有办法让我导出静态图像并保持不同的宽高比，而无需每次都更改时间线分辨率？    提交人    /u/mu31a   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d2rclz/exporting_stills_with_different_aspect_ratios/</guid>
-      <pubDate>Tue, 28 May 2024 18:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
