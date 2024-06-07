@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Jun 2024 03:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 06:13:35 GMT</lastBuildDate>
+    <item>
+      <title>睡眠故事</title>
+      <link>https://www.producthunt.com/posts/sleepytales</link>
+      <description><![CDATA[
+让 AI 阅读和编写个性化的睡前故事
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sleepytales</guid>
+      <pubDate>Thu, 06 Jun 2024 05:55:33 GMT</pubDate>
+    </item>
     <item>
       <title>僧侣模式</title>
       <link>https://www.producthunt.com/posts/monk-mode-4</link>
@@ -76,18 +90,18 @@ Go Eliza 使用 AI 协商更优惠的酒店交易
       <pubDate>Wed, 05 Jun 2024 15:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>里弗</title>
-      <link>https://www.producthunt.com/posts/riffo</link>
+      <title>稳定的</title>
+      <link>https://www.producthunt.com/posts/syfly-2</link>
       <description><![CDATA[
-AI 重命名以整理杂乱的文件
+值得信赖的合作伙伴，简化数据存储和轻松共享 
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/riffo</guid>
-      <pubDate>Tue, 04 Jun 2024 14:28:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/syfly-2</guid>
+      <pubDate>Tue, 04 Jun 2024 14:41:38 GMT</pubDate>
     </item>
     <item>
       <title>完美维基</title>
@@ -121,7 +135,7 @@ AI 重命名以整理杂乱的文件
       <title>FlowMapp 3.0</title>
       <link>https://www.producthunt.com/posts/flowmapp-3-0</link>
       <description><![CDATA[
-最强大的可视化网站规划方式
+最有效的可视化网站规划方法
 
 
 讨论
@@ -144,20 +158,6 @@ AI 重命名以整理杂乱的文件
 ]]></description>
       <guid>https://www.producthunt.com/posts/feedback-navigator</guid>
       <pubDate>Mon, 03 Jun 2024 12:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据按钮</title>
-      <link>https://www.producthunt.com/posts/databutton</link>
-      <description><![CDATA[
-让 AI 构建您的下一个 SaaS 应用程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/databutton</guid>
-      <pubDate>Wed, 29 May 2024 07:38:00 GMT</pubDate>
     </item>
     <item>
       <title>艾纳韦</title>
