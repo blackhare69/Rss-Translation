@@ -4,7 +4,14 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 13 Jun 2024 15:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:10:00 GMT</lastBuildDate>
+    <item>
+      <title>格兰德河的衰落</title>
+      <link>https://www.newyorker.com/news/letter-from-the-southwest/the-decline-of-the-rio-grande</link>
+      <description><![CDATA[一旦水资源耗尽，就别无选择了。德克萨斯州最贫困的地区之一面临着不确定的未来。]]></description>
+      <guid>https://www.newyorker.com/news/letter-from-the-southwest/the-decline-of-the-rio-grande</guid>
+      <pubDate>Thu, 13 Jun 2024 16:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>每日漫画：6 月 13 日，星期四</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-june-13th-gravity-almost</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[泄露的文件让人们得以一窥谷歌搜索的内部运作，而且与该公司的公开声明相矛盾。]]></description>
       <guid>https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet</guid>
       <pubDate>Wed, 12 Jun 2024 16:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿利托、罗伯茨和托马斯看海</title>
-      <link>https://www.newyorker.com/cartoons/blitts-kvetchbook/alito-roberts-and-thomas-see-the-sea</link>
-      <description><![CDATA[最高法院的夏季休会。]]></description>
-      <guid>https://www.newyorker.com/cartoons/blitts-kvetchbook/alito-roberts-and-thomas-see-the-sea</guid>
-      <pubDate>Wed, 12 Jun 2024 16:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
