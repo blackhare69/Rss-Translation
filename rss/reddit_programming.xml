@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 17 Jun 2024 21:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 00:37:05 GMT</lastBuildDate>
+    <item>
+      <title>游戏开发新手</title>
+      <link>https://www.reddit.com/r/programming/comments/1didl7n/new_to_game_development/</link>
+      <description><![CDATA[嘿，我对游戏开发非常感兴趣，所以我报名参加了哈佛 CS50 的游戏开发入门课程，但我真的很紧张，我什么都不知道，你们能帮帮我吗，在这里结交可以帮助和指导我新旅程的朋友，祝你平安🐝    提交人    /u/Mysteriouslazygirl   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1didl7n/new_to_game_development/</guid>
+      <pubDate>Tue, 18 Jun 2024 00:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站 | 尚未完成，但正在进行中。希望扩大规模，如果有人感兴趣，我不介意合作</title>
+      <link>https://www.reddit.com/r/programming/comments/1did6dr/my_site_not_finished_but_in_progress_looking_to/</link>
+      <description><![CDATA[  由    /u/bizyybeinme  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1did6dr/my_site_not_finished_but_in_progress_looking_to/</guid>
+      <pubDate>Tue, 18 Jun 2024 00:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 基础知识：pygame 和课程直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1dicyr1/basics_of_python_pygame_and_classes_live_stream/</link>
+      <description><![CDATA[  由    /u/whitechoc6  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dicyr1/basics_of_python_pygame_and_classes_live_stream/</guid>
+      <pubDate>Tue, 18 Jun 2024 00:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 中比较 BigDecimals 的陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1dib0wz/pitfalls_of_comparing_bigdecimals_in_java/</link>
+      <description><![CDATA[  由    /u/Igor_Victor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dib0wz/pitfalls_of_comparing_bigdecimals_in_java/</guid>
+      <pubDate>Mon, 17 Jun 2024 22:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>美国软件开发人员的就业率自疫情爆发前就一直处于下降趋势</title>
       <link>https://www.reddit.com/r/programming/comments/1di8pe9/us_employment_of_software_developers_is_in/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/RepresentativeAd9081  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1di0syo/a_new_technique_to_manage_internal_state_of/</guid>
       <pubDate>Mon, 17 Jun 2024 15:26:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么家庭测试很糟糕：开发人员对招聘实践的看法</title>
-      <link>https://www.reddit.com/r/programming/comments/1di0poa/why_take_home_tests_suck_a_developers_perspective/</link>
-      <description><![CDATA[  由    /u/superc0w  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1di0poa/why_take_home_tests_suck_a_developers_perspective/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>整体应用程序设计：构建更好应用程序的数据驱动方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1di0ld7/wholistic_application_design_a_datadriven/</link>
-      <description><![CDATA[  由    /u/vehiclestars  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1di0ld7/wholistic_application_design_a_datadriven/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>“jj [] 自称是‘一个简单而强大的 Git 兼容 VCS’。这是自贬身价。选择 jj 是我十多年来对开发人员工作流程做出的最佳改变。”</title>
-      <link>https://www.reddit.com/r/programming/comments/1di0ig2/jj_describes_itself_as_being_a_gitcompatible_vcs/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1di0ig2/jj_describes_itself_as_being_a_gitcompatible_vcs/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>dev 分支模式的使用和滥用</title>
-      <link>https://www.reddit.com/r/programming/comments/1di0eyj/the_use_and_abuse_of_the_dev_branch_pattern/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1di0eyj/the_use_and_abuse_of_the_dev_branch_pattern/</guid>
-      <pubDate>Mon, 17 Jun 2024 15:10:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
