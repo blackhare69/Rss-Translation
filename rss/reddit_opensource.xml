@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 18 Jun 2024 21:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:37:01 GMT</lastBuildDate>
     <item>
       <title>寻找开源报告生成器</title>
       <link>https://www.reddit.com/r/opensource/comments/1dj0ko1/looking_for_open_source_report_builder/</link>
@@ -99,7 +99,7 @@
     <item>
       <title>tenv - OpenTofu / Terraform / Terragrunt 和 Atmos 版本管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1di7vut/tenv_opentofu_terraform_terragrunt_and_atmos/</link>
-      <description><![CDATA[欢迎使用 tenv，这是一个用 Go 编写的多功能版本管理器，适用于 OpenTofu、Terraform、Terragrunt 和 Atmos。我们的工具简化了处理这些强大工具的不同版本的复杂性，确保开发人员和 DevOps 专业人员可以专注于最重要的事情 - 高效构建和部署。 tenv 是 tofuenv 和 tfenv 的后继者。 链接到 tenv：https://github.com/tofuutils/tenv    提交人    /u/kvendingoldo   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎使用 tenv，这是一个用 Go 编写的多功能版本管理器，适用于 OpenTofu、Terraform、Terragrunt 和 Atmos。我们的工具简化了处理这些强大工具的不同版本的复杂性，确保开发人员和 DevOps 专业人员可以专注于最重要的事情 - 高效构建和部署。 tenv 是 tofuenv 和 tfenv 的后继者。 tenv 链接：https://github.com/tofuutils/tenv    提交人    /u/kvendingoldo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1di7vut/tenv_opentofu_terraform_terragrunt_and_atmos/</guid>
       <pubDate>Mon, 17 Jun 2024 20:19:32 GMT</pubDate>
     </item>
