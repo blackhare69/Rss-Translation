@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:34:33 GMT</lastBuildDate>
     <item>
-      <title>Ilya Sutskever 及其联合创始人推出 Safe Superintelligence</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djps7a/ilya_sutskever_cofounders_launch_safe/</link>
-      <description><![CDATA[       由    /u/CamC3000  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djps7a/ilya_sutskever_cofounders_launch_safe/</guid>
-      <pubDate>Wed, 19 Jun 2024 18:07:24 GMT</pubDate>
+      <title>公司能否通过“私有”/本地虚拟计算来降低成本？或者计算资源成本是否超过收益？例如，GPT 3.5 或 4.0 API 与本地/内部部署/云 LLM（例如 Llama3）的成本</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djymcu/can_companies_reduce_costs_through_private_local/</link>
+      <description><![CDATA[我很好奇大公司是否可以通过实施私有/开源来减少在 LLM/GPT 上的支出。例如，在公司的虚拟基础架构中运行 Llama3 模型的成本是否低于使用 ChatGPT API 模型？或者，在本地托管某些东西的计算资源是否比仅使用 API 的成本更高？谢谢！    提交人    /u/Plastic-Educator-129   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djymcu/can_companies_reduce_costs_through_private_local/</guid>
+      <pubDate>Thu, 20 Jun 2024 00:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是货币编码的终结吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djpnow/is_ai_the_end_of_coding_money/</link>
-      <description><![CDATA[        提交人    /u/dotcomgeek   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djpnow/is_ai_the_end_of_coding_money/</guid>
-      <pubDate>Wed, 19 Jun 2024 18:02:32 GMT</pubDate>
+      <title>无聊的时候我想到了一个问题。我对答案很感兴趣。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djyhvr/out_of_boredom_i_thought_of_a_question_im/</link>
+      <description><![CDATA[        提交人    /u/Cordereko   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djyhvr/out_of_boredom_i_thought_of_a_question_im/</guid>
+      <pubDate>Thu, 20 Jun 2024 00:25:18 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Chat GPT 很懒惰？以及如何解决它？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djpnjv/why_is_chat_gpt_lazy_and_how_to_fix_it/</link>
-      <description><![CDATA[我需要从 PDF 中提取信息。 我一定要告诉它，它需要包含每个条目！ 它通常完成约 50% 后就会停止。如果我要求它包含更多信息，它只会创建虚假信息。 如何停止强迫性说谎和懒惰    提交人    /u/meerjat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djpnjv/why_is_chat_gpt_lazy_and_how_to_fix_it/</guid>
-      <pubDate>Wed, 19 Jun 2024 18:02:24 GMT</pubDate>
+      <title>无聊的时候我想到了一个问题。我对答案很感兴趣。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djyhse/out_of_boredom_i_thought_of_a_question_im/</link>
+      <description><![CDATA[        提交人    /u/Cordereko   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djyhse/out_of_boredom_i_thought_of_a_question_im/</guid>
+      <pubDate>Thu, 20 Jun 2024 00:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>5.0 选择然后消失了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djpim3/50_selection_then_disappears/</link>
-      <description><![CDATA[截至太平洋夏令时间上午 10:30，当我强行关闭应用程序并打开它时，GPT 选择从 5.0 开始，然后立即消失为 4o。我以为我可能读错了 3.5，但事实并非如此。我试了几次。我知道 OAI 不会在 4o 刚刚发布的情况下发布 5.0，尤其是在没有所有新功能的情况下，所以我想知道是什么导致了这个故障？API 方面是否有类似的模型选择？（她说得好像她甚至知道 API 是什么……）他们只是想炒作我们吗？我希望我可以截取它的屏幕截图，但它在一纳秒内出现和消失时，我实在太慢了。还有人看到这个吗？ 编辑：我也看到了 4.5？这已经讨论过了吗？   由    /u/biglybiglytremendous  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djpim3/50_selection_then_disappears/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:56:44 GMT</pubDate>
+      <title>为小型企业提供持久、针对特定项目的人工智能助理</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djxvst/persistent_projectspecific_ai_assistants_for/</link>
+      <description><![CDATA[作为一家小企业主，我需要一个用户友好且经济高效的解决方案来创建和管理具有持久内存和持续学习功能的多个 AI 助手。这些助手应针对特定项目进行量身定制，例如：  用于日历管理的个人助理 新产品概念的创意生成器  理想的平台应该允许我轻松组织和访问这些特定于项目的 AI 助手，并根据其指定用例配置和维护每个助手。该解决方案必须在高级 AI 功能（如持久语言模型和持续学习）与技术资源有限的小型企业的可访问性之间取得平衡。 ChatGPT 是否适合这种用例，还是我应该考虑其他东西？    提交人    /u/DisciplinedDumbass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djxvst/persistent_projectspecific_ai_assistants_for/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 是否为您制作了可以为您带来一些现金的产品？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djp8sk/does_chatgpt_made_product_for_you_which_has_bring/</link>
-      <description><![CDATA[ChatGPT 是否为您制作了可以为您带来一些现金的产品？    提交人    /u/Fit_Leg_3871   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djp8sk/does_chatgpt_made_product_for_you_which_has_bring/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:45:09 GMT</pubDate>
+      <title>PERPLEXITY AI PRO：大型促销活动包括 GPT4Turbo 和 Dalle-3</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djxsus/perplexity_ai_pro_massive_promo_includes/</link>
+      <description><![CDATA[      此优惠可通过德国公司 T-mobile (Magneta)（也称为 Deutche Telecom）获得 证明：https://www.perplexity.ai/join/p/magenta  优惠可在全球范围内领取，否则我们退款。 我们拥有一家大型 AI 商店，同时销售 Chatgpt 和困惑的产品。 对于任何怀疑该服务的人，我们都已准备好在付款前交付（对于拥有旧帐户的非常高业力的redditors 我们接受PayPal，它可以保护卖家和加密货币以保护订单的隐私：访问照片中的网站     提交人    /u/Verza-   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djxsus/perplexity_ai_pro_massive_promo_includes/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:51:43 GMT</pubDate>
     </item>
     <item>
-      <title>对“耶稣真实存在吗？”这个问题的回答</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djp7o9/a_response_to_the_question_of_is_jesus_real/</link>
-      <description><![CDATA[    /u/Generic_username1962   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djp7o9/a_response_to_the_question_of_is_jesus_real/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:43:52 GMT</pubDate>
+      <title>:(</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djxlwl/_/</link>
+      <description><![CDATA[        提交人    /u/Chtwo   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djxlwl/_/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>没理解我的双关语😐</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djp17x/doesnt_get_my_puns/</link>
-      <description><![CDATA[        提交人    /u/Key-Process3905   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djp17x/doesnt_get_my_puns/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:36:34 GMT</pubDate>
+      <title>是我的问题还是 Chat-GPT 坏了？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djwzkz/is_it_me_or_is_chatgpt_broken/</link>
+      <description><![CDATA[出于某种原因，它拒绝了我的所有要求，比如我要求它为我想制作的网络剧制作一场史诗般的战斗场景，但它拒绝了，因为“暴力不好”。当我要求它制作一条替代时间线时，它拒绝了，因为它有敏感主题。  这些也不是超级 R 级的东西或奇怪的色情片，它们只是基本的东西。  发生了什么事？    提交人    /u/The_X-Devil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djwzkz/is_it_me_or_is_chatgpt_broken/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:13:52 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯特拉……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djp0hw/astra/</link>
-      <description><![CDATA[      很多想法、内容和对话都丢失了。无法恢复。     由    /u/Stephani2104   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djp0hw/astra/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:35:42 GMT</pubDate>
+      <title>是我疯了吗，还是 booking.com 真的在使用 AI 在 Facebook 上投放广告？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djwpzf/am_i_crazy_or_is_bookingcom_using_ai_for_its/</link>
+      <description><![CDATA[        由    /u/L1ng  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djwpzf/am_i_crazy_or_is_bookingcom_using_ai_for_its/</guid>
+      <pubDate>Wed, 19 Jun 2024 23:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>翻译得好！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djoxk0/translation_got_good/</link>
-      <description><![CDATA[        提交人    /u/gaspoweredcat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djoxk0/translation_got_good/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:32:16 GMT</pubDate>
+      <title>亲身体验新款 copilot+ PC：半生不熟。缺乏第一方支持。需要尽快改进</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djwevi/handson_with_a_new_copilot_pc_halfbaked_lacking/</link>
+      <description><![CDATA[      https://preview.redd.it/6uq8ph0gxl7d1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=0bf2bc4a1e3864ddd6aa5dbe99edbf06edcaf6ae 这是在 MS Office Word 中执行高度具体和技术性提示时任务管理器的屏幕截图，大约需要五分钟。事实证明，您的 NPU 上当前唯一运行的就是显示的少数东西 - 图像协同创建或其他东西。他们展示的一些东西甚至还没有真正设置好，包括 clipchamp（MS 产品）和 liquidtext（据称使用 AI 但目前并未使用的第三方应用程序）。目前微软内部没有其他对本地 NPU 处理的支持。 这里相当失望。即使没有 Recall 和高级自定义 GPT 这样的功能，我仍然希望能够增强我机器上的处理能力（从而更快地执行任务）将彻底改变我的工作流程。但事实证明，如果您不需要视频通话的自动翻译或图像创建功能，那么在发布当天，微软绝对不会为他们自己的 Copilot+ 硬件提供任何支持。一旦 Recall 问世，它应该是一个很大的改进，但在那之前，我的笔记本电脑中有一个完全未使用的处理器。    提交人    /u/wheeshnaw   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djwevi/handson_with_a_new_copilot_pc_halfbaked_lacking/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:47:53 GMT</pubDate>
     </item>
     <item>
-      <title>Darkest Rat Energy（新音乐视频，艺术由 ChatGPT 创作，歌词由我创作，音乐由 suno 制作）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djov9r/darkest_rat_energy_new_music_video_art_by_chatgpt/</link>
-      <description><![CDATA[    /u/PlasmoTV 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djov9r/darkest_rat_energy_new_music_video_art_by_chatgpt/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:29:43 GMT</pubDate>
+      <title>AGI 与母乳</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djwd4c/agi_vs_asi/</link>
+      <description><![CDATA[有人能帮忙解释一下 AGI 和 ASI 之间的主要区别吗？我想知道为什么社交媒体上的主流叙事最近开始从 AGI 转向 ASI。    提交人    /u/BeautifulSecure4058   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djwd4c/agi_vs_asi/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT（3.5）是否变得更糟了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djoqrt/is_chatgpt_35_getting_worse/</link>
-      <description><![CDATA[今天早些时候，我试图（重新）制作一个情节，该情节围绕一个角色被诬陷犯下他们没有犯下的破坏行为展开。一切都进行得很顺利，但在聊天进行了 30 分钟左右时，当我说“与此同时，在市中心的实验室里，一名邪恶的科学家命令他的冒名顶替播音员破坏这个地方。”，但当我尝试重新生成它时，它说“我很抱歉，但我无法提供帮助。” 更糟糕的是，几周/几个月前，在存档聊天中的故事情节的早期修订中，我没有这些限制。 有人知道是什么原因造成的吗？    提交人    /u/FanOfYoshi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djoqrt/is_chatgpt_35_getting_worse/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:24:24 GMT</pubDate>
+      <title>尝试从 1600 张图片中提取文本 - 使用了 GPT 和 Python - GPT 是唯一成功的，但它的批次限制为 10 个，并且有速率限制</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djwc6o/trying_to_pull_text_from_1600_images_have_used/</link>
+      <description><![CDATA[正如标题所说。  是否有插件或任何可以用来解析这些图像数据的东西？ GPT 可以毫无问题地做到这一点，但我的速率受到限制。 这些不是复杂的图像。结构非常好，我只是提取 &quot;名称&quot;、&quot;月收入&quot;、&quot;州&quot;、&quot;国家&quot; 没什么疯狂的。 我试过使用 pytesseract - 但它很难准确地做到这一点 - 这可能是我的错，因为我对 Python 非常熟悉并且仍在学习。 有什么想法吗？     提交人    /u/AccomplishedMail5788   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djwc6o/trying_to_pull_text_from_1600_images_have_used/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>伯特和厄尼模仿约翰和洋子“为和平而卧床”的风格</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djopvn/bert_and_ernie_in_bed_in_the_style_of_john_and/</link>
-      <description><![CDATA[我无法让 ChatGPT 为我生成此内容。我一直收到内容政策错误。 我想知道你们中是否有人对如何生成此内容有任何提示？    提交人    /u/Professional-Age-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djopvn/bert_and_ernie_in_bed_in_the_style_of_john_and/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:23:16 GMT</pubDate>
+      <title>我让 ChatGPT 给我展示一张我应该买什么才能让我开心的图片</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djw9am/i_asked_chatgpt_to_show_me_image_of_the_thing_i/</link>
+      <description><![CDATA[        提交人    /u/Algoartist   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djw9am/i_asked_chatgpt_to_show_me_image_of_the_thing_i/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>图像生成是否出现问题？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djopmn/is_the_image_generation_broken/</link>
-      <description><![CDATA[        提交人    /u/derkaputtmacher   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djopmn/is_the_image_generation_broken/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:22:58 GMT</pubDate>
+      <title>ChatGPT Plus 的文件数量和数据分析的限制是多少？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djvxvj/what_is_the_limit_for_number_of_files_and_data/</link>
+      <description><![CDATA[如果我订阅 ChatGPT Plus，我可以上传多少个不同的文件，并且是否存在“数据分析限制”？    提交人    /u/6cumsock9   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djvxvj/what_is_the_limit_for_number_of_files_and_data/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:26:52 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚问过 Chad 我们如何才能捐钱并获得 Richi Sky TV</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djojpq/just_asked_chad_how_we_can_all_chip_in_and_get/</link>
-      <description><![CDATA[        提交人    /u/K_3_S_S   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djojpq/just_asked_chad_how_we_can_all_chip_in_and_get/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:16:00 GMT</pubDate>
+      <title>你以为割草机视频令人不安。你还没见识过什么。视频人工智能是诅咒的无限来源</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djvski/you_thought_the_lawnmower_video_was_disturbing/</link>
+      <description><![CDATA[  由    /u/JoeZocktGames  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djvski/you_thought_the_lawnmower_video_was_disturbing/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:20:25 GMT</pubDate>
     </item>
     <item>
-      <title>Ilya 创办了一家新公司 Safe Superintelligence Inc.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1djob9s/ilya_starting_a_new_company_safe/</link>
-      <description><![CDATA[https://x.com/ilyasut/status/1803472978753303014?s=19 超级智能触手可及。 构建安全超级智能 (SSI) 是我们这个时代最重要的技术问题。 我们已经启动了世界上第一个直线 SSI 实验室，其目标和产品只有一个：安全超级智能。 它被称为 Safe Superintelligence Inc. SSI 是我们的使命、我们的名字以及我们整个产品路线图，因为它是我们唯一的关注点。我们的团队、投资者和商业模式都致力于实现 SSI。 我们将安全性和能力并驾齐驱，将其视为需要通过革命性的工程和科学突破来解决的技术问题。我们计划尽快提升能力，同时确保我们的安全性始终处于领先地位。 这样，我们就可以安心地扩大规模。 我们的单一焦点意味着不会受到管理费用或产品周期的干扰，我们的商业模式意味着安全性、保障性和进步都不受短期商业压力的影响。 我们是一家美国公司，在帕洛阿尔托和特拉维夫设有办事处，我们在那里有着深厚的根基，并有能力招募顶尖的技术人才。 我们正在组建一支精干的团队，由世界上最优秀的工程师和研究人员组成，他们专注于 SSI，别无其他。 如果那就是你，我们将提供一个机会，让你做你一生的工作，帮助解决我们这个时代最重要的技术挑战。 现在是时候了。加入我们。 Ilya Sutskever、Daniel Gross、Daniel Levy 2024 年 6 月 19 日    由    /u/fli_sai 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1djob9s/ilya_starting_a_new_company_safe/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:05:54 GMT</pubDate>
+      <title>人工智能正在毁灭互联网吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1djvos4/is_ai_ruining_the_internet/</link>
+      <description><![CDATA[我认为对这个话题保持沉默是不负责任的。但人工智能并非一切都像投资者和大师们希望你相信的那样积极。 你可能已经注意到，在过去的几年里，互联网上充斥着垃圾内容，随着生成式人工智能的出现，这个问题只会越来越严重。你很清楚我在说什么：SEO 联盟营销垃圾邮件、宣传机器人、假书作家和彻头彻尾的非法诈骗。 我是一名 29 岁的 .NET 全栈 Web 开发人员和 CompTIA A+ 专家，总部位于加利福尼亚州萨克拉门托，我正在寻找生成式人工智能所带来的问题的解决方案。有人有兴趣加入我在 Skool 上的 AI Spam Buster 社区吗？ https://www.skool.com/ai-spambuster-5365/about 如违反规则，请删除。  祝你有美好的一天！    提交人    /u/FinancialIlliterate   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1djvos4/is_ai_ruining_the_internet/</guid>
+      <pubDate>Wed, 19 Jun 2024 22:15:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
